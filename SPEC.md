@@ -13,8 +13,6 @@
 | 実行時刻 | 毎日 午前6時 JST（cron: `0 21 * * *` UTC） |
 | 実行環境 | Claude Code リモートエージェント（Anthropicクラウド・PC不要） |
 | 実行モデル | claude-haiku-4-5 |
-| ルーティンID | `trig_014qYYVhpEBfaQN1sMtztD1U` |
-| ルーティン管理URL | https://claude.ai/code/routines/trig_014qYYVhpEBfaQN1sMtztD1U |
 | 使用ツール | Bash, Read, Write, Edit, Glob, Grep, WebFetch, WebSearch |
 
 ---
