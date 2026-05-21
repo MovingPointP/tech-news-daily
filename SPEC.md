@@ -15,7 +15,7 @@
 | 実行モデル | claude-haiku-4-5 |
 | ルーティンID | `trig_014qYYVhpEBfaQN1sMtztD1U` |
 | ルーティン管理URL | https://claude.ai/code/routines/trig_014qYYVhpEBfaQN1sMtztD1U |
-| 使用ツール | Bash, Read, Write, Edit, Glob, Grep, WebFetch |
+| 使用ツール | Bash, Read, Write, Edit, Glob, Grep, WebFetch, WebSearch |
 
 ---
 
@@ -34,6 +34,7 @@
 
 | 項目 | 設定 |
 |---|---|
+| WebFetch失敗時 | WebSearchにフォールバックして記事を取得する |
 | 言語 | 日本語 |
 | 長さ | 5〜6文 |
 | 改行 | 読みやすくなるよう文の区切りで適切に改行を入れる |
