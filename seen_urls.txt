@@ -1,20 +1,40 @@
-2026-05-21 https://news.ycombinator.com/item?id=48168626
-2026-05-21 https://news.ycombinator.com/item?id=48204770
-2026-05-21 https://news.ycombinator.com/item?id=48147793
-2026-05-21 https://news.ycombinator.com/item?id=48143284
-2026-05-21 https://news.ycombinator.com/item?id=47817581
-2026-05-21 https://zenn.dev/cadp/articles/f8c5d9b8d1457e
-2026-05-21 https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
-2026-05-21 https://zenn.dev/yuukikawabata/articles/cursor-composer-2-5
-2026-05-21 https://zenn.dev/7788/articles/af11fbce6c3379
-2026-05-21 https://zenn.dev/karamage/articles/26ca9b6f217797
-2026-05-21 https://qiita.com/mori790/items/8f3b9dcefdd62a014fe3
-2026-05-21 https://qiita.com/YushiYamamoto/items/9845784d14428db90fce
-2026-05-21 https://qiita.com/niimim/items/8fc8e7698ae30a87fcbc
-2026-05-21 https://qiita.com/sadabon444/items/b5a7d69109d39ca0a587
-2026-05-21 https://qiita.com/ishisaka/items/64dcfc45029f1205c818
-2026-05-21 https://dev.to/mashrulhaque/2026-developer-predictions-why-coding-gets-better-4hpl
-2026-05-21 https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
-2026-05-21 https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl
-2026-05-21 https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
-2026-05-21 https://dev.to/ciphernutz/top-10-emerging-developer-tools-to-watch-in-2026-561b
+1	2026-05-21 https://news.ycombinator.com/item?id=48168626
+2	2026-05-21 https://news.ycombinator.com/item?id=48204770
+3	2026-05-21 https://news.ycombinator.com/item?id=48147793
+4	2026-05-21 https://news.ycombinator.com/item?id=48143284
+5	2026-05-21 https://news.ycombinator.com/item?id=47817581
+6	2026-05-21 https://zenn.dev/cadp/articles/f8c5d9b8d1457e
+7	2026-05-21 https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
+8	2026-05-21 https://zenn.dev/yuukikawabata/articles/cursor-composer-2-5
+9	2026-05-21 https://zenn.dev/7788/articles/af11fbce6c3379
+10	2026-05-21 https://zenn.dev/karamage/articles/26ca9b6f217797
+11	2026-05-21 https://qiita.com/mori790/items/8f3b9dcefdd62a014fe3
+12	2026-05-21 https://qiita.com/YushiYamamoto/items/9845784d14428db90fce
+13	2026-05-21 https://qiita.com/niimim/items/8fc8e7698ae30a87fcbc
+14	2026-05-21 https://qiita.com/sadabon444/items/b5a7d69109d39ca0a587
+15	2026-05-21 https://qiita.com/ishisaka/items/64dcfc45029f1205c818
+16	2026-05-21 https://dev.to/mashrulhaque/2026-developer-predictions-why-coding-gets-better-4hpl
+17	2026-05-21 https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+18	2026-05-21 https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl
+19	2026-05-21 https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
+20	2026-05-21 https://dev.to/ciphernutz/top-10-emerging-developer-tools-to-watch-in-2026-561b
+21	2026-05-22 https://news.ycombinator.com/item?id=48174920
+22	2026-05-22 https://news.ycombinator.com/item?id=48139148
+23	2026-05-22 https://news.ycombinator.com/item?id=48153379
+24	2026-05-22 https://news.ycombinator.com/item?id=48212242
+25	2026-05-22 https://news.ycombinator.com/item?id=48214558
+26	2026-05-22 https://zenn.dev/tkithrta/articles/0008ce0d1b5250
+27	2026-05-22 https://zenn.dev/collabostyle/articles/858875b235cdd6
+28	2026-05-22 https://zenn.dev/h_yoshikawa0724/articles/2026-02-22-developers-summit-2026
+29	2026-05-22 https://zenn.dev/pppp303/articles/weekly_ai_20260426
+30	2026-05-22 https://zenn.dev/softbank/articles/a04d7a8d138b6d
+31	2026-05-22 https://qiita.com/syunichisato51/items/5ef960dc6d9abe2c16e6
+32	2026-05-22 https://qiita.com/ktrk2002/items/c8ed058644beb0023b8a
+33	2026-05-22 https://qiita.com/yut-nagase/items/eb3b189d0c232f7c569e
+34	2026-05-22 https://qiita.com/q07025a/items/bbb28619653695235e43
+35	2026-05-22 https://qiita.com/555hamano/items/9d3737288985a62b5e33
+36	2026-05-22 https://dev.to/kevinccbsg/frontend-with-ai-workflow-first-agent-second-3hmo
+37	2026-05-22 https://dev.to/highflyer910/modern-web-guidance-teaching-ai-agents-to-stop-coding-like-its-2019-508b
+38	2026-05-22 https://dev.to/youichi11/2026nian-ban-aiezientokai-fa-nibi-xu-noopunsosugithubripozitori10xuan-4ja3
+39	2026-05-22 https://dev.to/nakamura_takuya/xian-yi-enziniagaxuan-bu2025nian-bi-xu-kai-fa-turuidekaraaimade-66d
+40	2026-05-22 https://dev.to/waterlily_0f365e5fadded0f/2025nian-puroguramabi-xi-si-gaxuan-buaituru10noshen-qi-dehitoritimubao-dan-35c6
