@@ -38,3 +38,23 @@
 38	2026-05-22 https://dev.to/youichi11/2026nian-ban-aiezientokai-fa-nibi-xu-noopunsosugithubripozitori10xuan-4ja3
 39	2026-05-22 https://dev.to/nakamura_takuya/xian-yi-enziniagaxuan-bu2025nian-bi-xu-kai-fa-turuidekaraaimade-66d
 40	2026-05-22 https://dev.to/waterlily_0f365e5fadded0f/2025nian-puroguramabi-xi-si-gaxuan-buaituru10noshen-qi-dehitoritimubao-dan-35c6
+2026-05-23 https://www.aikido.dev/blog/supply-chain-attack-targets-laravel-lang-packages-with-credential-stealer
+2026-05-23 https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/
+2026-05-23 https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html
+2026-05-23 https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/
+2026-05-23 https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/
+2026-05-23 https://zenn.dev/meijin/articles/ai-agent-core-understanding-code
+2026-05-23 https://zenn.dev/mkj/articles/782275ebd8fc5c
+2026-05-23 https://zenn.dev/aircloset/articles/72c3f985fae9b4
+2026-05-23 https://zenn.dev/ai_nexus/articles/ai-agents-design-patterns
+2026-05-23 https://zenn.dev/miyan/articles/ai-code-agent-governance-design-2026
+2026-05-23 https://qiita.com/official-campaigns/conference/2026
+2026-05-23 https://qiita.com/Qiita/items/616e8f6d4f69bd582ab5
+2026-05-23 https://qiita.com/papasim824/items/47a221eed3ff2428663c
+2026-05-23 https://qiita.com/Qiita/items/b5c1550c969776b65b9b
+2026-05-23 https://qiita.com/Qiita/items/4dedcbcd1e016ca63b29
+2026-05-23 https://dev.to/zenieverse/google-io-2026-the-shift-from-prompting-to-acting-3f2j
+2026-05-23 https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6
+2026-05-23 https://dev.to/vishal_veerareddy_9cdd17d/what-is-google-gemini-spark-a-deep-dive-into-googles-247-personal-ai-agent-3iji
+2026-05-23 https://dev.to/uddhav_bhople/gemini-spark-changed-how-i-think-about-agents-and-i-havent-even-used-it-yet-4i1b
+2026-05-23 https://dev.to/megberts/google-io-just-made-mcp-inevitable-1abf
