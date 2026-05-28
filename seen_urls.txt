@@ -1,117 +1,3 @@
-2026-05-21 https://news.ycombinator.com/item?id=48168626
-2026-05-21 https://news.ycombinator.com/item?id=48204770
-2026-05-21 https://news.ycombinator.com/item?id=48147793
-2026-05-21 https://news.ycombinator.com/item?id=48143284
-2026-05-21 https://news.ycombinator.com/item?id=47817581
-2026-05-21 https://zenn.dev/cadp/articles/f8c5d9b8d1457e
-2026-05-21 https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
-2026-05-21 https://zenn.dev/yuukikawabata/articles/cursor-composer-2-5
-2026-05-21 https://zenn.dev/7788/articles/af11fbce6c3379
-2026-05-21 https://zenn.dev/karamage/articles/26ca9b6f217797
-2026-05-21 https://qiita.com/mori790/items/8f3b9dcefdd62a014fe3
-2026-05-21 https://qiita.com/YushiYamamoto/items/9845784d14428db90fce
-2026-05-21 https://qiita.com/niimim/items/8fc8e7698ae30a87fcbc
-2026-05-21 https://qiita.com/sadabon444/items/b5a7d69109d39ca0a587
-2026-05-21 https://qiita.com/ishisaka/items/64dcfc45029f1205c818
-2026-05-21 https://dev.to/mashrulhaque/2026-developer-predictions-why-coding-gets-better-4hpl
-2026-05-21 https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
-2026-05-21 https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl
-2026-05-21 https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
-2026-05-21 https://dev.to/ciphernutz/top-10-emerging-developer-tools-to-watch-in-2026-561b
-2026-05-22 https://news.ycombinator.com/item?id=48174920
-2026-05-22 https://news.ycombinator.com/item?id=48139148
-2026-05-22 https://news.ycombinator.com/item?id=48153379
-2026-05-22 https://news.ycombinator.com/item?id=48212242
-2026-05-22 https://news.ycombinator.com/item?id=48214558
-2026-05-22 https://zenn.dev/tkithrta/articles/0008ce0d1b5250
-2026-05-22 https://zenn.dev/collabostyle/articles/858875b235cdd6
-2026-05-22 https://zenn.dev/h_yoshikawa0724/articles/2026-02-22-developers-summit-2026
-2026-05-22 https://zenn.dev/pppp303/articles/weekly_ai_20260426
-2026-05-22 https://zenn.dev/softbank/articles/a04d7a8d138b6d
-2026-05-22 https://qiita.com/syunichisato51/items/5ef960dc6d9abe2c16e6
-2026-05-22 https://qiita.com/ktrk2002/items/c8ed058644beb0023b8a
-2026-05-22 https://qiita.com/yut-nagase/items/eb3b189d0c232f7c569e
-2026-05-22 https://qiita.com/q07025a/items/bbb28619653695235e43
-2026-05-22 https://qiita.com/555hamano/items/9d3737288985a62b5e33
-2026-05-22 https://dev.to/kevinccbsg/frontend-with-ai-workflow-first-agent-second-3hmo
-2026-05-22 https://dev.to/highflyer910/modern-web-guidance-teaching-ai-agents-to-stop-coding-like-its-2019-508b
-2026-05-22 https://dev.to/youichi11/2026nian-ban-aiezientokai-fa-nibi-xu-noopunsosugithubripozitori10xuan-4ja3
-2026-05-22 https://dev.to/nakamura_takuya/xian-yi-enziniagaxuan-bu2025nian-bi-xu-kai-fa-turuidekaraaimade-66d
-2026-05-22 https://dev.to/waterlily_0f365e5fadded0f/2025nian-puroguramabi-xi-si-gaxuan-buaituru10noshen-qi-dehitoritimubao-dan-35c6
-2026-05-23 https://www.aikido.dev/blog/supply-chain-attack-targets-laravel-lang-packages-with-credential-stealer
-2026-05-23 https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/
-2026-05-23 https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html
-2026-05-23 https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/
-2026-05-23 https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/
-2026-05-23 https://zenn.dev/meijin/articles/ai-agent-core-understanding-code
-2026-05-23 https://zenn.dev/mkj/articles/782275ebd8fc5c
-2026-05-23 https://zenn.dev/aircloset/articles/72c3f985fae9b4
-2026-05-23 https://zenn.dev/ai_nexus/articles/ai-agents-design-patterns
-2026-05-23 https://zenn.dev/miyan/articles/ai-code-agent-governance-design-2026
-2026-05-23 https://qiita.com/official-campaigns/conference/2026
-2026-05-23 https://qiita.com/Qiita/items/616e8f6d4f69bd582ab5
-2026-05-23 https://qiita.com/papasim824/items/47a221eed3ff2428663c
-2026-05-23 https://qiita.com/Qiita/items/b5c1550c969776b65b9b
-2026-05-23 https://qiita.com/Qiita/items/4dedcbcd1e016ca63b29
-2026-05-23 https://dev.to/zenieverse/google-io-2026-the-shift-from-prompting-to-acting-3f2j
-2026-05-23 https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6
-2026-05-23 https://dev.to/vishal_veerareddy_9cdd17d/what-is-google-gemini-spark-a-deep-dive-into-googles-247-personal-ai-agent-3iji
-2026-05-23 https://dev.to/uddhav_bhople/gemini-spark-changed-how-i-think-about-agents-and-i-havent-even-used-it-yet-4i1b
-2026-05-23 https://dev.to/megberts/google-io-just-made-mcp-inevitable-1abf
-2026-05-24 https://news.ycombinator.com/item?id=48085993
-2026-05-24 https://news.ycombinator.com/item?id=46570115
-2026-05-24 https://news.ycombinator.com/item?id=46489061
-2026-05-24 https://news.ycombinator.com/item?id=48188117
-2026-05-24 https://news.ycombinator.com/item?id=47975571
-2026-05-24 https://zenn.dev/yuta_k0911/articles/a4bc30fea766f8
-2026-05-24 https://zenn.dev/dmmdata/articles/ec118eee73260e
-2026-05-24 https://zenn.dev/tera1707/articles/146f31ddfc4b22
-2026-05-24 https://zenn.dev/canly/articles/1d25d234a8fa21
-2026-05-24 https://zenn.dev/ashunar0/articles/55a669c10e6a8d
-2026-05-24 https://qiita.com/Tenorshare_4DDiG/items/da61636c6738efbdc12a
-2026-05-24 https://qiita.com/YushiYamamoto/items/2787b34f3b5d940b4f9b
-2026-05-24 https://qiita.com/Kerdy/items/6f6cb97255016248da07
-2026-05-24 https://qiita.com/pitopito/items/98a9bdb2c3e062c4b664
-2026-05-24 https://qiita.com/masukane9473/items/16ae79e08a538d8e4d47
-2026-05-24 https://dev.to/danishashko/the-best-llms-for-agentic-coding-in-2026-real-world-not-just-benchmarks-96n
-2026-05-24 https://dev.to/ianjasperrr/flutter-344-highlights-from-google-io-2026-whats-new-and-what-matters-g6f
-2026-05-24 https://dev.to/chintanonweb/google-shipped-three-gemini-flash-models-picking-the-wrong-one-could-6x-your-ai-bill-48m9
-2026-05-24 https://dev.to/tanush_326k/google-io-2026-and-the-rise-of-the-ai-ecosystem-4jdf
-2026-05-24 https://dev.to/neverknowsbest_5e174c23a3/ai-api-pricing-in-2026-what-you-actually-pay-for-gpt-55-claude-opus-gemini-and-20-models-3ani
-2026-05-25 https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html
-2026-05-25 https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html
-2026-05-25 https://zenn.dev/7788/articles/a3afd95ff657a3
-2026-05-25 https://zenn.dev/magurotuna/articles/2025-review-and-2026-goals
-2026-05-25 https://zenn.dev/headwaters/articles/b4ebda691fcc71
-2026-05-25 https://qiita.com/ochtum/items/8fd5952e920da136dd94
-2026-05-25 https://qiita.com/ochtum/items/a82a8c43b4d9d1db415b
-2026-05-25 https://qiita.com/ochtum/items/2265dcc0ea54be20a148
-2026-05-25 https://qiita.com/katoriko/items/c8ed058644beb0023b8a
-2026-05-25 https://dev.to/meena_nukala/the-new-frontier-2026-devops-trends-you-cant-ignore-5g8f
-2026-05-25 https://dev.to/lukas_brunner/the-rise-of-inference-optimization-the-real-llm-infra-trend-shaping-2026-4e4o
-2026-05-25 https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
-2026-05-25 https://dev.to/devin-rosario/future-proofing-your-first-app-15-ideas-2026-tools-26mc
-2026-05-25 https://dev.to/saxon_global_9fb5ada7cab3/key-ai-trends-for-2026-53df
-2026-05-26 https://news.ycombinator.com/item?id=48273169
-2026-05-26 https://news.ycombinator.com/item?id=48139219
-2026-05-26 https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html
-2026-05-26 https://hackread.com/trojan-gemini-claude-installers-developers-seo-poisoning/
-2026-05-26 https://hackread.com/pwn2own-berlin-2026-hits-capacity-hackers-0-days/
-2026-05-26 https://zenn.dev/galirage/articles/claude-mythos-preview
-2026-05-26 https://zenn.dev/awesome_kou/articles/claude-mythos-overview
-2026-05-26 https://zenn.dev/syoshida07/articles/b73ae91bac62c9
-2026-05-26 https://zenn.dev/densan_techblog/articles/6fd7379de856b2
-2026-05-26 https://zenn.dev/smartvain/articles/2026-02-26-d31wqoqngmlu
-2026-05-26 https://qiita.com/shimada_slj/items/daaff6fbeda73c57bd89
-2026-05-26 https://qiita.com/harupython/items/10993c6e9d9116109563
-2026-05-26 https://qiita.com/ochtum/items/49c8ba38a9e0671a69db
-2026-05-26 https://qiita.com/yurukusa/items/7fcdcb952a0baabe7277
-2026-05-26 https://qiita.com/sharu389no/items/ab5bf50d9f68e7c8de56
-2026-05-26 https://dev.to/alikarbasicom/the-ai-label-is-losing-its-meaning-and-companies-are-the-ones-diluting-it-1bml
-2026-05-26 https://dev.to/rileykim/the-developers-guide-to-picking-the-right-ai-code-model-in-2026-i-spent-500-so-you-dont-have-to-49a7
-2026-05-26 https://dev.to/sreejit_/93-agents-26-billion-tokens-one-working-os-and-a-bill-under-1000-1182
-2026-05-26 https://dev.to/tahosin/the-most-underrated-announcement-from-google-io-2026-was-buried-in-a-90-second-demo-550
-2026-05-26 https://dev.to/jangwook_kim_e31e7291ad98/google-gemini-enterprise-agent-platform-build-and-deploy-a2a-agents-11ck
 116	2026-05-27 https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html
 117	2026-05-27 https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html
 118	2026-05-27 https://cybersecuritynews.com/claude-code-vulnerability/
@@ -130,3 +16,15 @@
 131	2026-05-27 https://dev.to/cyberpath/agentic-ai-vs-agentic-attacks-the-autonomous-threat-landscape-of-2026-352p
 132	2026-05-27 https://dev.to/theaniketgiri/building-production-ready-ai-agents-a-complete-security-guide-2026-4d01
 133	2026-05-27 https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html
+134	2026-05-28 https://claude.com/code-with-claude/session/sf-opening-keynote
+135	2026-05-28 https://dev.to/aibughunter/ai-agents-in-april-2026-from-research-to-production-whats-actually-happening-55oc
+136	2026-05-28 https://dev.to/hiroki-ii-ai/ai-daily-digest-may-20-2026-agentic-workflows-coding-agents-embodied-ai-481
+137	2026-05-28 https://press.airstreet.com/p/state-of-ai-may-2026
+138	2026-05-28 https://zenn.dev/noah33/articles/code-with-claude-2026-sf-keynote
+139	2026-05-28 https://zenn.dev/miyan/articles/ai-code-codex-vs-claude-code-2026
+140	2026-05-28 https://zenn.dev/miyan/articles/claude-code-ai-secretary-design-2026
+141	2026-05-28 https://qiita.com/GS-AI/items/36fcfa975b5942244090
+142	2026-05-28 https://qiita.com/official-campaigns/conference/2026
+143	2026-05-28 https://qiita.com/ochtum/items/3e1741ae8f56b2d3c975
+144	2026-05-28 https://dev.to/aibughunter/the-ai-agent-revolution-how-businesses-are-automating-everything-in-2026-3c6j
+145	2026-05-28 https://dev.to/ali_shanbacklinks_13d7b4/trending-technology-that-is-shaping-the-digital-future-7ip
