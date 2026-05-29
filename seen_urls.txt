@@ -28,10 +28,3 @@
 143	2026-05-28 https://qiita.com/ochtum/items/3e1741ae8f56b2d3c975
 144	2026-05-28 https://dev.to/aibughunter/the-ai-agent-revolution-how-businesses-are-automating-everything-in-2026-3c6j
 145	2026-05-28 https://dev.to/ali_shanbacklinks_13d7b4/trending-technology-that-is-shaping-the-digital-future-7ip
-31	146	2026-05-29 https://news.ycombinator.com/item?id=48303881
-32	147	2026-05-29 https://news.ycombinator.com/item?id=48287025
-33	148	2026-05-29 https://zenn.dev/miyan/articles/ai-code-cursor-claude-pr-review-2026
-34	149	2026-05-29 https://zenn.dev/komlock_lab/articles/ai-agent-economy-history-2026
-35	150	2026-05-29 https://qiita.com/eleanorbailey/items/10989c1496cc5cfea061
-36	151	2026-05-29 https://qiita.com/aktsmm/items/4577857b6c440c3f8b23
-37	152	2026-05-29 https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
