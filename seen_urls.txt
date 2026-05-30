@@ -1,30 +1,42 @@
-116	2026-05-27 https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html
-117	2026-05-27 https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html
-118	2026-05-27 https://cybersecuritynews.com/claude-code-vulnerability/
-119	2026-05-27 https://securityboulevard.com/2026/05/ai-governance-statistics-for-2026-trends-risks-enterpris/
-120	2026-05-27 https://dev.to/alessandro_pignati/the-owasp-top-10-for-ai-agents-your-2026-security-checklist-asi-top-10-cck
-121	2026-05-27 https://zenn.dev/emuni/articles/7c1493a52a3569
-122	2026-05-27 https://zenn.dev/okikusan/articles/35b08599c82bb2
-123	2026-05-27 https://zenn.dev/iwaken71/articles/claude-code-security-permissions
-124	2026-05-27 https://zenn.dev/kkoisland/articles/f4f49b721f23b0
-125	2026-05-27 https://qiita.com/official-columns/news/2026-05-27/
-126	2026-05-27 https://qiita.com/masukane9473/items/16ae79e08a538d8e4d47
-127	2026-05-27 https://qiita.com/ktrk2002/items/c8ed058644beb0023b8a
-128	2026-05-27 https://qiita.com/555hamano/items/9d3737288985a62b5e33
-129	2026-05-27 https://dev.to/sherry_walker_bba406fb339/key-agentic-ai-trends-for-enterprise-and-cybersecurity-2026-416k
-130	2026-05-27 https://dev.to/alessandro_pignati/5-critical-ai-agent-security-threats-developers-need-to-know-for-2026-bnl
-131	2026-05-27 https://dev.to/cyberpath/agentic-ai-vs-agentic-attacks-the-autonomous-threat-landscape-of-2026-352p
-132	2026-05-27 https://dev.to/theaniketgiri/building-production-ready-ai-agents-a-complete-security-guide-2026-4d01
-133	2026-05-27 https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html
-134	2026-05-28 https://claude.com/code-with-claude/session/sf-opening-keynote
-135	2026-05-28 https://dev.to/aibughunter/ai-agents-in-april-2026-from-research-to-production-whats-actually-happening-55oc
-136	2026-05-28 https://dev.to/hiroki-ii-ai/ai-daily-digest-may-20-2026-agentic-workflows-coding-agents-embodied-ai-481
-137	2026-05-28 https://press.airstreet.com/p/state-of-ai-may-2026
-138	2026-05-28 https://zenn.dev/noah33/articles/code-with-claude-2026-sf-keynote
-139	2026-05-28 https://zenn.dev/miyan/articles/ai-code-codex-vs-claude-code-2026
-140	2026-05-28 https://zenn.dev/miyan/articles/claude-code-ai-secretary-design-2026
-141	2026-05-28 https://qiita.com/GS-AI/items/36fcfa975b5942244090
-142	2026-05-28 https://qiita.com/official-campaigns/conference/2026
-143	2026-05-28 https://qiita.com/ochtum/items/3e1741ae8f56b2d3c975
-144	2026-05-28 https://dev.to/aibughunter/the-ai-agent-revolution-how-businesses-are-automating-everything-in-2026-3c6j
-145	2026-05-28 https://dev.to/ali_shanbacklinks_13d7b4/trending-technology-that-is-shaping-the-digital-future-7ip
+2026-05-27 https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html
+2026-05-27 https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html
+2026-05-27 https://cybersecuritynews.com/claude-code-vulnerability/
+2026-05-27 https://securityboulevard.com/2026/05/ai-governance-statistics-for-2026-trends-risks-enterpris/
+2026-05-27 https://dev.to/alessandro_pignati/the-owasp-top-10-for-ai-agents-your-2026-security-checklist-asi-top-10-cck
+2026-05-27 https://zenn.dev/emuni/articles/7c1493a52a3569
+2026-05-27 https://zenn.dev/okikusan/articles/35b08599c82bb2
+2026-05-27 https://zenn.dev/iwaken71/articles/claude-code-security-permissions
+2026-05-27 https://zenn.dev/kkoisland/articles/f4f49b721f23b0
+2026-05-27 https://qiita.com/official-columns/news/2026-05-27/
+2026-05-27 https://qiita.com/masukane9473/items/16ae79e08a538d8e4d47
+2026-05-27 https://qiita.com/ktrk2002/items/c8ed058644beb0023b8a
+2026-05-27 https://qiita.com/555hamano/items/9d3737288985a62b5e33
+2026-05-27 https://dev.to/sherry_walker_bba406fb339/key-agentic-ai-trends-for-enterprise-and-cybersecurity-2026-416k
+2026-05-27 https://dev.to/alessandro_pignati/5-critical-ai-agent-security-threats-developers-need-to-know-for-2026-bnl
+2026-05-27 https://dev.to/cyberpath/agentic-ai-vs-agentic-attacks-the-autonomous-threat-landscape-of-2026-352p
+2026-05-27 https://dev.to/theaniketgiri/building-production-ready-ai-agents-a-complete-security-guide-2026-4d01
+2026-05-27 https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html
+2026-05-28 https://claude.com/code-with-claude/session/sf-opening-keynote
+2026-05-28 https://dev.to/aibughunter/ai-agents-in-april-2026-from-research-to-production-whats-actually-happening-55oc
+2026-05-28 https://dev.to/hiroki-ii-ai/ai-daily-digest-may-20-2026-agentic-workflows-coding-agents-embodied-ai-481
+2026-05-28 https://press.airstreet.com/p/state-of-ai-may-2026
+2026-05-28 https://zenn.dev/noah33/articles/code-with-claude-2026-sf-keynote
+2026-05-28 https://zenn.dev/miyan/articles/ai-code-codex-vs-claude-code-2026
+2026-05-28 https://zenn.dev/miyan/articles/claude-code-ai-secretary-design-2026
+2026-05-28 https://qiita.com/GS-AI/items/36fcfa975b5942244090
+2026-05-28 https://qiita.com/official-campaigns/conference/2026
+2026-05-28 https://qiita.com/ochtum/items/3e1741ae8f56b2d3c975
+2026-05-28 https://dev.to/aibughunter/the-ai-agent-revolution-how-businesses-are-automating-everything-in-2026-3c6j
+2026-05-28 https://dev.to/ali_shanbacklinks_13d7b4/trending-technology-that-is-shaping-the-digital-future-7ip
+2026-05-30 https://thehackernews.com/2026/05/github-internal-repositories-breached.html
+2026-05-30 https://thehackernews.com/2026/05/threat-actors-exploit-critical-fortinet.html
+2026-05-30 https://zenn.dev/tera1707/articles/146f31ddfc4b22
+2026-05-30 https://zenn.dev/hiraoku/articles/codex-app-server-gpt-realtime-2
+2026-05-30 https://zenn.dev/dmmdata/articles/ec118eee73260e
+2026-05-30 https://qiita.com/ishisaka/items/64dcfc45029f1205c818
+2026-05-30 https://qiita.com/YushiYamamoto/items/2787b34f3b5d940b4f9b
+2026-05-30 https://dev.to/hiroki-ii-ai/ai-daily-digest-may-22-2026-agentic-workflows-coding-agents-embodied-ai-i05
+2026-05-30 https://dev.to/marysa_jaramillo_c0344161/where-ai-agent-hiring-is-actually-heating-up-10-thread-jobs-with-real-market-pull-in-may-2026-3m1d
+2026-05-30 https://dev.to/liv_melendez_4be3c47ea998/what-the-ai-agent-crowd-on-reddit-is-arguing-about-in-early-may-2026-4j7e
+2026-05-30 https://dev.to/kirothebot/the-agent-economy-is-real-12-platforms-where-ai-agents-actually-earn-money-may-2026-5bm2
+2026-05-30 https://dev.to/waxell/when-your-ai-agent-can-find-zero-days-who-decides-what-it-does-next-7ef
