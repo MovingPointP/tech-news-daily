@@ -50,3 +50,13 @@
 2026-05-31 https://dev.to/aws-builders/the-claude-certified-architect-exam-5-domains-6-scenarios-and-everything-you-need-to-know-4le3
 2026-05-31 https://dev.to/jonoherrington/when-ai-makes-you-forget-how-to-code-5cm
 2026-05-31 https://dev.to/joietej/ai-wont-save-you-if-you-dont-know-what-good-code-looks-like-2144
+54	2026-06-01 https://news.ycombinator.com/item?id=48337409
+55	2026-06-01 https://news.ycombinator.com/item?id=48303273
+56	2026-06-01 https://zenn.dev/terason/articles/083e11eb59acd6
+57	2026-06-01 https://zenn.dev/koracloud/articles/f620210ec508c7
+58	2026-06-01 https://zenn.dev/rei2718/articles/96ab5417cd6969
+59	2026-06-01 https://qiita.com/shahin0809/items/9c7ec8c7661272c63001
+60	2026-06-01 https://qiita.com/okokok/items/3c431af63cc3476d79b9
+61	2026-06-01 https://dev.to/jefri_bulo/google-io-2026-were-not-building-apps-anymore-were-deploying-agents-11n8
+62	2026-06-01 https://dev.to/mamoor_ahmad/i-tried-every-google-io-2026-developer-tool-so-you-dont-have-have-1elk
+63	2026-06-01 https://dev.to/ashutoshranjan/google-antigravity-20-is-the-io-2026-announcement-devs-are-sleeping-on-2mke
