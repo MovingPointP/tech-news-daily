@@ -69,3 +69,16 @@
 69	2026-06-02	https://qiita.com/shahin0809/items/9c7ec8c7661272c63001
 70	2026-06-02	https://dev.to/sonotommy/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch
 71	2026-06-02	https://dev.to/akaranjkar08/microsoft-build-2026-developer-preview-windows-agent-runtime-multi-model-copilot-and-the-agentic-5pi
+72	2026-06-03	https://news.ycombinator.com/item?id=48196867
+73	2026-06-03	https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html
+74	2026-06-03	https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html
+75	2026-06-03	https://zenn.dev/dmmdata/articles/4291c9827a39a0
+76	2026-06-03	https://zenn.dev/densan_techblog/articles/6fd7379de856b2
+77	2026-06-03	https://zenn.dev/mbk_digital/articles/70c8eeb75b0fc7
+78	2026-06-03	https://qiita.com/Tadataka_Takahashi/items/05275b562f25a62e6020
+79	2026-06-03	https://github.blog/jp/2026-04-28-github-copilot-is-moving-to-usage-based-billing/
+80	2026-06-03	https://qiita.com/ManabuYamamoto/items/3564c9fea54d71c10e1b
+81	2026-06-03	https://qiita.com/Tenorshare_4DDiG/items/342b380dd2a8e4602fc3
+82	2026-06-03	https://dev.to/toboreeee/google-is-killing-gemini-cli-on-june-18-here-is-what-to-do-before-then-4907
+83	2026-06-03	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+84	2026-06-03	https://dev.to/theaniketgiri/building-production-ready-ai-agents-a-complete-security-guide-2026-4d01
