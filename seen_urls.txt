@@ -69,3 +69,19 @@
 154	154	2026-06-07	https://dev.to/danishashko/the-best-llms-for-agentic-coding-in-2026-real-world-not-just-benchmarks-96n
 155	155	2026-06-07	https://www.buildfastwithai.com/blogs/ai-news-today-june-7-2026
 156	156	2026-06-07	https://dev.to/user/i-replaced-200-threads-with-10000-java-finished-13-5x-faster
+157	157	157	2026-06-08	https://www.apple.com/newsroom/2026/05/apple-kicks-off-worldwide-developers-conference-on-june-8/
+158	158	158	2026-06-08	https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026
+159	159	159	2026-06-08	https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html
+160	160	160	2026-06-08	https://zenn.dev/lingmu/articles/2026-06-04-microsoft-mai-anthropic-ipo-openai
+161	161	161	2026-06-08	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+162	162	162	2026-06-08	https://qiita.com/can-can/items/5e13dace1a97cd6bd7a4
+163	163	163	2026-06-08	https://zenn.dev/nuits_jp/articles/2026-06-07-copilot-business-migration
+164	164	164	2026-06-08	https://zenn.dev/goki602/articles/2026-06-03-github-copilot-ai-credits-june-2026
+165	165	165	2026-06-08	https://zenn.dev/long910/articles/2026-06-03-john-the-ripper-mac-m5
+166	166	166	2026-06-08	https://zenn.dev/fitness_densuke/articles/2026-06-01-cloudflare-vs-aws-selection-guide
+167	167	167	2026-06-08	https://zenn.dev/long910/articles/2026-06-05-cve-2026-49975-http2-bomb-ai
+168	168	168	2026-06-08	https://zenn.dev/siromiya/articles/2026-06-03-01-claudecode-team-agents
+169	169	169	2026-06-08	https://zenn.dev/aws_japan/articles/2026-06-01-bedrock-japanese-eval
+170	170	170	2026-06-08	https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
+171	171	171	2026-06-08	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
+172	172	172	2026-06-08	https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl
