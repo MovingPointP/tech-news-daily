@@ -126,3 +126,8 @@
 211	211	211	2026-06-12	https://dev.to/theaijournal_a72e5e5050cd/ai-trends-2026-what-the-future-holds-for-artificial-intelligence-13ab
 212	212	212	2026-06-12	https://dev.to/vasughanta09/code-is-dead-ai-ate-it-2k7o
 213	213	213	2026-06-12	https://dev.to/ethan_zhang_e501fea89c25b/ai-in-2026-the-shift-from-hype-to-reality-latest-trends-and-controversies-3fm2
+214	214	214	2026-06-13	https://dev.to/alexmercedcoder/apple-goes-agentic-ai-week-of-june-4-11-2026-13mm
+215	215	215	2026-06-13	https://zenn.dev/d0ne1s/articles/9422407b652a48
+216	216	216	2026-06-13	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+217	217	217	2026-06-13	https://dev.to/vjswamy/microsoft-build-2026-and-nvidia-gtc-june-2026-the-biggest-ai-announcements-of-the-summer-5dg5
+218	218	218	2026-06-13	https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl
