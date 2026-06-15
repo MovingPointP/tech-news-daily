@@ -142,3 +142,19 @@
 142	227	227	227	2026-06-14	https://dev.to/tomwangcn/github-copilot-just-made-every-dev-a-metered-api-57bj
 143	228	228	228	2026-06-14	https://dev.to/anmolbaranwal/open-source-toolkit-for-building-ai-agents-in-2026-55h1
 144	229	229	229	2026-06-14	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+145	145	230	230	230	2026-06-15	https://news.ycombinator.com/item?id=48528779
+146	146	231	231	231	2026-06-15	https://zenn.dev/d0ne1s/articles/9422407b652a48
+147	147	232	232	232	2026-06-15	https://zenn.dev/jy8752/scraps/3d0ab517125553
+148	148	233	233	233	2026-06-15	https://zenn.dev/canly/articles/1d25d234a8fa21
+149	149	234	234	234	2026-06-15	https://zenn.dev/aircloset/articles/72c3f985fae9b4
+150	150	235	235	235	2026-06-15	https://zenn.dev/ainohogosya/articles/7749521575792b
+151	151	236	236	236	2026-06-15	https://qiita.com/syunichisato51/items/3ab509bde0a3633d6980
+152	152	237	237	237	2026-06-15	https://qiita.com/agenticdev/items/db08c648b49580d5c53e
+153	153	238	238	238	2026-06-15	https://qiita.com/op_yamaguchi/items/00790c15556f26c6e549
+154	154	239	239	239	2026-06-15	https://qiita.com/yut-nagase/items/eb3b189d0c232f7c569e
+155	155	240	240	240	2026-06-15	https://qiita.com/dl_from_scratch/items/00c2f7ef23eb7b075bbf
+156	156	241	241	241	2026-06-15	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+157	157	242	242	242	2026-06-15	https://dev.to/jefri_bulo/google-io-2026-were-not-building-apps-anymore-were-deploying-agents-11n8
+158	158	243	243	243	2026-06-15	https://dev.to/pwd9000/microsoft-build-2026-top-announcements-from-a-devops-lens-419k
+159	159	244	244	244	2026-06-15	https://dev.to/meena_nukala/the-new-frontier-2026-devops-trends-you-cant-ignore-5g8f
+160	160	245	245	245	2026-06-15	https://dev.to/riteshkokam/5-web-design-trends-of-2026-6cp
