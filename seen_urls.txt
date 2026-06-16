@@ -158,3 +158,13 @@
 158	158	243	243	243	2026-06-15	https://dev.to/pwd9000/microsoft-build-2026-top-announcements-from-a-devops-lens-419k
 159	159	244	244	244	2026-06-15	https://dev.to/meena_nukala/the-new-frontier-2026-devops-trends-you-cant-ignore-5g8f
 160	160	245	245	245	2026-06-15	https://dev.to/riteshkokam/5-web-design-trends-of-2026-6cp
+2026-06-16	https://zenn.dev/d0ne1s/articles/9422407b652a48
+2026-06-16	https://zenn.dev/ailmarketing/articles/20260316-ai---2026
+2026-06-16	https://zenn.dev/pppp303/articles/weekly_ai_20260104
+2026-06-16	https://qiita.com/agdexai/items/0e57ce1dc515d7041dc9
+2026-06-16	https://qiita.com/GS-AI/items/36fcfa975b5942244090
+2026-06-16	https://qiita.com/emi_ndk/items/4f70389a0fac717df6a9
+2026-06-16	https://qiita.com/papa_story2010/items/5a9f35e11d75c4aae1cb
+2026-06-16	https://dev.to/tokenmixai/hermes-agent-review-956k-stars-self-improving-ai-agent-april-2026-11le
+2026-06-16	https://dev.to/arshtechpro/understand-anything-turn-any-codebase-into-an-interactive-knowledge-graph-37ed
+2026-06-16	https://thehackernews.com/2026/06/ai-vulnerability-discovery.html
