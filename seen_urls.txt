@@ -168,3 +168,23 @@
 2026-06-16	https://dev.to/tokenmixai/hermes-agent-review-956k-stars-self-improving-ai-agent-april-2026-11le
 2026-06-16	https://dev.to/arshtechpro/understand-anything-turn-any-codebase-into-an-interactive-knowledge-graph-37ed
 2026-06-16	https://thehackernews.com/2026/06/ai-vulnerability-discovery.html
+171	2026-06-17	https://news.ycombinator.com/item?id=48555244
+172	2026-06-17	https://news.ycombinator.com/item?id=48332047
+173	2026-06-17	https://news.ycombinator.com/item?id=48358646
+174	2026-06-17	https://news.ycombinator.com/item?id=48528779
+175	2026-06-17	https://news.ycombinator.com/item?id=48480978
+176	2026-06-17	https://zenn.dev/takish/articles/96a2fb921e6319
+177	2026-06-17	https://zenn.dev/7788/articles/af11fbce6c3379
+178	2026-06-17	https://zenn.dev/hiruno_tarte/articles/dev-environment-2026
+179	2026-06-17	https://zenn.dev/shintaroamaike/articles/58036e930bb7f3
+180	2026-06-17	https://zenn.dev/dmmdata/articles/4291c9827a39a0
+181	2026-06-17	https://qiita.com/ManabuYamamoto/items/1edfb07b99ffd43f79c2
+182	2026-06-17	https://qiita.com/aktsmm/items/4cc75c8bf629edfd0413
+183	2026-06-17	https://qiita.com/goki602/articles/2026-06-03-github-copilot-ai-credits-june-2026
+184	2026-06-17	https://qiita.com/kai_kou/items/fb2f41238bd516644047
+185	2026-06-17	https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd
+186	2026-06-17	https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7
+187	2026-06-17	https://dev.to/tokenmixai/gpt-56-is-real-a-codex-log-says-so-everything-else-is-made-up-1ep1
+188	2026-06-17	https://dev.to/pwd9000/microsoft-build-2026-top-announcements-from-a-devops-lens-419k
+189	2026-06-17	https://dev.to/jovan_chan_9500711396d4e6/why-cursor-windsurf-and-claude-code-dominate-ai-coding-in-2026-a-market-analysis-5g4n
+190	2026-06-17	https://dev.to/max_quimby/iphone-17-pro-just-ran-a-400b-llm-on-device-ai-changes-everything-2026-53bm
