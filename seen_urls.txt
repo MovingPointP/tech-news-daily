@@ -60,3 +60,23 @@
 60	60	2026-06-21	https://qiita.com/dai_chi/items/2864a84b19c5f84b717c
 61	61	2026-06-21	https://dev.to/alexmercedcoder/ai-weekly-cheaper-coding-models-custom-chips-and-a-stateless-mcp-963
 62	62	2026-06-21	https://dev.to/sandrabrown/ai-103-certification-guide-2026-become-an-azure-ai-app-agent-developer-3b48
+64	64	64	2026-06-22	https://news.ycombinator.com/item?id=48555244
+65	65	65	2026-06-22	https://news.ycombinator.com/item?id=48511072
+66	66	66	2026-06-22	https://news.ycombinator.com/item?id=48188183
+67	67	67	2026-06-22	https://news.ycombinator.com/item?id=48633941
+68	68	68	2026-06-22	https://news.ycombinator.com/item?id=48181877
+69	69	69	2026-06-22	https://zenn.dev/terason/articles/083e11eb59acd6
+70	70	70	2026-06-22	https://zenn.dev/daishiro/articles/claude-fable-5-whats-new
+71	71	71	2026-06-22	https://zenn.dev/galirage/articles/claude-fable-5
+72	72	72	2026-06-22	https://zenn.dev/headwaters/articles/microsoft-build-2026-github
+73	73	73	2026-06-22	https://zenn.dev/sanpi34/articles/claude-code-pricing-shift-2026
+74	74	74	2026-06-22	https://qiita.com/niimim/items/ced0ddcab1e3383ad592
+75	75	75	2026-06-22	https://qiita.com/long-910/items/76779fc1d8602dab73b3
+76	76	76	2026-06-22	https://qiita.com/hisaho/items/bf19ff1d607d5965bf12
+77	77	77	2026-06-22	https://qiita.com/Tadataka_Takahashi/items/05275b562f25a62e6020
+78	78	78	2026-06-22	https://qiita.com/ishisaka/items/0cc99d974904eb0c7b42
+79	79	79	2026-06-22	https://dev.to/tokenmixai/gpt-56-is-real-a-codex-log-says-so-everything-else-is-made-up-1ep1
+80	80	80	2026-06-22	https://dev.to/pwd9000/microsoft-build-2026-top-announcements-from-a-devops-lens-419k
+81	81	81	2026-06-22	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+82	82	82	2026-06-22	https://dev.to/sandrabrown/ai-103-certification-guide-2026-become-an-azure-ai-app-agent-developer-3b48
+83	83	83	2026-06-22	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
