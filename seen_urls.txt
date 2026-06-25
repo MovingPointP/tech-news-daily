@@ -87,3 +87,13 @@
 2026-06-24	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
 2026-06-24	https://dev.to/devin-rosario/future-proofing-your-first-app-15-ideas-2026-tools-26mc
 2026-06-24	https://dev.to/studiomeyer_io/web-design-trends-2026-what-actually-held-up-after-six-months-23p8
+2026-06-25	https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html
+2026-06-25	https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html
+2026-06-25	https://zenn.dev/kent_kamome/articles/4955d3f10940f9
+2026-06-25	https://zenn.dev/ino_h/articles/2026-06-16-glm-5-2-opensource-cost
+2026-06-25	https://zenn.dev/dmmdata/articles/4291c9827a39a0
+2026-06-25	https://qiita.com/ManabuYamamoto/items/3564c9fea54d71c10e1b
+2026-06-25	https://qiita.com/hayao_k/items/44b25e2a51d12482a308
+2026-06-25	https://qiita.com/hisaho/items/bf19ff1d607d5965bf12
+2026-06-25	https://qiita.com/shinkai_/items/8f88307b7cb13b748e57
+2026-06-25	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
