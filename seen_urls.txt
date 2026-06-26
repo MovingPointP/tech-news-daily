@@ -97,3 +97,13 @@
 2026-06-25	https://qiita.com/hisaho/items/bf19ff1d607d5965bf12
 2026-06-25	https://qiita.com/shinkai_/items/8f88307b7cb13b748e57
 2026-06-25	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+2026-06-26	https://news.ycombinator.com/front
+2026-06-26	https://zenn.dev/d0ne1s/articles/9422407b652a48
+2026-06-26	https://zenn.dev/pppp303/articles/weekly_ai_20260607
+2026-06-26	https://zenn.dev/cscloud_blog/articles/51cf0646b6aa01
+2026-06-26	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+2026-06-26	https://qiita.com/agenticdev/items/216566728ec4e08b8626
+2026-06-26	https://qiita.com/syun88/items/0276992c290dc70cd679
+2026-06-26	https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl
+2026-06-26	https://dev.to/meena_nukala/the-new-frontier-2026-devops-trends-you-cant-ignore-5g8f
+2026-06-26	https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
