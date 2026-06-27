@@ -107,3 +107,14 @@
 2026-06-26	https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl
 2026-06-26	https://dev.to/meena_nukala/the-new-frontier-2026-devops-trends-you-cant-ignore-5g8f
 2026-06-26	https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
+2026-06-27	https://dailysecurityreview.com/cyber-security/cve-2026-49975-http-2-bomb-hits-nginx-apache-envoy-and-cloudflare/
+2026-06-27	https://blog.mean.ceo/hacker-news-trends-june-2026/
+2026-06-27	https://zenn.dev/long910/articles/2026-06-05-cve-2026-49975-http2-bomb-ai
+2026-06-27	https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/
+2026-06-27	https://zenn.dev/d0ne1s/articles/9422407b652a48
+2026-06-27	https://qiita.com/msystem/items/b03b605861b5bb8fd1b9
+2026-06-27	https://qiita.com/Pretzelisa/items/4b9aa261e43052792d56
+2026-06-27	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+2026-06-27	https://dev.to/alexmercedcoder/apple-goes-agentic-ai-week-of-june-4-11-2026-13mm
+2026-06-27	https://dev.to/vjswamy/microsoft-build-2026-and-nvidia-gtc-june-2026-the-biggest-ai-announcements-of-the-summer-5dg5
+2026-06-27	https://pinggy.io/blog/best_open_source_self_hosted_llms_for_coding/
