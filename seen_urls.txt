@@ -67,3 +67,23 @@
 81	81	81	2026-06-22	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
 82	82	82	2026-06-22	https://dev.to/sandrabrown/ai-103-certification-guide-2026-become-an-azure-ai-app-agent-developer-3b48
 83	83	83	2026-06-22	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+2026-06-29	https://news.ycombinator.com/item?id=48719361
+2026-06-29	https://news.ycombinator.com/item?id=48528779
+2026-06-29	https://news.ycombinator.com/item?id=47308059
+2026-06-29	https://news.ycombinator.com/item?id=48537165
+2026-06-29	https://news.ycombinator.com/item?id=48212504
+2026-06-29	https://zenn.dev/kent_kamome/articles/4955d3f10940f9
+2026-06-29	https://zenn.dev/terason/articles/083e11eb59acd6
+2026-06-29	https://zenn.dev/yuto16/articles/snowflake-summit-2026
+2026-06-29	https://zenn.dev/kakuremi/articles/ai-datacenter-power-japan-2026
+2026-06-29	https://zenn.dev/kairosai/articles/aa04d8a4c13003
+2026-06-29	https://qiita.com/lhjjjk4/items/01a9ee8d7482801cb7e5
+2026-06-29	https://qiita.com/hisaho/items/bf19ff1d607d5965bf12
+2026-06-29	https://qiita.com/Tenorshare_4DDiG/items/970748a6259ca0fe0e17
+2026-06-29	https://qiita.com/degudegu2510/items/f25759d09de8d675d443
+2026-06-29	https://qiita.com/lhjjjk4/items/f28d9aa1dad5b6517f37
+2026-06-29	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+2026-06-29	https://dev.to/riteshkokam/5-web-design-trends-of-2026-6cp
+2026-06-29	https://dev.to/theaijournal_a72e5e5050cd/ai-trends-2026-what-the-future-holds-for-artificial-intelligence-13ab
+2026-06-29	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
+2026-06-29	https://dev.to/kanywst/what-11-big-tech-companies-actually-do-with-ai-in-2026-a-layered-numbers-first-breakdown-h58
