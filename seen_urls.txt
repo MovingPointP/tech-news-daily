@@ -87,3 +87,17 @@
 2026-06-29	https://dev.to/theaijournal_a72e5e5050cd/ai-trends-2026-what-the-future-holds-for-artificial-intelligence-13ab
 2026-06-29	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
 2026-06-29	https://dev.to/kanywst/what-11-big-tech-companies-actually-do-with-ai-in-2026-a-layered-numbers-first-breakdown-h58
+2026-06-30	https://news.ycombinator.com/item?id=48730904
+2026-06-30	https://news.ycombinator.com/item?id=48704289
+2026-06-30	https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-people-stop-our-reporting
+2026-06-30	https://ec.europa.eu/digital-building-blocks/sites/spaces/EUDIGITALIDENTITYWALLET/pages/694487738/EU+Digital+Identity+Wallet+Home
+2026-06-30	https://zenn.dev/pppp303/articles/weekly_ai_20260607
+2026-06-30	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
+2026-06-30	https://zenn.dev/daishiro/articles/claude-fable-5-whats-new
+2026-06-30	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+2026-06-30	https://qiita.com/minorun365/items/114f53def8cb0db60f47
+2026-06-30	https://qiita.com/akira_papa_AI/items/d46a6629b1aae835491d
+2026-06-30	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+2026-06-30	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+2026-06-30	https://dev.to/francistrdev/monthly-dev-report-june-2026-530a
+2026-06-30	https://dev.to/harsh2644/tanstack-is-eating-reacts-ecosystem-and-nobody-is-talking-about-it-10n0
