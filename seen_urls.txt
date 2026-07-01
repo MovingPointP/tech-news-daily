@@ -1,72 +1,44 @@
-3	3	2026-06-16	https://zenn.dev/pppp303/articles/weekly_ai_20260104
-4	4	2026-06-16	https://qiita.com/agdexai/items/0e57ce1dc515d7041dc9
-5	5	2026-06-16	https://qiita.com/GS-AI/items/36fcfa975b5942244090
-6	6	2026-06-16	https://qiita.com/emi_ndk/items/4f70389a0fac717df6a9
-7	7	2026-06-16	https://qiita.com/papa_story2010/items/5a9f35e11d75c4aae1cb
-8	8	2026-06-16	https://dev.to/tokenmixai/hermes-agent-review-956k-stars-self-improving-ai-agent-april-2026-11le
-9	9	2026-06-16	https://dev.to/arshtechpro/understand-anything-turn-any-codebase-into-an-interactive-knowledge-graph-37ed
-21	21	2026-06-18	https://qiita.com/eleanorbailey/items/10989c1496cc5cfea061
-22	22	2026-06-18	https://qiita.com/hot377/items/7062feeb970540a6d50f
-23	23	2026-06-18	https://qiita.com/spumoni/items/9c7277d66e9d0ba8be15
-24	24	2026-06-18	https://qiita.com/yhoguro/items/8bd8ed2db049ce487076
-25	25	2026-06-18	https://qiita.com/long-910/items/76779fc1d8602dab73b3
-26	26	2026-06-18	https://dev.to/alexmercedcoder/a-frontier-model-goes-dark-ai-week-of-june-16-2026-1gk9
-27	27	2026-06-18	https://dev.to/toboreeee/google-is-killing-gemini-cli-on-june-18-here-is-what-to-do-before-then-4907
-28	28	2026-06-18	https://dev.to/vjswamy/microsoft-build-2026-and-nvidia-gtc-june-2026-the-biggest-ai-announcements-of-the-summer-5dg5
-29	29	2026-06-18	https://dev.to/arindam_1729/antigravity-cli-a-hands-on-guide-to-googles-terminal-coding-agent-5bc7
-30	30	2026-06-19	https://qiita.com/lhjjjk4/items/1d32575db5a9b6ec4caf
-31	31	2026-06-19	https://zenn.dev/7788/articles/af11fbce6c3379
-32	32	2026-06-19	https://qiita.com/agenticdev/items/db08c648b49580d5c53e
-33	33	2026-06-19	https://dev.to/jefri_bulo/google-io-2026-were-not-building-apps-anymore-were-deploying-agents-11n8
-34	34	2026-06-19	https://www.remio.ai/post/anthropic-revenue-just-passed-openai-the-growth-rate-is-the-real-story
-35	35	2026-06-20	https://news.ycombinator.com/item?id=48358646
-36	36	2026-06-20	https://blog.mean.ceo/hacker-news-trends-june-2026/
-37	37	2026-06-20	https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html
-38	38	2026-06-20	https://news.ycombinator.com/front
-39	39	2026-06-20	https://zenn.dev/7788/articles/af11fbce6c3379
-40	40	2026-06-20	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
-41	41	2026-06-20	https://zenn.dev/hiruno_tarte/articles/dev-environment-2026
-42	42	2026-06-20	https://zenn.dev/events/zennfes-spring-2026
-43	43	2026-06-20	https://qiita.com/papasim824/items/47a221eed3ff2428663c
-44	44	2026-06-20	https://qiita.com/pekopugu/items/00d94a49438d121efd64
-45	45	2026-06-20	https://qiita.com/papa_story2010/items/c25cf51e52b9c4e6b5a1
-46	46	2026-06-20	https://qiita.com/akira_papa_AI/items/d3303248aae3d87e0a6a
-47	47	2026-06-20	https://qiita.com/shioccii/items/002e2e71eec45916b1c1
-48	48	2026-06-20	https://qiita.com/harukat1232000/items/272cc7df4ec94b87b6a8
-49	49	2026-06-20	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
-50	50	2026-06-20	https://dev.to/vjswamy/microsoft-build-2026-and-nvidia-gtc-june-2026-the-biggest-ai-announcements-of-the-summer-5dg5
-51	51	2026-06-20	https://dev.to/tokenmixai/gpt-56-is-real-a-codex-log-says-so-everything-else-is-made-up-1ep1
-52	52	2026-06-20	https://dev.to/riteshkokam/5-web-design-trends-of-2026-6cp
-53	53	2026-06-20	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
-54	54	2026-06-21	https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610
-55	55	2026-06-21	https://zenn.dev/long910/articles/2026-06-05-cve-2026-49975-http2-bomb-ai
-56	56	2026-06-21	https://zenn.dev/rei2718/articles/96ab5417cd6969
-57	57	2026-06-21	https://zenn.dev/aiwatch_jp/articles/agent-harness-oss-2026-maintained
-58	58	2026-06-21	https://qiita.com/Iud7n/items/0c567e9a23147ec99839
-59	59	2026-06-21	https://qiita.com/shinkai_/items/626dfa7857f2d554784e
-60	60	2026-06-21	https://qiita.com/dai_chi/items/2864a84b19c5f84b717c
-61	61	2026-06-21	https://dev.to/alexmercedcoder/ai-weekly-cheaper-coding-models-custom-chips-and-a-stateless-mcp-963
-62	62	2026-06-21	https://dev.to/sandrabrown/ai-103-certification-guide-2026-become-an-azure-ai-app-agent-developer-3b48
-64	64	64	2026-06-22	https://news.ycombinator.com/item?id=48555244
-65	65	65	2026-06-22	https://news.ycombinator.com/item?id=48511072
-66	66	66	2026-06-22	https://news.ycombinator.com/item?id=48188183
-67	67	67	2026-06-22	https://news.ycombinator.com/item?id=48633941
-68	68	68	2026-06-22	https://news.ycombinator.com/item?id=48181877
-69	69	69	2026-06-22	https://zenn.dev/terason/articles/083e11eb59acd6
-70	70	70	2026-06-22	https://zenn.dev/daishiro/articles/claude-fable-5-whats-new
-71	71	71	2026-06-22	https://zenn.dev/galirage/articles/claude-fable-5
-72	72	72	2026-06-22	https://zenn.dev/headwaters/articles/microsoft-build-2026-github
-73	73	73	2026-06-22	https://zenn.dev/sanpi34/articles/claude-code-pricing-shift-2026
-74	74	74	2026-06-22	https://qiita.com/niimim/items/ced0ddcab1e3383ad592
-75	75	75	2026-06-22	https://qiita.com/long-910/items/76779fc1d8602dab73b3
-76	76	76	2026-06-22	https://qiita.com/hisaho/items/bf19ff1d607d5965bf12
-77	77	77	2026-06-22	https://qiita.com/Tadataka_Takahashi/items/05275b562f25a62e6020
-78	78	78	2026-06-22	https://qiita.com/ishisaka/items/0cc99d974904eb0c7b42
-79	79	79	2026-06-22	https://dev.to/tokenmixai/gpt-56-is-real-a-codex-log-says-so-everything-else-is-made-up-1ep1
-80	80	80	2026-06-22	https://dev.to/pwd9000/microsoft-build-2026-top-announcements-from-a-devops-lens-419k
-81	81	81	2026-06-22	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
-82	82	82	2026-06-22	https://dev.to/sandrabrown/ai-103-certification-guide-2026-become-an-azure-ai-app-agent-developer-3b48
-83	83	83	2026-06-22	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+2026-06-20	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
+2026-06-20	https://qiita.com/papasim824/items/47a221eed3ff2428663c
+2026-06-20	https://qiita.com/pekopugu/items/00d94a49438d121efd64
+2026-06-20	https://qiita.com/papa_story2010/items/c25cf51e52b9c4e6b5a1
+2026-06-20	https://qiita.com/akira_papa_AI/items/d3303248aae3d87e0a6a
+2026-06-20	https://qiita.com/shioccii/items/002e2e71eec45916b1c1
+2026-06-20	https://qiita.com/harukat1232000/items/272cc7df4ec94b87b6a8
+2026-06-20	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+2026-06-20	https://dev.to/vjswamy/microsoft-build-2026-and-nvidia-gtc-june-2026-the-biggest-ai-announcements-of-the-summer-5dg5
+2026-06-20	https://dev.to/tokenmixai/gpt-56-is-real-a-codex-log-says-so-everything-else-is-made-up-1ep1
+2026-06-20	https://dev.to/riteshkokam/5-web-design-trends-of-2026-6cp
+2026-06-20	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+2026-06-21	https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610
+2026-06-21	https://zenn.dev/long910/articles/2026-06-05-cve-2026-49975-http2-bomb-ai
+2026-06-21	https://zenn.dev/rei2718/articles/96ab5417cd6969
+2026-06-21	https://zenn.dev/aiwatch_jp/articles/agent-harness-oss-2026-maintained
+2026-06-21	https://qiita.com/Iud7n/items/0c567e9a23147ec99839
+2026-06-21	https://qiita.com/shinkai_/items/626dfa7857f2d554784e
+2026-06-21	https://qiita.com/dai_chi/items/2864a84b19c5f84b717c
+2026-06-21	https://dev.to/alexmercedcoder/ai-weekly-cheaper-coding-models-custom-chips-and-a-stateless-mcp-963
+2026-06-21	https://dev.to/sandrabrown/ai-103-certification-guide-2026-become-an-azure-ai-app-agent-developer-3b48
+2026-06-22	https://news.ycombinator.com/item?id=48555244
+2026-06-22	https://news.ycombinator.com/item?id=48511072
+2026-06-22	https://news.ycombinator.com/item?id=48188183
+2026-06-22	https://news.ycombinator.com/item?id=48633941
+2026-06-22	https://news.ycombinator.com/item?id=48181877
+2026-06-22	https://zenn.dev/terason/articles/083e11eb59acd6
+2026-06-22	https://zenn.dev/daishiro/articles/claude-fable-5-whats-new
+2026-06-22	https://zenn.dev/galirage/articles/claude-fable-5
+2026-06-22	https://zenn.dev/headwaters/articles/microsoft-build-2026-github
+2026-06-22	https://zenn.dev/sanpi34/articles/claude-code-pricing-shift-2026
+2026-06-22	https://qiita.com/niimim/items/ced0ddcab1e3383ad592
+2026-06-22	https://qiita.com/long-910/items/76779fc1d8602dab73b3
+2026-06-22	https://qiita.com/hisaho/items/bf19ff1d607d5965bf12
+2026-06-22	https://qiita.com/Tadataka_Takahashi/items/05275b562f25a62e6020
+2026-06-22	https://qiita.com/ishisaka/items/0cc99d974904eb0c7b42
+2026-06-22	https://dev.to/tokenmixai/gpt-56-is-real-a-codex-log-says-so-everything-else-is-made-up-1ep1
+2026-06-22	https://dev.to/pwd9000/microsoft-build-2026-top-announcements-from-a-devops-lens-419k
+2026-06-22	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+2026-06-22	https://dev.to/sandrabrown/ai-103-certification-guide-2026-become-an-azure-ai-app-agent-developer-3b48
+2026-06-22	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
 2026-06-29	https://news.ycombinator.com/item?id=48719361
 2026-06-29	https://news.ycombinator.com/item?id=48528779
 2026-06-29	https://news.ycombinator.com/item?id=47308059
@@ -101,3 +73,23 @@
 2026-06-30	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
 2026-06-30	https://dev.to/francistrdev/monthly-dev-report-june-2026-530a
 2026-06-30	https://dev.to/harsh2644/tanstack-is-eating-reacts-ecosystem-and-nobody-is-talking-about-it-10n0
+2026-07-01	https://news.ycombinator.com/item?id=48747976
+2026-07-01	https://news.ycombinator.com/item?id=48537165
+2026-07-01	https://news.ycombinator.com/item?id=48642699
+2026-07-01	https://news.ycombinator.com/item?id=48369863
+2026-07-01	https://news.ycombinator.com/item?id=46297348
+2026-07-01	https://zenn.dev/7788/articles/af11fbce6c3379
+2026-07-01	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
+2026-07-01	https://zenn.dev/cadp/articles/f8c5d9b8d1457e
+2026-07-01	https://zenn.dev/pura/articles/c33a0aec7ff339
+2026-07-01	https://zenn.dev/nextbeat/articles/github-zenn-aws-summit-japan-2026-2026-06-25
+2026-07-01	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+2026-07-01	https://qiita.com/papasim824/items/47a221eed3ff2428663c
+2026-07-01	https://qiita.com/yut-nagase/items/eb3b189d0c232f7c569e
+2026-07-01	https://qiita.com/minorun365/items/114f53def8cb0db60f47
+2026-07-01	https://qiita.com/akira_papa_AI/items/d46a6629b1aae835491d
+2026-07-01	https://dev.to/muildev/github-trending-digest-2026-06-30-2ilp
+2026-07-01	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+2026-07-01	https://dev.to/aboss123/your-ai-agent-shouldnt-write-html-it-should-call-a-ui-runtime-3f96
+2026-07-01	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+2026-07-01	https://dev.to/arshtechpro/deerflow-20-what-it-is-how-it-works-and-why-developers-should-pay-attention-3ip3
