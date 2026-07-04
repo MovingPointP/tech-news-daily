@@ -1,20 +1,35 @@
-2026-07-03	https://news.ycombinator.com/item?id=48747304
-2026-07-03	https://news.ycombinator.com/item?id=48745456
-2026-07-03	https://news.ycombinator.com/item?id=48555244
-2026-07-03	https://news.ycombinator.com/item?id=48633941
-2026-07-03	https://news.ycombinator.com/item?id=48181877
-2026-07-03	https://zenn.dev/suwash/articles/claude-sonnet-5-migration_20260701
-2026-07-03	https://zenn.dev/nttdata_tech/articles/cbe5d6a77dc6d7
-2026-07-03	https://zenn.dev/finatext/articles/snowflake-summit-2026-bi-tools-report
-2026-07-03	https://zenn.dev/user_thebigslee/articles/wsl-container-trial
-2026-07-03	https://zenn.dev/suwash/articles/loop-engineering_20260610
-2026-07-03	https://qiita.com/harunatotsuka/items/cdb79a2578d2d50e9039
-2026-07-03	https://qiita.com/ishisaka/items/aef1f886a7e8dc6e5fa4
-2026-07-03	https://qiita.com/kotauchisunsun/items/c2745d2d8aa59beb51f1
-2026-07-03	https://qiita.com/kccs_katsuhiro_miyasaka/items/0b955f645bb23c01a78b
-2026-07-03	https://qiita.com/shun-aoki/items/ee2b63d170008464f9ac
-2026-07-03	https://dev.to/meena_nukala/the-new-frontier-2026-devops-trends-you-cant-ignore-5g8f
-2026-07-03	https://dev.to/studiomeyer_io/web-design-trends-2026-what-actually-held-up-after-six-months-23p8
-2026-07-03	https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
-2026-07-03	https://dev.to/yanceyxin/github-weekly-trending-repositories-report-2g68
-2026-07-03	https://dev.to/hiroki-ii-ai/ai-daily-digest-may-22-2026-agentic-workflows-coding-agents-embodied-ai-i05
+1	2026-07-04	https://news.ycombinator.com/item?id=48760048
+2	2026-07-04	https://news.ycombinator.com/item?id=48537165
+3	2026-07-04	https://news.ycombinator.com/item?id=48434312
+4	2026-07-04	https://news.ycombinator.com/item?id=48787042
+5	2026-07-04	https://news.ycombinator.com/item?id=48686093
+6	2026-07-04	https://zenn.dev/suwash/articles/claude-sonnet-5-migration_20260701
+7	2026-07-04	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
+8	2026-07-04	https://zenn.dev/acntechjp/articles/498c1dc866af19
+9	2026-07-04	https://zenn.dev/cadp/articles/f8c5d9b8d1457e
+10	2026-07-04	https://qiita.com/lhjjjk4/items/1b2b60d24cd2144ca881
+11	2026-07-04	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+12	2026-07-04	https://qiita.com/ishisaka/items/9591e7b4b45fadff3da0
+13	2026-07-04	https://qiita.com/yut-nagase/items/eb3b189d0c232f7c569e
+14	2026-07-04	https://dev.to/franckpachot/getting-started-with-pgdurable-durable-workflows-inside-postgresql-3980
+15	2026-07-04	https://dev.to/devops_descent/devops-roadmap-2026-42ej
+16	2026-07-04	https://dev.to/meena_nukala/the-new-frontier-2026-devops-trends-you-cant-ignore-5g8f
+17	2026-07-04	https://dev.to/tadmstr/claude-code-doesnt-know-youve-been-gone-heres-the-fix-17ko
+18	2026-07-04	https://dev.to/akaranjkar08/github-copilot-token-billing-2026-full-cost-guide-and-alternatives-3bcf
+19	2026-07-03	https://news.ycombinator.com/item?id=48747304
+20	2026-07-03	https://news.ycombinator.com/item?id=48745456
+21	2026-07-03	https://news.ycombinator.com/item?id=48555244
+22	2026-07-03	https://news.ycombinator.com/item?id=48633941
+23	2026-07-03	https://news.ycombinator.com/item?id=48181877
+24	2026-07-03	https://zenn.dev/nttdata_tech/articles/cbe5d6a77dc6d7
+25	2026-07-03	https://zenn.dev/finatext/articles/snowflake-summit-2026-bi-tools-report
+26	2026-07-03	https://zenn.dev/user_thebigslee/articles/wsl-container-trial
+27	2026-07-03	https://zenn.dev/suwash/articles/loop-engineering_20260610
+28	2026-07-03	https://qiita.com/harunatotsuka/items/cdb79a2578d2d50e9039
+29	2026-07-03	https://qiita.com/kotauchisunsun/items/c2745d2d8aa59beb51f1
+30	2026-07-03	https://qiita.com/kccs_katsuhiro_miyasaka/items/0b955f645bb23c01a78b
+31	2026-07-03	https://qiita.com/shun-aoki/items/ee2b63d170008464f9ac
+32	2026-07-03	https://dev.to/studiomeyer_io/web-design-trends-2026-what-actually-held-up-after-six-months-23p8
+33	2026-07-03	https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
+34	2026-07-03	https://dev.to/yanceyxin/github-weekly-trending-repositories-report-2g68
+35	2026-07-03	https://dev.to/hiroki-ii-ai/ai-daily-digest-may-22-2026-agentic-workflows-coding-agents-embodied-ai-i05
