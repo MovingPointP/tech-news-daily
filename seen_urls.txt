@@ -33,3 +33,9 @@
 33	2026-07-03	https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
 34	2026-07-03	https://dev.to/yanceyxin/github-weekly-trending-repositories-report-2g68
 35	2026-07-03	https://dev.to/hiroki-ii-ai/ai-daily-digest-may-22-2026-agentic-workflows-coding-agents-embodied-ai-i05
+36	36	2026-07-05	https://news.ycombinator.com/item?id=48760048
+37	37	2026-07-05	https://zenn.dev/7788/articles/af11fbce6c3379
+38	38	2026-07-05	https://zenn.dev/ncdc/articles/96404cdb8ea32a
+39	39	2026-07-05	https://zenn.dev/collabostyle/articles/858875b235cdd6
+40	40	2026-07-05	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+41	41	2026-07-05	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
