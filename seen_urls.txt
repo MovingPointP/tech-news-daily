@@ -39,3 +39,16 @@
 39	39	2026-07-05	https://zenn.dev/collabostyle/articles/858875b235cdd6
 40	40	2026-07-05	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
 41	41	2026-07-05	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+42	2026-07-06	https://www.opentools.studio/
+43	2026-07-06	https://blog.flipper.net/future-of-flipper-zero-development/
+44	2026-07-06	https://techcrunch.com/
+45	2026-07-06	https://zenn.dev/7788/articles/af11fbce6c3379
+46	2026-07-06	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
+47	2026-07-06	https://zenn.dev/ncdc/articles/96404cdb8ea32a
+48	2026-07-06	https://zenn.dev/collabostyle/articles/858875b235cdd6
+49	2026-07-06	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+50	2026-07-06	https://qiita.com/yut-nagase/items/eb3b189d0c232f7c569e
+51	2026-07-06	https://dev.to/ai_made_tools/claude-sonnet-5-complete-guide-to-benchmarks-pricing-and-features-2026-1n5b
+52	2026-07-06	https://dev.to/devops_descent/devops-roadmap-2026-42ej
+53	2026-07-06	https://dev.to/tadmstr/claude-code-doesnt-know-youve-been-gone-heres-the-fix-17ko
+54	2026-07-06	https://dev.to/kansoldev/typing-object-keys-in-typescript-with-keyof-typeof-f05
