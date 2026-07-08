@@ -1,3 +1,5 @@
+1	2026-07-04	https://news.ycombinator.com/item?id=48760048
+2	2026-07-04	https://news.ycombinator.com/item?id=48537165
 3	2026-07-04	https://news.ycombinator.com/item?id=48434312
 4	2026-07-04	https://news.ycombinator.com/item?id=48787042
 5	2026-07-04	https://news.ycombinator.com/item?id=48686093
@@ -5,6 +7,17 @@
 7	2026-07-04	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
 8	2026-07-04	https://zenn.dev/acntechjp/articles/498c1dc866af19
 9	2026-07-04	https://zenn.dev/cadp/articles/f8c5d9b8d1457e
+10	2026-07-04	https://qiita.com/lhjjjk4/items/1b2b60d24cd2144ca881
+11	2026-07-04	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+12	2026-07-04	https://qiita.com/ishisaka/items/9591e7b4b45fadff3da0
+13	2026-07-04	https://qiita.com/yut-nagase/items/eb3b189d0c232f7c569e
+14	2026-07-04	https://dev.to/franckpachot/getting-started-with-pgdurable-durable-workflows-inside-postgresql-3980
+15	2026-07-04	https://dev.to/devops_descent/devops-roadmap-2026-42ej
+16	2026-07-04	https://dev.to/meena_nukala/the-new-frontier-2026-devops-trends-you-cant-ignore-5g8f
+17	2026-07-04	https://dev.to/tadmstr/claude-code-doesnt-know-youve-been-gone-heres-the-fix-17ko
+18	2026-07-04	https://dev.to/akaranjkar08/github-copilot-token-billing-2026-full-cost-guide-and-alternatives-3bcf
+19	2026-07-03	https://news.ycombinator.com/item?id=48747304
+20	2026-07-03	https://news.ycombinator.com/item?id=48745456
 21	2026-07-03	https://news.ycombinator.com/item?id=48555244
 22	2026-07-03	https://news.ycombinator.com/item?id=48633941
 23	2026-07-03	https://news.ycombinator.com/item?id=48181877
@@ -39,6 +52,16 @@
 52	2026-07-06	https://dev.to/devops_descent/devops-roadmap-2026-42ej
 53	2026-07-06	https://dev.to/tadmstr/claude-code-doesnt-know-youve-been-gone-heres-the-fix-17ko
 54	2026-07-06	https://dev.to/kansoldev/typing-object-keys-in-typescript-with-keyof-typeof-f05
+2026-07-07	https://news.ycombinator.com/item?id=48816883
+2026-07-07	https://news.ycombinator.com/item?id=48760048
+2026-07-07	https://zenn.dev/7788/articles/af11fbce6c3379
+2026-07-07	https://www.anthropic.com/news/redeploying-fable-5
+2026-07-07	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
+2026-07-07	https://qiita.com/ishisaka/items/8ea7f67cbf4a29c10ad2
+2026-07-07	https://qiita.com/optimisuke/items/a2463fab85ee9778847c
+2026-07-07	https://qiita.com/s_moriyama/items/9aef2ff5c6348d83470a
+2026-07-07	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+2026-07-07	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
 2026-07-08	https://news.ycombinator.com/item?id=46341767
 2026-07-08	https://news.ycombinator.com/item?id=47155908
 2026-07-08	https://news.ycombinator.com/item?id=47226958
