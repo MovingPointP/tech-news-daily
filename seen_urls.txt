@@ -39,46 +39,10 @@
 52	2026-07-06	https://dev.to/devops_descent/devops-roadmap-2026-42ej
 53	2026-07-06	https://dev.to/tadmstr/claude-code-doesnt-know-youve-been-gone-heres-the-fix-17ko
 54	2026-07-06	https://dev.to/kansoldev/typing-object-keys-in-typescript-with-keyof-typeof-f05
-2026-07-07	https://news.ycombinator.com/item?id=48816883
-2026-07-07	https://news.ycombinator.com/item?id=48760048
-2026-07-07	https://zenn.dev/7788/articles/af11fbce6c3379
-2026-07-07	https://www.anthropic.com/news/redeploying-fable-5
-2026-07-07	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
-2026-07-07	https://qiita.com/ishisaka/items/8ea7f67cbf4a29c10ad2
-2026-07-07	https://qiita.com/optimisuke/items/a2463fab85ee9778847c
-2026-07-07	https://qiita.com/s_moriyama/items/9aef2ff5c6348d83470a
-2026-07-07	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
-2026-07-07	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
-2026-07-08	https://news.ycombinator.com/item?id=46341767
-2026-07-08	https://news.ycombinator.com/item?id=47155908
-2026-07-08	https://news.ycombinator.com/item?id=47226958
-2026-07-08	https://news.ycombinator.com/item?id=46556825
-2026-07-08	https://news.ycombinator.com/item?id=46471524
-2026-07-08	https://zenn.dev/suwash/articles/gitlab-agentic-platform_20260617
-2026-07-08	https://zenn.dev/ikkainc/articles/1f02537a371698
-2026-07-08	https://zenn.dev/nttdata_tech/articles/4ff330c3988089
-2026-07-08	https://zenn.dev/kakuremi/articles/nvidia-rtx-spark-consumer-pc-impact-2026
-2026-07-08	https://zenn.dev/kakuremi/articles/ai-datacenter-power-japan-2026
-2026-07-08	https://qiita.com/Maku-Inc/items/35a9bdc06f72efa1ec06
-2026-07-08	https://qiita.com/kawabe0201/items/f45b754d9f475f2e15ea
-2026-07-08	https://qiita.com/harunatotsuka/items/cdb79a2578d2d50e9039
-2026-07-08	https://qiita.com/hayao_k/items/44b25e2a51d12482a308
-2026-07-08	https://qiita.com/NKKTechGlobal/items/1187e83e4838a3092ca7
-2026-07-08	https://dev.to/anthonymax/8-developer-tools-that-will-boost-your-workflow-in-2026-3p8k
-2026-07-08	https://dev.to/_d7eb1c1703182e3ce1782/the-complete-guide-to-developer-productivity-tools-in-2026-165b
-2026-07-08	https://dev.to/glad_labs/2026-developer-tools-whats-new-whats-next-130d
-2026-07-08	https://dev.to/eva_clari_289d85ecc68da48/the-modern-developer-stack-in-2026-tools-you-actually-need-3g5p
-2026-07-08	https://dev.to/eugenioenko/the-lightweight-javascript-framework-renaissance-of-2026-4ee0
-2026-07-09	https://news.ycombinator.com/item?id=46703322
-2026-07-09	https://news.ycombinator.com/item?id=48552724
-2026-07-09	https://news.ycombinator.com/item?id=48552723
-2026-07-09	https://zenn.dev/foxtail88/articles/bd171992cf95a1
-2026-07-09	https://zenn.dev/cepe_jp/articles/481a75c2e3e2dc
-2026-07-09	https://zenn.dev/grainrigi/articles/b7c2320ef13c71
-2026-07-09	https://qiita.com/aoyagi9936/items/1c76ec3dba15eb47de65
-2026-07-09	https://qiita.com/y-t0910/items/cd0433394bc3ec208857
-2026-07-09	https://qiita.com/Hiroyuki_OSAKI/items/2e0db565cfd5686eadf1
-2026-07-09	https://dev.to/paultwist/why-agent-scheduling-is-your-next-infrastructure-problem-3gh2
-2026-07-09	https://dev.to/alexmercedcoder/the-state-of-streaming-to-apache-iceberg-in-july-2026-every-path-its-latency-and-what-to-do-when-i6p
-2026-07-09	https://dev.to/alexmercedcoder/the-state-of-apache-polaris-in-july-2026-from-incubating-catalog-to-the-governance-layer-of-the-1n3h
-2026-07-09	https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-1-to-july-8-2026-3non
+1	2026-07-10	https://zenn.dev/lnest_knowledge/articles/claude-code-artifacts-verification
+2	2026-07-10	https://qiita.com/harupython/items/fc4342e1fdc0d13564df
+3	2026-07-10	https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-v4-in-july-2026-what-the-dev-list-tells-us-about-the-formats-next-475g
+89	2026-07-10	https://news.ycombinator.com/item?id=48537165
+90	2026-07-10	https://zenn.dev/lnest_knowledge/articles/claude-code-artifacts-verification
+91	2026-07-10	https://qiita.com/harupython/items/fc4342e1fdc0d13564df
+92	2026-07-10	https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-v4-in-july-2026-what-the-dev-list-tells-us-about-the-formats-next-475g
