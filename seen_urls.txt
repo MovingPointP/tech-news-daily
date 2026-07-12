@@ -76,3 +76,23 @@
 2026-07-11	https://dev.to/soulentheo/every-ai-coding-cli-in-2026-the-complete-map-30-tools-compared-4gob
 2026-07-11	https://dev.to/sapiver_press/ais-next-phase-is-about-doing-the-work-not-just-answering-questions-i4c
 2026-07-11	https://dev.to/sonotommy/8-open-source-frameworks-for-building-ai-agents-that-actually-work-in-2026-1hhm
+80	2026-07-12	https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/
+81	2026-07-12	https://news.ycombinator.com/item?id=48878682
+82	2026-07-12	https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/
+83	2026-07-12	https://news.ycombinator.com/item?id=48883064
+84	2026-07-12	https://news.ycombinator.com/item?id=48821102
+85	2026-07-12	https://zenn.dev/kuroi_heart/articles/e692b01598a02d
+86	2026-07-12	https://zenn.dev/lnest_knowledge/articles/claude-code-artifacts-verification
+87	2026-07-12	https://zenn.dev/joinclass/articles/chatgpt-claude-20260602220005-14179
+88	2026-07-12	https://zenn.dev/amu_lab/articles/claude-code-token-reduction-guide-2026
+89	2026-07-12	https://zenn.dev/joinclass/articles/claude-md-design-guide-2026
+90	2026-07-12	https://qiita.com/lhjjjk4/items/ac889d619707e89544c0
+91	2026-07-12	https://qiita.com/htani0817/items/2cfbcf3f1bb435b28e6f
+92	2026-07-12	https://qiita.com/lhjjjk4/items/80335da9f21386f09977
+93	2026-07-12	https://qiita.com/masykot582/items/0a704073f6934af3fc72
+94	2026-07-12	https://qiita.com/mekakushi/items/2cd971e862e371104216
+95	2026-07-12	https://dev.to/paultwist/why-agent-scheduling-is-your-next-infrastructure-problem-3gh2
+96	2026-07-12	https://dev.to/kavinkimcreator/mica-is-live-in-31-days-the-eu-ai-act-hits-your-agent-messaging-too-you-need-both-g39
+97	2026-07-12	https://dev.to/sonotommy/10-best-open-source-ai-agents-for-2026-2l6p
+98	2026-07-12	https://dev.to/soytuber/ai-agents-address-hallucinations-new-tools-for-code-gen-enterprise-auth-53fk
+99	2026-07-12	https://dev.to/aiexplore369zoho/the-coding-agent-arms-race-who-survives-the-h1-2026-shakeout-36po
