@@ -23,3 +23,7 @@
 23	2026-07-12	https://dev.to/sonotommy/10-best-open-source-ai-agents-for-2026-2l6p
 24	2026-07-12	https://dev.to/soytuber/ai-agents-address-hallucinations-new-tools-for-code-gen-enterprise-auth-53fk
 25	2026-07-12	https://dev.to/aiexplore369zoho/the-coding-agent-arms-race-who-survives-the-h1-2026-shakeout-36po
+26	2026-07-14	https://9to5google.com/2026/07/13/samsung-health-ai-training-data-consent/
+27	2026-07-14	https://zenn.dev/7788/articles/af11fbce6c3379
+28	2026-07-14	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+29	2026-07-14	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
