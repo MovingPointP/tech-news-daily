@@ -27,3 +27,9 @@
 27	2026-07-14	https://zenn.dev/7788/articles/af11fbce6c3379
 28	2026-07-14	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
 29	2026-07-14	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+30	30	2026-07-15	https://news.ycombinator.com/item?id=48902320
+31	31	2026-07-15	https://zenn.dev/tesla/articles/545165ed6334c7
+32	32	2026-07-15	https://zenn.dev/7788/articles/af11fbce6c3379
+33	33	2026-07-15	https://dev.to/aws-builders/introducing-aws-sandbox-environment-learn-aws-for-free-without-a-credit-card-58np
+34	34	2026-07-15	https://dev.to/franckpachot/postgresql-resolves-uniqueness-through-heap-tuple-visibility-bkp
+35	35	2026-07-15	https://dev.to/alexmercedcoder/meet-apache-ossie-the-open-semantic-interchange-finds-its-home-at-the-asf-2mio
