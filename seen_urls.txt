@@ -84,3 +84,7 @@
 84	84	2026-07-18	https://dev.to/kanywst/what-11-big-tech-companies-actually-do-with-ai-in-2026-a-layered-numbers-first-breakdown-h58
 85	85	2026-07-18	https://dev.to/pwd9000/microsoft-build-2026-top-announcements-from-a-devops-lens-419k
 86	86	2026-07-18	https://dev.to/victorstackai/sa-contrib-2026-017-drupal-canvas-ssrf-info-disclosure-the-hidden-submodule-problem-4m8
+87	87	2026-07-19	https://dev.to/max_quimby/gpt-56-closed-a-30-year-math-gap-nobody-noticed-173b
+88	88	2026-07-19	https://dev.to/marrouchi/typescript-7-the-speed-upgrade-we-were-waiting-for-5b4l
+89	89	2026-07-19	https://dev.to/numbpill3d/how-i-cut-my-claude-code-token-usage-by-60-and-got-better-output-48b0
+90	90	2026-07-19	https://artificialanalysis.ai/models/grok-4-5
