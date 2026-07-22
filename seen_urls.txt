@@ -114,3 +114,12 @@
 114	2026-07-21	https://dev.to/sreeraj-sreenivasan/your-guide-to-vibe-coding-with-a-local-llm-10pm
 115	2026-07-21	https://dev.to/khushi_dubey/cursor-pricing-2026-plans-credits-and-how-to-choose-the-right-one-4olm
 116	2026-07-21	https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-11-to-july-18-2026-3f1p
+117	2026-07-22	https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html
+118	2026-07-22	https://zenn.dev/nana/articles/3fd7e9dffeb831
+119	2026-07-22	https://zenn.dev/kg_filled/articles/0595bdd44719da
+120	2026-07-22	https://zenn.dev/galirage/articles/claude-managed-agents-quickstart
+121	2026-07-22	https://qiita.com/YushiYamamoto/items/f872bec0f685d486c55f
+122	2026-07-22	https://qiita.com/toarusyakaijin/items/9bc6f25024baac8ab18b
+123	2026-07-22	https://qiita.com/ishizakahiroshi/items/cc1a155894db8a90087d
+124	2026-07-22	https://dev.to/paxrel/top-7-ai-agent-frameworks-in-2026-a-developers-comparison-guide-hcm
+125	2026-07-22	https://dev.to/sonotommy/8-open-source-frameworks-for-building-ai-agents-that-actually-work-in-2026-1hhm
