@@ -1,106 +1,94 @@
-13	2026-07-14	https://9to5google.com/2026/07/13/samsung-health-ai-training-data-consent/
-14	2026-07-14	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
-15	2026-07-14	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
-16	2026-07-14	https://zenn.dev/7788/articles/af11fbce6c3379
-17	2026-07-15	https://dev.to/alexmercedcoder/meet-apache-ossie-the-open-semantic-interchange-finds-its-home-at-the-asf-2mio
-18	2026-07-15	https://dev.to/aws-builders/introducing-aws-sandbox-environment-learn-aws-for-free-without-a-credit-card-58np
-19	2026-07-15	https://dev.to/franckpachot/postgresql-resolves-uniqueness-through-heap-tuple-visibility-bkp
-20	2026-07-15	https://news.ycombinator.com/item?id=48902320
-21	2026-07-15	https://zenn.dev/7788/articles/af11fbce6c3379
-22	2026-07-15	https://zenn.dev/tesla/articles/545165ed6334c7
-23	2026-07-16	https://dev.to/alexmercedcoder/meet-apache-ossie-the-open-semantic-interchange-finds-its-home-at-the-asf-2mio
-24	2026-07-16	https://dev.to/aws-builders/introducing-aws-sandbox-environment-learn-aws-for-free-without-a-credit-card-58np
-25	2026-07-16	https://dev.to/franckpachot/postgresql-resolves-uniqueness-through-heap-tuple-visibility-bkp
-26	2026-07-16	https://dev.to/topic/typescript
-27	2026-07-16	https://news.ycombinator.com/item?id=48923380
-28	2026-07-16	https://news.ycombinator.com/item?id=48924912
-29	2026-07-16	https://news.ycombinator.com/item?id=48926590
-30	2026-07-16	https://qiita.com/ennagara128/items/9139bc53b39c35c51bbb
-31	2026-07-16	https://qiita.com/kai_kou/items/411e39ef6571379ec369
-32	2026-07-16	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
-33	2026-07-16	https://qiita.com/papasim824/items/47a221eed3ff2428663c
-34	2026-07-16	https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/
-35	2026-07-16	https://turntrout.substack.com/p/why-i-left-google-deepmind
-36	2026-07-16	https://zenn.dev/aishift/articles/6aa1540ea27fcd
-37	2026-07-16	https://zenn.dev/okikusan/articles/35b08599c82bb2
-38	2026-07-16	https://zenn.dev/solvio/articles/27c06e4802aa45
-39	2026-07-16	https://zenn.dev/toshipon/articles/claude-code-security-audit-skill
-40	2026-07-17	https://dev.to/0012303/8-free-food-nutrition-apis-no-key-tested-2026-3doh
-41	2026-07-17	https://dev.to/akari_iku/is-your-claude-code-safe-from-base64-inside-2026-ai-agent-attacks-13ab
-42	2026-07-17	https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7
-43	2026-07-17	https://dev.to/nishrico0098/calyxos-on-android-16-i-ran-it-on-a-motorola-g45-5g-india-variant-2a1o
-44	2026-07-17	https://dev.to/victorstackai/sa-contrib-2026-017-drupal-canvas-ssrf-info-disclosure-the-hidden-submodule-problem-4m8
-45	2026-07-17	https://news.ycombinator.com/item?id=48884984
-46	2026-07-17	https://news.ycombinator.com/item?id=48923363
-47	2026-07-17	https://news.ycombinator.com/item?id=48932269
-48	2026-07-17	https://news.ycombinator.com/item?id=48943174
-49	2026-07-17	https://news.ycombinator.com/item?id=48950625
-50	2026-07-17	https://qiita.com/ennagara128/items/03fbb0408651f91c7164
-51	2026-07-17	https://qiita.com/ha-te/items/feaffeef685fdb207eb1
-52	2026-07-17	https://qiita.com/koki-bit/items/19a4bd7f2c876b92f769
-53	2026-07-17	https://qiita.com/picnic/items/6cb9f4ff78ccb9661283
-54	2026-07-17	https://qiita.com/xujfcn/items/ba9d61e5c8b66a70f1c1
-55	2026-07-17	https://zenn.dev/acntechjp/articles/498c1dc866af19
-56	2026-07-17	https://zenn.dev/kakuremi/articles/ai-datacenter-power-japan-2026
-57	2026-07-17	https://zenn.dev/m__f/articles/chatgpt_5_6_update_overview
-58	2026-07-17	https://zenn.dev/smoll/scraps/7e2fb50c12cfaa
-59	2026-07-17	https://zenn.dev/uhyo/articles/react-profession-bench-13
-60	2026-07-18	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
-61	2026-07-18	https://dev.to/kanywst/what-11-big-tech-companies-actually-do-with-ai-in-2026-a-layered-numbers-first-breakdown-h58
-62	2026-07-18	https://dev.to/pwd9000/microsoft-build-2026-top-announcements-from-a-devops-lens-419k
-63	2026-07-18	https://dev.to/victorstackai/sa-contrib-2026-017-drupal-canvas-ssrf-info-disclosure-the-hidden-submodule-problem-4m8
-64	2026-07-18	https://news.ycombinator.com/item?id=48932269
-65	2026-07-18	https://news.ycombinator.com/item?id=48943174
-66	2026-07-18	https://news.ycombinator.com/item?id=48950625
-67	2026-07-18	https://qiita.com/ennagara128/items/d608df1fa60c7250f775
-68	2026-07-18	https://qiita.com/hayao_k/items/44b25e2a51d12482a308
-69	2026-07-18	https://qiita.com/nabeo_ji/items/dd071a826feaea212aef
-70	2026-07-18	https://qiita.com/niimim/items/4abc028e65898d29fb78
-71	2026-07-18	https://zenn.dev/7788/articles/af11fbce6c3379
-72	2026-07-18	https://zenn.dev/upgradetech/articles/dify-v-1-16-0
-73	2026-07-18	https://zenn.dev/yasse/articles/a7240304af804c
-74	2026-07-19	https://artificialanalysis.ai/models/grok-4-5
-75	2026-07-19	https://dev.to/marrouchi/typescript-7-the-speed-upgrade-we-were-waiting-for-5b4l
-76	2026-07-19	https://dev.to/max_quimby/gpt-56-closed-a-30-year-math-gap-nobody-noticed-173b
-77	2026-07-19	https://dev.to/numbpill3d/how-i-cut-my-claude-code-token-usage-by-60-and-got-better-output-48b0
-78	2026-07-20	https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7
-79	2026-07-20	https://dev.to/joinwithken/10-ai-agents-powering-million-dollar-businesses-in-2026-25mn
-80	2026-07-20	https://news.ycombinator.com/item?id=48954522
-81	2026-07-20	https://qiita.com/emi_ndk/items/6b3a11c3e7c9ca673092
-82	2026-07-20	https://qiita.com/harunatotsuka/items/cdb79a2578d2d50e9039
-83	2026-07-20	https://zenn.dev/takna/articles/claude-code-added-features-jul2025-mar2026
-84	2026-07-21	https://news.ycombinator.com/item?id=48923363
-85	2026-07-21	https://news.ycombinator.com/item?id=48932269
-86	2026-07-21	https://news.ycombinator.com/item?id=48950625
-87	2026-07-25	https://dev.to/alexmercedcoder/the-state-of-streaming-to-apache-iceberg-in-july-2026-every-path-its-latency-and-what-to-do-when-i6p
-88	2026-07-25	https://dev.to/sreeraj-sreenivasan/the-complete-guide-to-local-llm-inference-tools-in-july-2026-llamacpp-ollama-vllm-sglang-and-4mh1
-89	2026-07-25	https://news.ycombinator.com/item?id=48956248
-90	2026-07-25	https://news.ycombinator.com/item?id=48997548
-91	2026-07-25	https://qiita.com/KaaaaaPeeeee/items/51a4fec3761a7644af24
-92	2026-07-25	https://qiita.com/ishisaka/items/a9ba255051776eb713e1
-93	2026-07-25	https://qiita.com/yoshiyakato/items/9aacced8bdb6742ba77d
-94	2026-07-25	https://zenn.dev/nenene01/articles/model-guide-2026
-95	2026-07-25	https://zenn.dev/phpmyadmin/articles/f243076e9ec1fe
-96	2026-07-25	https://zenn.dev/upgradetech/articles/dify-v-1-15-0
-97	2026-07-26	https://dev.to/aniruddha_adak/what-people-actually-built-with-claude-fable-5-and-gpt-56-sol-and-the-exact-prompts-they-used-1l9c
-98	2026-07-26	https://dev.to/dsplce-co/claude-opus-5-everything-you-need-to-know-le7
-99	2026-07-26	https://dev.to/hamidrazadev/gpt-56-vs-claude-fable-5-which-ai-model-should-developers-use-in-2026-ea0
-100	2026-07-26	https://dev.to/usman_awan/16-days-5-frontier-ai-models-how-to-survive-the-ai-release-firehose-2kb8
-101	2026-07-26	https://news.ycombinator.com/item?id=46471524
-102	2026-07-26	https://news.ycombinator.com/item?id=47752884
-103	2026-07-26	https://news.ycombinator.com/item?id=49015639
-104	2026-07-26	https://qiita.com/ennagara128/items/51d313666bce2d7cfc7d
-105	2026-07-26	https://qiita.com/op_yamaguchi/items/00790c15556f26c6e549
-106	2026-07-26	https://zenn.dev/kida_takuma/articles/claude-code-ai-agent-team
-107	2026-07-26	https://zenn.dev/komlock_lab/articles/ai-agent-economy-history-2026
-108	2026-07-26	https://zenn.dev/miyan/articles/claude-code-ai-secretary-design-2026
-109	2026-07-26	https://zenn.dev/seeda_yuto/articles/claude-code-ai-company-autonomous
-110	2026-07-27	https://news.ycombinator.com/item?id=48943174
-111	2026-07-27	https://zenn.dev/lifona/articles/34484477fb092b
-112	2026-07-27	https://zenn.dev/okamototk/articles/d96bec3ccd7195
-113	2026-07-27	https://zenn.dev/mixi/articles/fd62f8ddc178f6
-114	2026-07-27	https://qiita.com/emi_ndk/items/888f31713efd1fcb57f2
-115	2026-07-27	https://qiita.com/Skillselion/items/c4040a5491107edcdc9f
-116	2026-07-27	https://qiita.com/akira_papa_AI/items/f05c15c92bd938ffd10f
-117	2026-07-27	https://dev.to/albertocodes/i-shipped-googles-turboquant-as-a-vllm-plugin-72-hours-after-the-paper-heres-what-nobody-else-473g
-118	2026-07-27	https://dev.to/arshtechpro/wwdc-2026-xcode-27-ships-with-apples-own-agent-skills-what-they-are-and-how-to-use-them-3g2
+1	21	2026-07-15	https://zenn.dev/7788/articles/af11fbce6c3379
+2	22	2026-07-15	https://zenn.dev/tesla/articles/545165ed6334c7
+3	23	2026-07-16	https://dev.to/alexmercedcoder/meet-apache-ossie-the-open-semantic-interchange-finds-its-home-at-the-asf-2mio
+4	24	2026-07-16	https://dev.to/aws-builders/introducing-aws-sandbox-environment-learn-aws-for-free-without-a-credit-card-58np
+5	25	2026-07-16	https://dev.to/franckpachot/postgresql-resolves-uniqueness-through-heap-tuple-visibility-bkp
+6	26	2026-07-16	https://dev.to/topic/typescript
+7	27	2026-07-16	https://news.ycombinator.com/item?id=48923380
+8	28	2026-07-16	https://news.ycombinator.com/item?id=48924912
+9	29	2026-07-16	https://news.ycombinator.com/item?id=48926590
+10	30	2026-07-16	https://qiita.com/ennagara128/items/9139bc53b39c35c51bbb
+11	31	2026-07-16	https://qiita.com/kai_kou/items/411e39ef6571379ec369
+12	32	2026-07-16	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+13	33	2026-07-16	https://qiita.com/papasim824/items/47a221eed3ff2428663c
+14	34	2026-07-16	https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/
+15	35	2026-07-16	https://turntrout.substack.com/p/why-i-left-google-deepmind
+16	36	2026-07-16	https://zenn.dev/aishift/articles/6aa1540ea27fcd
+17	37	2026-07-16	https://zenn.dev/okikusan/articles/35b08599c82bb2
+18	38	2026-07-16	https://zenn.dev/solvio/articles/27c06e4802aa45
+19	39	2026-07-16	https://zenn.dev/toshipon/articles/claude-code-security-audit-skill
+20	40	2026-07-17	https://dev.to/0012303/8-free-food-nutrition-apis-no-key-tested-2026-3doh
+21	41	2026-07-17	https://dev.to/akari_iku/is-your-claude-code-safe-from-base64-inside-2026-ai-agent-attacks-13ab
+22	42	2026-07-17	https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7
+23	43	2026-07-17	https://dev.to/nishrico0098/calyxos-on-android-16-i-ran-it-on-a-motorola-g45-5g-india-variant-2a1o
+24	44	2026-07-17	https://dev.to/victorstackai/sa-contrib-2026-017-drupal-canvas-ssrf-info-disclosure-the-hidden-submodule-problem-4m8
+25	45	2026-07-17	https://news.ycombinator.com/item?id=48884984
+26	46	2026-07-17	https://news.ycombinator.com/item?id=48923363
+27	47	2026-07-17	https://news.ycombinator.com/item?id=48932269
+28	48	2026-07-17	https://news.ycombinator.com/item?id=48943174
+29	49	2026-07-17	https://news.ycombinator.com/item?id=48950625
+30	50	2026-07-17	https://qiita.com/ennagara128/items/03fbb0408651f91c7164
+31	51	2026-07-17	https://qiita.com/ha-te/items/feaffeef685fdb207eb1
+32	52	2026-07-17	https://qiita.com/koki-bit/items/19a4bd7f2c876b92f769
+33	53	2026-07-17	https://qiita.com/picnic/items/6cb9f4ff78ccb9661283
+34	54	2026-07-17	https://qiita.com/xujfcn/items/ba9d61e5c8b66a70f1c1
+35	55	2026-07-17	https://zenn.dev/acntechjp/articles/498c1dc866af19
+36	56	2026-07-17	https://zenn.dev/kakuremi/articles/ai-datacenter-power-japan-2026
+37	57	2026-07-17	https://zenn.dev/m__f/articles/chatgpt_5_6_update_overview
+38	58	2026-07-17	https://zenn.dev/smoll/scraps/7e2fb50c12cfaa
+39	59	2026-07-17	https://zenn.dev/uhyo/articles/react-profession-bench-13
+40	60	2026-07-18	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+41	61	2026-07-18	https://dev.to/kanywst/what-11-big-tech-companies-actually-do-with-ai-in-2026-a-layered-numbers-first-breakdown-h58
+42	62	2026-07-18	https://dev.to/pwd9000/microsoft-build-2026-top-announcements-from-a-devops-lens-419k
+43	63	2026-07-18	https://dev.to/victorstackai/sa-contrib-2026-017-drupal-canvas-ssrf-info-disclosure-the-hidden-submodule-problem-4m8
+44	64	2026-07-18	https://news.ycombinator.com/item?id=48932269
+45	65	2026-07-18	https://news.ycombinator.com/item?id=48943174
+46	66	2026-07-18	https://news.ycombinator.com/item?id=48950625
+47	67	2026-07-18	https://qiita.com/ennagara128/items/d608df1fa60c7250f775
+48	68	2026-07-18	https://qiita.com/hayao_k/items/44b25e2a51d12482a308
+49	69	2026-07-18	https://qiita.com/nabeo_ji/items/dd071a826feaea212aef
+50	70	2026-07-18	https://qiita.com/niimim/items/4abc028e65898d29fb78
+51	71	2026-07-18	https://zenn.dev/7788/articles/af11fbce6c3379
+52	72	2026-07-18	https://zenn.dev/upgradetech/articles/dify-v-1-16-0
+53	73	2026-07-18	https://zenn.dev/yasse/articles/a7240304af804c
+54	74	2026-07-19	https://artificialanalysis.ai/models/grok-4-5
+55	75	2026-07-19	https://dev.to/marrouchi/typescript-7-the-speed-upgrade-we-were-waiting-for-5b4l
+56	76	2026-07-19	https://dev.to/max_quimby/gpt-56-closed-a-30-year-math-gap-nobody-noticed-173b
+57	77	2026-07-19	https://dev.to/numbpill3d/how-i-cut-my-claude-code-token-usage-by-60-and-got-better-output-48b0
+58	78	2026-07-20	https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7
+59	79	2026-07-20	https://dev.to/joinwithken/10-ai-agents-powering-million-dollar-businesses-in-2026-25mn
+60	80	2026-07-20	https://news.ycombinator.com/item?id=48954522
+61	81	2026-07-20	https://qiita.com/emi_ndk/items/6b3a11c3e7c9ca673092
+62	82	2026-07-20	https://qiita.com/harunatotsuka/items/cdb79a2578d2d50e9039
+63	83	2026-07-20	https://zenn.dev/takna/articles/claude-code-added-features-jul2025-mar2026
+64	84	2026-07-21	https://news.ycombinator.com/item?id=48923363
+65	85	2026-07-21	https://news.ycombinator.com/item?id=48932269
+66	86	2026-07-21	https://news.ycombinator.com/item?id=48950625
+67	87	2026-07-25	https://dev.to/alexmercedcoder/the-state-of-streaming-to-apache-iceberg-in-july-2026-every-path-its-latency-and-what-to-do-when-i6p
+68	88	2026-07-25	https://dev.to/sreeraj-sreenivasan/the-complete-guide-to-local-llm-inference-tools-in-july-2026-llamacpp-ollama-vllm-sglang-and-4mh1
+69	89	2026-07-25	https://news.ycombinator.com/item?id=48956248
+70	90	2026-07-25	https://news.ycombinator.com/item?id=48997548
+71	91	2026-07-25	https://qiita.com/KaaaaaPeeeee/items/51a4fec3761a7644af24
+72	92	2026-07-25	https://qiita.com/ishisaka/items/a9ba255051776eb713e1
+73	93	2026-07-25	https://qiita.com/yoshiyakato/items/9aacced8bdb6742ba77d
+74	94	2026-07-25	https://zenn.dev/nenene01/articles/model-guide-2026
+75	95	2026-07-25	https://zenn.dev/phpmyadmin/articles/f243076e9ec1fe
+76	96	2026-07-25	https://zenn.dev/upgradetech/articles/dify-v-1-15-0
+77	97	2026-07-26	https://dev.to/aniruddha_adak/what-people-actually-built-with-claude-fable-5-and-gpt-56-sol-and-the-exact-prompts-they-used-1l9c
+78	98	2026-07-26	https://dev.to/dsplce-co/claude-opus-5-everything-you-need-to-know-le7
+79	99	2026-07-26	https://dev.to/hamidrazadev/gpt-56-vs-claude-fable-5-which-ai-model-should-developers-use-in-2026-ea0
+80	2026-07-28	https://www.anthropic.com/news/position-open-weights-models
+81	2026-07-28	https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/
+82	2026-07-28	https://www.businessstory.org/2026/07/19/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/
+83	2026-07-28	https://news.ycombinator.com/item?id=49047453
+84	2026-07-28	https://www.infoq.com/jp/news/2026/07/
+85	2026-07-28	https://dev.to/bean_bean/claude-managed-agents-deep-dive-anthropics-new-ai-agent-infrastructure-2026-3286
+86	2026-07-28	https://dev.to/nova_gg/i-built-5-ai-agents-with-claudes-new-builder-tool-heres-what-actually-works-in-2026-63d
+87	2026-07-28	https://zenn.dev/rasshii/books/learning-react-2026
+88	2026-07-28	https://qiita.com/chuandujiusi/items/754b3c1f42f79714216d
+89	2026-07-28	https://qiita.com/ishisaka/items/a9ba255051776eb713e1
+90	2026-07-28	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+91	2026-07-28	https://qiita.com/tech-festa/2026
+92	2026-07-28	https://dev.to/andresclua/http-just-got-its-first-new-method-in-20-years-heres-why-you-should-care-2h5p
+93	2026-07-28	https://dev.to/ucjung/claude-code-subagents-can-now-spawn-subagents-4h2a
+94	2026-07-28	https://dev.to/devstackdaily/anthropic-just-gave-k-12-teachers-a-free-year-of-claude-cowork-code-included-3am2
