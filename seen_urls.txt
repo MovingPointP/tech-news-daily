@@ -110,3 +110,15 @@
 110	2026-08-03	https://dev.to/kanywst/what-11-big-tech-companies-actually-do-with-ai-in-2026-a-layered-numbers-first-breakdown-h58
 111	2026-08-03	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
 112	2026-08-03	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
+113	2026-08-04	https://news.ycombinator.com/item?id=49166491
+114	2026-08-04	https://news.ycombinator.com/item?id=49148884
+115	2026-08-04	https://news.ycombinator.com/item?id=49146696
+116	2026-08-04	https://zenn.dev/headwaters/articles/7ece3ef002a900
+117	2026-08-04	https://zenn.dev/mixi/articles/fd62f8ddc178f6
+118	2026-08-04	https://zenn.dev/moxak/articles/2adec7901551bd
+119	2026-08-04	https://qiita.com/picnic/items/e37a269d3a232ea0c0a3
+120	2026-08-04	https://qiita.com/tomoyasasaki1204/items/4927ecf84e2d0ecfb034
+121	2026-08-04	https://qiita.com/RamTuckey/items/c06523693c6e8eb8d747
+122	2026-08-04	https://dev.to/endoflifeai/the-complete-eol-calendar-for-2026-every-major-software-end-of-life-date-2pp0
+123	2026-08-04	https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51
+124	2026-08-04	https://dev.to/alexmercedcoder/apple-goes-agentic-ai-week-of-june-4-11-2026-13mm
