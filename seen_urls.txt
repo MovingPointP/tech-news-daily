@@ -163,3 +163,14 @@
 163	2026-08-09	https://dev.to/farhadrahimiklie/web-development-roadmap-for-2026-skills-that-boost-your-career-salary-2lfj
 164	2026-08-09	https://dev.to/panchalmukundak/getting-started-with-modern-web-development-in-2026-a-practical-guide-for-beginners-58c9
 165	2026-08-09	https://dev.to/bhavnish_e35294bf0fd0b2df/hot-tea-crispy-samosa-interactive-comfort-food-experience-1ccp
+166	2026-08-10	https://news.ycombinator.com/item?id=49015639
+167	2026-08-10	https://news.ycombinator.com/item?id=49198069
+168	2026-08-10	https://zenn.dev/finatext/articles/e0b9def55e7318
+169	2026-08-10	https://zenn.dev/yasse/articles/a7240304af804c
+170	2026-08-10	https://qiita.com/tatsuya582/items/a800739c02eadff68c70
+171	2026-08-10	https://qiita.com/superdora-cloud/items/979295520a85f28e0cab
+172	2026-08-10	https://dev.to/devengers/dev-opportunity-radar-11-claude-community-ambassadors-yc-startup-internship-expo-z-fellows-and-25aa
+173	2026-08-10	https://dev.to/endoflifeai/nodejs-22-lts-eol-date-support-timeline-and-what-comes-next-30dm
+174	2026-08-10	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
+175	2026-08-10	https://dev.to/yakhilesh/20-open-source-internship-programs-updated-for-2026-5h32
+176	2026-08-10	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
