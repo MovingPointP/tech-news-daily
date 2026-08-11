@@ -174,3 +174,23 @@
 174	2026-08-10	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
 175	2026-08-10	https://dev.to/yakhilesh/20-open-source-internship-programs-updated-for-2026-5h32
 176	2026-08-10	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
+177	177	2026-08-11	https://adversa.ai/blog/top-agentic-ai-security-resources-august-2026/
+178	178	2026-08-11	https://news.ycombinator.com/item?id=47155908
+179	179	2026-08-11	https://news.ycombinator.com/item?id=47226958
+180	180	2026-08-11	https://news.ycombinator.com/item?id=46341767
+181	181	2026-08-11	https://news.ycombinator.com/item?id=46471524
+182	182	2026-08-11	https://blog.mean.ceo/claude-code-news-august-2026/
+183	183	2026-08-11	https://visualstudiomagazine.com/articles/2026/07/08/typescript-7-arrives-to-rock-vs-code-with-go-powered-speed.aspx
+184	184	2026-08-11	https://www.thundercompute.com/blog/best-open-source-llms
+185	185	2026-08-11	https://www.nxcode.io/resources/news/friendly-fire-rogue-agent-ai-coding-security-2026
+186	186	2026-08-11	https://medium.com/@artur.friedrich/react-vs-vue-vs-svelte-in-2026-a-practical-comparison-for-your-next-side-hustle-e57b7f5f37eb
+187	187	2026-08-11	https://qiita.com/ennagara128/items/1a6fb490a876804f8825
+188	188	2026-08-11	https://dev.to/shehzan/mastering-python-async-patterns-a-complete-guide-to-asyncio-in-2026-10o6
+189	189	2026-08-11	https://blog.stackademic.com/development-trends-2026-whats-actually-changing-and-why-it-matters-ed30dc6732bd
+190	190	2026-08-11	https://medium.com/@yogeshkrishnanseeniraj/high-performance-python-asyncio-vs-multiprocessing-vs-threadpools-2026-guide-ad49d40452fc
+191	191	2026-08-11	https://fireworks.ai/blog/best-open-source-llms
+192	192	2026-08-11	https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models
+193	193	2026-08-11	https://infoworld.com/article/4194567/revving-up-microsofts-10x-faster-typescript-7.html
+194	194	2026-08-11	https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7
+195	195	2026-08-11	https://medium.com/@priya.raimagiya/typescript-7-cad399470848
+196	196	2026-08-11	https://www.infoq.com/news/2026/08/typescript-7-released/
