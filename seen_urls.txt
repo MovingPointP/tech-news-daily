@@ -200,3 +200,23 @@
 200	2026-08-12	https://techcrunch.com/2026/08/12/google-amie-medical-ai-system/
 201	2026-08-12	https://techcrunch.com/2026/08/12/openai-astra-solves-mathematics-problems/
 202	2026-08-12	https://techcrunch.com/2026/08/12/strgy-ai-raises-funding-strategyos/
+204	204	2026-08-13	https://news.ycombinator.com/item?id=49233423
+205	205	2026-08-13	https://news.ycombinator.com/item?id=46858437
+206	206	2026-08-13	https://news.ycombinator.com/item?id=46563625
+207	207	2026-08-13	https://news.ycombinator.com/item?id=47571746
+208	208	2026-08-13	https://news.ycombinator.com/item?id=47817581
+209	209	2026-08-13	https://zenn.dev/tkou15/articles/cloudflare-wallets
+210	210	2026-08-13	https://zenn.dev/ai_nexus/articles/edge-ai-2026-guide
+211	211	2026-08-13	https://zenn.dev/kai_kou/articles/248-cloudflare-agents-week-2026-infra-guide
+212	212	2026-08-13	https://zenn.dev/satoshi_tech/articles/20260811-zenn-article-cloud-agents
+213	213	2026-08-13	https://zenn.dev/nttdata_tech/articles/2d59683d40299c
+214	214	2026-08-13	https://qiita.com/ishisaka/items/42b381b9b239e6ef215d
+215	215	2026-08-13	https://qiita.com/YushiYamamoto/items/d8c771d6d7031a793bba
+216	216	2026-08-13	https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19
+217	217	2026-08-13	https://qiita.com/shinkai_/items/8f88307b7cb13b748e57
+218	218	2026-08-13	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+219	219	2026-08-13	https://dev.to/endoflifeai/debian-end-of-life-dates-debian-12-reaches-eol-june-10-2026-8bj
+220	220	2026-08-13	https://dev.to/raisa_kanagaraj/rails-and-ruby-support-ends-critical-deadlines-every-developer-must-know-2d9g
+221	221	2026-08-13	https://dev.to/jamilxt/metas-muse-glimmer-a-30b-open-weight-model-built-for-local-ai-agents-dkj
+222	222	2026-08-13	https://dev.to/endoflifeai/python-end-of-life-dates-official-eol-schedule-for-every-version-dfd
+223	223	2026-08-13	https://dev.to/ericpham03/we-already-have-kiro-ide-kiro-cli-kiro-web-what-exactly-kiro-crew-is-5hca
