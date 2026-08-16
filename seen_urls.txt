@@ -1,17 +1,3 @@
-1	2026-07-15	https://dev.to/alexmercedcoder/meet-apache-ossie-the-open-semantic-interchange-finds-its-home-at-the-asf-2mio
-2	2026-07-15	https://dev.to/aws-builders/introducing-aws-sandbox-environment-learn-aws-for-free-without-a-credit-card-58np
-3	2026-07-15	https://dev.to/franckpachot/postgresql-resolves-uniqueness-through-heap-tuple-visibility-bkp
-4	2026-07-15	https://news.ycombinator.com/item?id=48902320
-5	2026-07-15	https://zenn.dev/7788/articles/af11fbce6c3379
-6	2026-07-15	https://zenn.dev/tesla/articles/545165ed6334c7
-7	2026-07-16	https://news.ycombinator.com/item?id=48926590
-8	2026-07-16	https://qiita.com/ennagara128/items/9139bc53b39c35c51bbb
-9	2026-07-16	https://qiita.com/kai_kou/items/411e39ef6571379ec369
-10	2026-07-16	https://qiita.com/papasim824/items/47a221eed3ff2428663c
-11	2026-07-16	https://zenn.dev/aishift/articles/6aa1540ea27fcd
-12	2026-07-16	https://zenn.dev/okikusan/articles/35b08599c82bb2
-13	2026-07-16	https://zenn.dev/solvio/articles/27c06e4802aa45
-14	2026-07-16	https://zenn.dev/toshipon/articles/claude-code-security-audit-skill
 15	2026-07-17	https://news.ycombinator.com/item?id=48950625
 16	2026-07-17	https://qiita.com/ennagara128/items/03fbb0408651f91c7164
 17	2026-07-17	https://qiita.com/ha-te/items/feaffeef685fdb207eb1
@@ -238,3 +224,23 @@
 239	239	2026-08-15	https://qiita.com/comty/items/3ea0e8a4cd761574d0aa
 240	240	2026-08-15	https://code.aetheria.jp/2188/
 241	241	2026-08-15	https://dev.to/shehzan/mastering-python-async-patterns-a-complete-guide-to-asyncio-in-2026-10o6
+242	242	2026-08-16	https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html
+243	243	2026-08-16	https://news.ycombinator.com/item?id=49271126
+244	244	2026-08-16	https://www.morphllm.com/best-ai-coding-agents-2026
+245	245	2026-08-16	https://www.superblocks.com/blog/cursor-vs-claude-code
+246	246	2026-08-16	https://www.infoworld.com/article/4194567/revving-up-microsofts-10x-faster-typescript-7.html
+247	247	2026-08-16	https://zenn.dev/tkou15/articles/cloudflare-wallets
+248	248	2026-08-16	https://zenn.dev/ai_nexus/articles/edge-ai-2026-guide
+249	249	2026-08-16	https://zenn.dev/kai_kou/articles/248-cloudflare-agents-week-2026-infra-guide
+250	250	2026-08-16	https://zenn.dev/satoshi_tech/articles/20260811-zenn-article-cloud-agents
+251	251	2026-08-16	https://zenn.dev/nttdata_tech/articles/2d59683d40299c
+252	252	2026-08-16	https://qiita.com/ishisaka/items/42b381b9b239e6ef215d
+253	253	2026-08-16	https://qiita.com/YushiYamamoto/items/d8c771d6d7031a793bba
+254	254	2026-08-16	https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19
+255	255	2026-08-16	https://qiita.com/shinkai_/items/8f88307b7cb13b748e57
+256	256	2026-08-16	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+257	257	2026-08-16	https://www.superblocks.com/blog/cursor-vs-claude-code
+258	258	2026-08-16	https://medium.com/@emmaschmidt304/react-19-in-2026-the-hottest-trends-every-developer-must-know-bc73ae38f05a
+259	259	2026-08-16	https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models
+260	260	2026-08-16	https://dev.to/shehzan/mastering-python-async-patterns-a-complete-guide-to-asyncio-in-2026-10o6
+261	261	2026-08-16	https://derekmolloy.ie/the-state-of-rust-for-embedded-development-in-mid-2026/
