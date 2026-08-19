@@ -1,261 +1,252 @@
-15	2026-07-17	https://news.ycombinator.com/item?id=48950625
-16	2026-07-17	https://qiita.com/ennagara128/items/03fbb0408651f91c7164
-17	2026-07-17	https://qiita.com/ha-te/items/feaffeef685fdb207eb1
-18	2026-07-17	https://qiita.com/koki-bit/items/19a4bd7f2c876b92f769
-19	2026-07-17	https://qiita.com/picnic/items/6cb9f4ff78ccb9661283
-20	2026-07-17	https://qiita.com/xujfcn/items/ba9d61e5c8b66a70f1c1
-21	2026-07-17	https://zenn.dev/acntechjp/articles/498c1dc866af19
-22	2026-07-17	https://zenn.dev/kakuremi/articles/ai-datacenter-power-japan-2026
-23	2026-07-17	https://zenn.dev/m__f/articles/chatgpt_5_6_update_overview
-24	2026-07-17	https://zenn.dev/uhyo/articles/react-profession-bench-13
-25	2026-07-18	https://qiita.com/ennagara128/items/d608df1fa60c7250f775
-26	2026-07-18	https://qiita.com/hayao_k/items/44b25e2a51d12482a308
-27	2026-07-18	https://qiita.com/nabeo_ji/items/dd071a826feaea212aef
-28	2026-07-18	https://qiita.com/niimim/items/4abc028e65898d29fb78
-29	2026-07-18	https://zenn.dev/upgradetech/articles/dify-v-1-16-0
-30	2026-07-18	https://zenn.dev/yasse/articles/a7240304af804c
-31	2026-07-19	https://artificialanalysis.ai/models/grok-4-5
-32	2026-07-19	https://dev.to/marrouchi/typescript-7-the-speed-upgrade-we-were-waiting-for-5b4l
-33	2026-07-19	https://dev.to/max_quimby/gpt-56-closed-a-30-year-math-gap-nobody-noticed-173b
-34	2026-07-19	https://dev.to/numbpill3d/how-i-cut-my-claude-code-token-usage-by-60-and-got-better-output-48b0
-35	2026-07-20	https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7
-36	2026-07-20	https://dev.to/joinwithken/10-ai-agents-powering-million-dollar-businesses-in-2026-25mn
-37	2026-07-20	https://news.ycombinator.com/item?id=48954522
-38	2026-07-20	https://qiita.com/emi_ndk/items/6b3a11c3e7c9ca673092
-39	2026-07-20	https://qiita.com/harunatotsuka/items/cdb79a2578d2d50e9039
-40	2026-07-20	https://zenn.dev/takna/articles/claude-code-added-features-jul2025-mar2026
-41	2026-07-21	https://news.ycombinator.com/item?id=48923363
-42	2026-07-21	https://news.ycombinator.com/item?id=48932269
-43	2026-07-21	https://news.ycombinator.com/item?id=48950625
-44	2026-07-31	https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo
-45	2026-07-31	https://dev.to/getstreamhq/best-visual-ai-agents-in-2026-real-time-multimodal-tools-44g6
-46	2026-07-31	https://dev.to/sreeraj-sreenivasan/the-complete-guide-to-local-llm-inference-tools-in-july-2026-llamacpp-ollama-vllm-sglang-and-4mh1
-47	2026-07-31	https://dev.to/sreeraj-sreenivasan/your-guide-to-vibe-coding-with-a-local-llm-10pm
-48	2026-07-31	https://news.ycombinator.com/item?id=48884984
-49	2026-07-31	https://news.ycombinator.com/item?id=48943174
-50	2026-07-31	https://news.ycombinator.com/item?id=48950625
-51	2026-07-31	https://news.ycombinator.com/item?id=48956248
-52	2026-07-31	https://qiita.com/emi_ndk/items/d3b3181c918678f5b915
-53	2026-07-31	https://qiita.com/ennagara128/items/3d126c28d4bc02bd6930
-54	2026-07-31	https://qiita.com/nakanokensetsu/items/2559d7e96ed4ecad0aa6
-55	2026-07-31	https://qiita.com/taiki_i/items/de8b2f84aded61fea54e
-56	2026-07-31	https://zenn.dev/harbinger0011/articles/c2efd849582d2f
-57	2026-07-31	https://zenn.dev/kai_kou/articles/254-glm-51-agentic-llm-guide
-58	2026-07-31	https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026
-59	2026-07-31	https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide
-60	2026-08-01	https://dev.to/austinwdigital/ai-assisted-development-in-2026-best-practices-real-risks-and-the-new-bar-for-engineers-3fom
-61	2026-08-01	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
-62	2026-08-01	https://dev.to/tanush_326k/google-io-2026-and-the-rise-of-the-ai-ecosystem-4jdf
-63	2026-08-01	https://dev.to/theaijournal_a72e5e5050cd/ai-trends-2026-what-the-future-holds-for-artificial-intelligence-13ab
-64	2026-08-01	https://dev.to/thepremisenews_team/the-end-of-traditional-coding-how-ai-coding-agents-are-transforming-software-development-in-2026-2h1d
-65	2026-08-01	https://news.ycombinator.com/item?id=46366382
-66	2026-08-01	https://news.ycombinator.com/item?id=46858437
-67	2026-08-01	https://news.ycombinator.com/item?id=47330295
-68	2026-08-01	https://news.ycombinator.com/item?id=47571746
-69	2026-08-01	https://news.ycombinator.com/item?id=47817581
-70	2026-08-01	https://qiita.com/KaaaaaPeeeee/items/829de3bfbf3c895ed50d
-71	2026-08-01	https://qiita.com/TOMOSIA-HieuNT/items/3a4157c1f68ba6d2091d
-72	2026-08-01	https://qiita.com/ishisaka/items/aef1f886a7e8dc6e5fa4
-73	2026-08-01	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
-74	2026-08-01	https://qiita.com/masukane9473/items/16ae79e08a538d8e4d47
-75	2026-08-01	https://zenn.dev/ainohogosya/articles/4028ff1a2ae92
-76	2026-08-01	https://zenn.dev/canly/articles/1d25d234a8fa21
-77	2026-08-01	https://zenn.dev/headwaters/articles/9f8ccc0b0d01ab
-78	2026-08-01	https://zenn.dev/takish/articles/96a2fb921e6319
-79	2026-08-02	https://dev.to/iraycd/the-claude-code-leak-just-gave-every-developer-a-masterclass-in-ai-agent-orchestration-1km6
-80	2026-08-02	https://dev.to/rahulxsingh/claude-code-vs-codex-cli-vs-gemini-cli-which-ai-terminal-agent-wins-in-2026-55f5
-81	2026-08-02	https://dev.to/sonotommy/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch
-82	2026-08-02	https://dev.to/tech_croc_f32fbb6ea8ed4/opencode-vs-claude-code-which-ai-cli-coding-agent-wins-in-2026-45md
-83	2026-08-02	https://dev.to/umesh_malik/anthropic-code-review-for-claude-code-multi-agent-pr-reviews-pricing-setup-and-limits-3o35
-84	2026-08-02	https://innovatopia.jp/ai/ai-news/42017/
-85	2026-08-02	https://qiita.com/KaaaaaPeeeee/items/829de3bfbf3c895ed50d
-86	2026-08-02	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
-87	2026-08-02	https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html
-88	2026-08-02	https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html
-89	2026-08-02	https://zenn.dev/canly/articles/1d25d234a8fa21
-90	2026-08-02	https://zenn.dev/mayim/articles/24a5fb3a3f8497
-91	2026-08-02	https://zenn.dev/mimimi193/articles/claude-code-guardrails-best-practices-20260301
-92	2026-08-02	https://zenn.dev/okikusan/articles/35b08599c82bb2
-93	2026-08-02	https://zenn.dev/toji_inoue/articles/e9801cff9a9548
-94	2026-08-03	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
-95	2026-08-03	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
-96	2026-08-03	https://dev.to/kanywst/what-11-big-tech-companies-actually-do-with-ai-in-2026-a-layered-numbers-first-breakdown-h58
-97	2026-08-03	https://dev.to/xtatsux/getting-started-with-snowflake-per-user-quotas-for-user-level-cost-management-of-warehouses-and-ai-566e
-98	2026-08-03	https://news.ycombinator.com/item?id=45885532
-99	2026-08-03	https://news.ycombinator.com/item?id=46341767
-100	2026-08-03	https://news.ycombinator.com/item?id=46471524
-101	2026-08-03	https://news.ycombinator.com/item?id=47155908
-102	2026-08-03	https://news.ycombinator.com/item?id=47226958
-103	2026-08-03	https://qiita.com/KaaaaaPeeeee/items/829de3bfbf3c895ed50d
-104	2026-08-03	https://qiita.com/emi_ndk/items/4f70389a0fac717df6a9
-105	2026-08-03	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
-106	2026-08-03	https://qiita.com/mori790/items/8f3b9dcefdd62a014fe3
-107	2026-08-03	https://qiita.com/syun88/items/0276992c290dc70cd679
-108	2026-08-03	https://zenn.dev/finatext/articles/e0b9def55e7318
-109	2026-08-03	https://zenn.dev/moxak/articles/2adec7901551bd
-110	2026-08-03	https://zenn.dev/otty0507/articles/8c1904d236eb2b
-111	2026-08-03	https://zenn.dev/tcool/articles/4eaf9529aca917
-112	2026-08-03	https://zenn.dev/terass_dev/articles/3f8e87399ddb12
-113	2026-08-04	https://dev.to/alexmercedcoder/apple-goes-agentic-ai-week-of-june-4-11-2026-13mm
-114	2026-08-04	https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51
-115	2026-08-04	https://dev.to/endoflifeai/the-complete-eol-calendar-for-2026-every-major-software-end-of-life-date-2pp0
-116	2026-08-04	https://news.ycombinator.com/item?id=49146696
-117	2026-08-04	https://news.ycombinator.com/item?id=49148884
-118	2026-08-04	https://news.ycombinator.com/item?id=49166491
-119	2026-08-04	https://qiita.com/RamTuckey/items/c06523693c6e8eb8d747
-120	2026-08-04	https://qiita.com/picnic/items/e37a269d3a232ea0c0a3
-121	2026-08-04	https://qiita.com/tomoyasasaki1204/items/4927ecf84e2d0ecfb034
-122	2026-08-04	https://zenn.dev/headwaters/articles/7ece3ef002a900
-123	2026-08-04	https://zenn.dev/mixi/articles/fd62f8ddc178f6
-124	2026-08-04	https://zenn.dev/moxak/articles/2adec7901551bd
-125	2026-08-05	https://dev.to/ayyazzafar/claude-code-tutorial-for-beginners-2026-from-installation-to-building-your-first-project-1lma
-126	2026-08-05	https://dev.to/badass_tech-ae2025/best-programming-languages-for-2026-5c5f
-127	2026-08-05	https://dev.to/faisal_zamir/python-for-beginners-2026-a-structured-learning-path-by-faisal-zamir-4p99
-128	2026-08-05	https://dev.to/kent-tokyo/rust-in-2025-2026-from-most-loved-language-to-core-infrastructure-4l5k
-129	2026-08-05	https://dev.to/md8_habibullah/top-5-programming-languages-dominating-2026-1e6f
-130	2026-08-05	https://dev.to/the_mj_super/how-im-learning-to-code-in-the-ai-age-2025-2026-edition-3b8l
-131	2026-08-05	https://news.ycombinator.com/item?id=49109616
-132	2026-08-05	https://news.ycombinator.com/item?id=49148884
-133	2026-08-05	https://news.ycombinator.com/item?id=49156682
-134	2026-08-05	https://news.ycombinator.com/item?id=49156683
-135	2026-08-05	https://news.ycombinator.com/item?id=49161893
-136	2026-08-05	https://qiita.com/TommyYorke52/items/2b56cdc2baf812530ce0
-137	2026-08-05	https://qiita.com/debiru/items/710ebc7e3fe17ef08927
-138	2026-08-05	https://qiita.com/rana_kualu/items/7c5305349815f5142d7d
-139	2026-08-05	https://qiita.com/tamakiiii/items/2dfef0628ae23a04b277
-140	2026-08-05	https://qiita.com/tofu_frontend/items/c010c0ddd5643db4a067
-141	2026-08-05	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
-142	2026-08-05	https://zenn.dev/akari1106/articles/7655beb9e13090
-143	2026-08-05	https://zenn.dev/mnonamer/articles/react-yada-2026
-144	2026-08-05	https://zenn.dev/otty0507/articles/8c1904d236eb2b
-145	2026-08-05	https://zenn.dev/yasse/articles/a7240304af804c
-146	2026-08-09	https://dev.to/a3e_ecosystem/ai-coding-agents-in-2026-from-pair-programming-to-autonomous-teams-4f7o
-147	2026-08-09	https://dev.to/bhavnish_e35294bf0fd0b2df/hot-tea-crispy-samosa-interactive-comfort-food-experience-1ccp
-148	2026-08-09	https://dev.to/farhadrahimiklie/web-development-roadmap-for-2026-skills-that-boost-your-career-salary-2lfj
-149	2026-08-09	https://dev.to/md_mehadihasan_/the-state-of-web-development-in-2026-what-developers-need-to-know-3fef
-150	2026-08-09	https://dev.to/panchalmukundak/getting-started-with-modern-web-development-in-2026-a-practical-guide-for-beginners-58c9
-151	2026-08-09	https://news.ycombinator.com/item?id=49233423
-152	2026-08-09	https://osintteam.blog/ai-security-trends-every-developer-should-know-in-2026-656b89982bf8
-153	2026-08-09	https://qiita.com/akihidem/items/018dd0dab57b876a5acc
-154	2026-08-09	https://qiita.com/ennagara128/items/53a19c12308fadb8bb36
-155	2026-08-09	https://qiita.com/enomoso_pm/items/525d697d394ab3d488e2
-156	2026-08-09	https://qiita.com/homhom44/items/1bfd20376294fb6f3ba5
-157	2026-08-09	https://qiita.com/tsrs0211/items/b2bd03aa69daca3459fe
-158	2026-08-09	https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/
-159	2026-08-09	https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html
-160	2026-08-09	https://www.developersdigest.tech/blog/what-hacker-news-gets-right-about-ai-coding-agents-2026
-161	2026-08-09	https://zenn.dev/aiwatch_jp/articles/agent-harness-oss-2026-maintained
-162	2026-08-09	https://zenn.dev/linuxmaster/articles/dirty-frag-cve-2026-43284-43500
-163	2026-08-09	https://zenn.dev/rasshii/books/learning-react-2026
-164	2026-08-09	https://zenn.dev/ryuhat/books/claude-code-practical-2026
-165	2026-08-09	https://zenn.dev/tetsu_don/articles/e40b95dfc726ac
-166	2026-08-10	https://dev.to/devengers/dev-opportunity-radar-11-claude-community-ambassadors-yc-startup-internship-expo-z-fellows-and-25aa
-167	2026-08-10	https://dev.to/endoflifeai/nodejs-22-lts-eol-date-support-timeline-and-what-comes-next-30dm
-168	2026-08-10	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
-169	2026-08-10	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
-170	2026-08-10	https://dev.to/yakhilesh/20-open-source-internship-programs-updated-for-2026-5h32
-171	2026-08-10	https://news.ycombinator.com/item?id=49015639
-172	2026-08-10	https://news.ycombinator.com/item?id=49198069
-173	2026-08-10	https://qiita.com/superdora-cloud/items/979295520a85f28e0cab
-174	2026-08-10	https://qiita.com/tatsuya582/items/a800739c02eadff68c70
-175	2026-08-10	https://zenn.dev/finatext/articles/e0b9def55e7318
-176	2026-08-10	https://zenn.dev/yasse/articles/a7240304af804c
-177	2026-08-11	https://adversa.ai/blog/top-agentic-ai-security-resources-august-2026/
-178	2026-08-11	https://blog.mean.ceo/claude-code-news-august-2026/
-179	2026-08-11	https://blog.stackademic.com/development-trends-2026-whats-actually-changing-and-why-it-matters-ed30dc6732bd
-180	2026-08-11	https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7
-181	2026-08-11	https://dev.to/shehzan/mastering-python-async-patterns-a-complete-guide-to-asyncio-in-2026-10o6
-182	2026-08-11	https://fireworks.ai/blog/best-open-source-llms
-183	2026-08-11	https://infoworld.com/article/4194567/revving-up-microsofts-10x-faster-typescript-7.html
-184	2026-08-11	https://medium.com/@artur.friedrich/react-vs-vue-vs-svelte-in-2026-a-practical-comparison-for-your-next-side-hustle-e57b7f5f37eb
-185	2026-08-11	https://medium.com/@priya.raimagiya/typescript-7-cad399470848
-186	2026-08-11	https://medium.com/@yogeshkrishnanseeniraj/high-performance-python-asyncio-vs-multiprocessing-vs-threadpools-2026-guide-ad49d40452fc
-187	2026-08-11	https://news.ycombinator.com/item?id=46341767
-188	2026-08-11	https://news.ycombinator.com/item?id=46471524
-189	2026-08-11	https://news.ycombinator.com/item?id=47155908
-190	2026-08-11	https://news.ycombinator.com/item?id=47226958
-191	2026-08-11	https://qiita.com/ennagara128/items/1a6fb490a876804f8825
-192	2026-08-11	https://visualstudiomagazine.com/articles/2026/07/08/typescript-7-arrives-to-rock-vs-code-with-go-powered-speed.aspx
-193	2026-08-11	https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models
-194	2026-08-11	https://www.infoq.com/news/2026/08/typescript-7-released/
-195	2026-08-11	https://www.nxcode.io/resources/news/friendly-fire-rogue-agent-ai-coding-security-2026
-196	2026-08-11	https://www.thundercompute.com/blog/best-open-source-llms
-197	2026-08-12	https://techcrunch.com/2026/08/12/ai-security-threats/
-198	2026-08-12	https://techcrunch.com/2026/08/12/ai-wearable-notetaking-hardware/
-199	2026-08-12	https://techcrunch.com/2026/08/12/gartner-ai-agents-enterprise/
-200	2026-08-12	https://techcrunch.com/2026/08/12/google-amie-medical-ai-system/
-201	2026-08-12	https://techcrunch.com/2026/08/12/openai-astra-solves-mathematics-problems/
-202	2026-08-12	https://techcrunch.com/2026/08/12/strgy-ai-raises-funding-strategyos/
-204	204	2026-08-13	https://news.ycombinator.com/item?id=49233423
-205	205	2026-08-13	https://news.ycombinator.com/item?id=46858437
-206	206	2026-08-13	https://news.ycombinator.com/item?id=46563625
-207	207	2026-08-13	https://news.ycombinator.com/item?id=47571746
-208	208	2026-08-13	https://news.ycombinator.com/item?id=47817581
-209	209	2026-08-13	https://zenn.dev/tkou15/articles/cloudflare-wallets
-210	210	2026-08-13	https://zenn.dev/ai_nexus/articles/edge-ai-2026-guide
-211	211	2026-08-13	https://zenn.dev/kai_kou/articles/248-cloudflare-agents-week-2026-infra-guide
-212	212	2026-08-13	https://zenn.dev/satoshi_tech/articles/20260811-zenn-article-cloud-agents
-213	213	2026-08-13	https://zenn.dev/nttdata_tech/articles/2d59683d40299c
-214	214	2026-08-13	https://qiita.com/ishisaka/items/42b381b9b239e6ef215d
-215	215	2026-08-13	https://qiita.com/YushiYamamoto/items/d8c771d6d7031a793bba
-216	216	2026-08-13	https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19
-217	217	2026-08-13	https://qiita.com/shinkai_/items/8f88307b7cb13b748e57
-218	218	2026-08-13	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
-219	219	2026-08-13	https://dev.to/endoflifeai/debian-end-of-life-dates-debian-12-reaches-eol-june-10-2026-8bj
-220	220	2026-08-13	https://dev.to/raisa_kanagaraj/rails-and-ruby-support-ends-critical-deadlines-every-developer-must-know-2d9g
-221	221	2026-08-13	https://dev.to/jamilxt/metas-muse-glimmer-a-30b-open-weight-model-built-for-local-ai-agents-dkj
-222	222	2026-08-13	https://dev.to/endoflifeai/python-end-of-life-dates-official-eol-schedule-for-every-version-dfd
-223	223	2026-08-13	https://dev.to/ericpham03/we-already-have-kiro-ide-kiro-cli-kiro-web-what-exactly-kiro-crew-is-5hca
-224	224	2026-08-14	https://news.ycombinator.com/item?id=49289844
-225	225	2026-08-14	https://news.ycombinator.com/item?id=49272832
-226	226	2026-08-14	https://zenn.dev/nwsejp/articles/unifi-japan-ipoe-support
-227	227	2026-08-14	https://zenn.dev/ai_ryokin_lab/articles/8be5886ffac67f
-228	228	2026-08-14	https://qiita.com/yminabe/items/b8330209ba90dd148cdc
-229	229	2026-08-14	https://qiita.com/yama3133/items/8de742618331006e8fb0
-230	230	2026-08-14	https://dev.to/udaninn/workday-job-boards-have-a-json-api-too-its-just-better-hidden-23fl
-231	231	2026-08-14	https://dev.to/flarecanary/the-google-merchant-api-migration-has-a-silent-mispricing-trap-content-api-shuts-down-aug-18-2026-2gkn
-232	232	2026-08-14	https://dev.to/rulestack/auto-mode-is-now-claude-codes-default-what-the-classifier-approves-and-how-to-switch-back-4j2j
-233	233	2026-08-14	https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2
-234	234	2026-08-15	https://news.ycombinator.com/item?id=49303540
-235	235	2026-08-15	https://zenn.dev/agenticai_flow/articles/ai-era-software-engineer-survival-guide
-236	236	2026-08-15	https://zenn.dev/shintaroamaike/articles/58036e930bb7f3
-237	237	2026-08-15	https://zenn.dev/chiku_dev/articles/7602829910d94f
-238	238	2026-08-15	https://qiita.com/yminabe/items/b8330209ba90dd148cdc
-239	239	2026-08-15	https://qiita.com/comty/items/3ea0e8a4cd761574d0aa
-240	240	2026-08-15	https://code.aetheria.jp/2188/
-241	241	2026-08-15	https://dev.to/shehzan/mastering-python-async-patterns-a-complete-guide-to-asyncio-in-2026-10o6
-242	242	2026-08-16	https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html
-243	243	2026-08-16	https://news.ycombinator.com/item?id=49271126
-244	244	2026-08-16	https://www.morphllm.com/best-ai-coding-agents-2026
-245	245	2026-08-16	https://www.superblocks.com/blog/cursor-vs-claude-code
-246	246	2026-08-16	https://www.infoworld.com/article/4194567/revving-up-microsofts-10x-faster-typescript-7.html
-247	247	2026-08-16	https://zenn.dev/tkou15/articles/cloudflare-wallets
-248	248	2026-08-16	https://zenn.dev/ai_nexus/articles/edge-ai-2026-guide
-249	249	2026-08-16	https://zenn.dev/kai_kou/articles/248-cloudflare-agents-week-2026-infra-guide
-250	250	2026-08-16	https://zenn.dev/satoshi_tech/articles/20260811-zenn-article-cloud-agents
-251	251	2026-08-16	https://zenn.dev/nttdata_tech/articles/2d59683d40299c
-252	252	2026-08-16	https://qiita.com/ishisaka/items/42b381b9b239e6ef215d
-253	253	2026-08-16	https://qiita.com/YushiYamamoto/items/d8c771d6d7031a793bba
-254	254	2026-08-16	https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19
-255	255	2026-08-16	https://qiita.com/shinkai_/items/8f88307b7cb13b748e57
-256	256	2026-08-16	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
-257	257	2026-08-16	https://www.superblocks.com/blog/cursor-vs-claude-code
-258	258	2026-08-16	https://medium.com/@emmaschmidt304/react-19-in-2026-the-hottest-trends-every-developer-must-know-bc73ae38f05a
-259	259	2026-08-16	https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models
-260	260	2026-08-16	https://dev.to/shehzan/mastering-python-async-patterns-a-complete-guide-to-asyncio-in-2026-10o6
-261	261	2026-08-16	https://derekmolloy.ie/the-state-of-rust-for-embedded-development-in-mid-2026/
-262	262	2026-08-17	https://news.ycombinator.com/item?id=47801221
-263	263	2026-08-17	https://zenn.dev/akari1106/articles/9d2abbc63a4abb
-264	264	2026-08-17	https://zenn.dev/nttdata_tech/articles/3ef3ad51c8164c
-265	265	2026-08-17	https://qiita.com/HackathonPortal/items/2ee630c53242819b462a
-266	266	2026-08-17	https://qiita.com/niimim/items/d556cf35c18395972f85
-267	267	2026-08-17	https://dev.to/akashdas/are-passkeys-still-safe-after-pass-ta-key-ij1
-268	268	2026-08-17	https://dev.to/jamilxt/grok-46-released-benchmarks-pricing-and-what-it-means-for-agent-builders-28ob
-269	269	2026-08-17	https://dev.to/jamilxt/metas-muse-glimmer-a-30b-open-weight-model-built-for-local-ai-agents-dkj
-270	270	2026-08-17	https://dev.to/jamilxt/glm-53-zhipus-open-weight-model-excels-at-coding-and-cyber-1m86
-271	271	2026-08-18	https://techstartups.com/2026/08/18/top-tech-news-today-august-18-2026-apple-baidu-bytedance-google-meta-openai-xiaomi-more/
-272	272	2026-08-18	https://zenn.dev/7788/articles/af11fbce6c3379
-273	273	2026-08-18	https://zenn.dev/donai/articles/f10af54cf46cfa
-274	274	2026-08-18	https://qiita.com/keitah/items/654fdf219391e19f2df2
-275	275	2026-08-18	https://qiita.com/YushiYamamoto/items/2787b34f3b5d940b4f9b
-276	276	2026-08-18	https://dev.to/del_rosario/top-10-ai-coding-tools-for-2026-the-new-development-standard-e5p
+1	35	2026-07-20	https://dev.to/fahimulhaq/complete-guide-to-system-design-oc7
+2	36	2026-07-20	https://dev.to/joinwithken/10-ai-agents-powering-million-dollar-businesses-in-2026-25mn
+3	37	2026-07-20	https://news.ycombinator.com/item?id=48954522
+4	38	2026-07-20	https://qiita.com/emi_ndk/items/6b3a11c3e7c9ca673092
+5	39	2026-07-20	https://qiita.com/harunatotsuka/items/cdb79a2578d2d50e9039
+6	40	2026-07-20	https://zenn.dev/takna/articles/claude-code-added-features-jul2025-mar2026
+7	41	2026-07-21	https://news.ycombinator.com/item?id=48923363
+8	42	2026-07-21	https://news.ycombinator.com/item?id=48932269
+9	43	2026-07-21	https://news.ycombinator.com/item?id=48950625
+10	44	2026-07-31	https://dev.to/aws-builders/my-robot-accountant-got-an-eviction-notice-so-we-moved-migrating-from-bedrock-agents-classic-to-4bjo
+11	45	2026-07-31	https://dev.to/getstreamhq/best-visual-ai-agents-in-2026-real-time-multimodal-tools-44g6
+12	46	2026-07-31	https://dev.to/sreeraj-sreenivasan/the-complete-guide-to-local-llm-inference-tools-in-july-2026-llamacpp-ollama-vllm-sglang-and-4mh1
+13	47	2026-07-31	https://dev.to/sreeraj-sreenivasan/your-guide-to-vibe-coding-with-a-local-llm-10pm
+14	48	2026-07-31	https://news.ycombinator.com/item?id=48884984
+15	49	2026-07-31	https://news.ycombinator.com/item?id=48943174
+16	50	2026-07-31	https://news.ycombinator.com/item?id=48950625
+17	51	2026-07-31	https://news.ycombinator.com/item?id=48956248
+18	52	2026-07-31	https://qiita.com/emi_ndk/items/d3b3181c918678f5b915
+19	53	2026-07-31	https://qiita.com/ennagara128/items/3d126c28d4bc02bd6930
+20	54	2026-07-31	https://qiita.com/nakanokensetsu/items/2559d7e96ed4ecad0aa6
+21	55	2026-07-31	https://qiita.com/taiki_i/items/de8b2f84aded61fea54e
+22	56	2026-07-31	https://zenn.dev/harbinger0011/articles/c2efd849582d2f
+23	57	2026-07-31	https://zenn.dev/kai_kou/articles/254-glm-51-agentic-llm-guide
+24	58	2026-07-31	https://zenn.dev/komlock_lab/articles/mcp-stateless-spec-2026
+25	59	2026-07-31	https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide
+26	60	2026-08-01	https://dev.to/austinwdigital/ai-assisted-development-in-2026-best-practices-real-risks-and-the-new-bar-for-engineers-3fom
+27	61	2026-08-01	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+28	62	2026-08-01	https://dev.to/tanush_326k/google-io-2026-and-the-rise-of-the-ai-ecosystem-4jdf
+29	63	2026-08-01	https://dev.to/theaijournal_a72e5e5050cd/ai-trends-2026-what-the-future-holds-for-artificial-intelligence-13ab
+30	64	2026-08-01	https://dev.to/thepremisenews_team/the-end-of-traditional-coding-how-ai-coding-agents-are-transforming-software-development-in-2026-2h1d
+31	65	2026-08-01	https://news.ycombinator.com/item?id=46366382
+32	66	2026-08-01	https://news.ycombinator.com/item?id=46858437
+33	67	2026-08-01	https://news.ycombinator.com/item?id=47330295
+34	68	2026-08-01	https://news.ycombinator.com/item?id=47571746
+35	69	2026-08-01	https://news.ycombinator.com/item?id=47817581
+36	70	2026-08-01	https://qiita.com/KaaaaaPeeeee/items/829de3bfbf3c895ed50d
+37	71	2026-08-01	https://qiita.com/TOMOSIA-HieuNT/items/3a4157c1f68ba6d2091d
+38	72	2026-08-01	https://qiita.com/ishisaka/items/aef1f886a7e8dc6e5fa4
+39	73	2026-08-01	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+40	74	2026-08-01	https://qiita.com/masukane9473/items/16ae79e08a538d8e4d47
+41	75	2026-08-01	https://zenn.dev/ainohogosya/articles/4028ff1a2ae92
+42	76	2026-08-01	https://zenn.dev/canly/articles/1d25d234a8fa21
+43	77	2026-08-01	https://zenn.dev/headwaters/articles/9f8ccc0b0d01ab
+44	78	2026-08-01	https://zenn.dev/takish/articles/96a2fb921e6319
+45	79	2026-08-02	https://dev.to/iraycd/the-claude-code-leak-just-gave-every-developer-a-masterclass-in-ai-agent-orchestration-1km6
+46	80	2026-08-02	https://dev.to/rahulxsingh/claude-code-vs-codex-cli-vs-gemini-cli-which-ai-terminal-agent-wins-in-2026-55f5
+47	81	2026-08-02	https://dev.to/sonotommy/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch
+48	82	2026-08-02	https://dev.to/tech_croc_f32fbb6ea8ed4/opencode-vs-claude-code-which-ai-cli-coding-agent-wins-in-2026-45md
+49	83	2026-08-02	https://dev.to/umesh_malik/anthropic-code-review-for-claude-code-multi-agent-pr-reviews-pricing-setup-and-limits-3o35
+50	84	2026-08-02	https://innovatopia.jp/ai/ai-news/42017/
+51	85	2026-08-02	https://qiita.com/KaaaaaPeeeee/items/829de3bfbf3c895ed50d
+52	86	2026-08-02	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+53	87	2026-08-02	https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html
+54	88	2026-08-02	https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html
+55	89	2026-08-02	https://zenn.dev/canly/articles/1d25d234a8fa21
+56	90	2026-08-02	https://zenn.dev/mayim/articles/24a5fb3a3f8497
+57	91	2026-08-02	https://zenn.dev/mimimi193/articles/claude-code-guardrails-best-practices-20260301
+58	92	2026-08-02	https://zenn.dev/okikusan/articles/35b08599c82bb2
+59	93	2026-08-02	https://zenn.dev/toji_inoue/articles/e9801cff9a9548
+60	94	2026-08-03	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
+61	95	2026-08-03	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
+62	96	2026-08-03	https://dev.to/kanywst/what-11-big-tech-companies-actually-do-with-ai-in-2026-a-layered-numbers-first-breakdown-h58
+63	97	2026-08-03	https://dev.to/xtatsux/getting-started-with-snowflake-per-user-quotas-for-user-level-cost-management-of-warehouses-and-ai-566e
+64	98	2026-08-03	https://news.ycombinator.com/item?id=45885532
+65	99	2026-08-03	https://news.ycombinator.com/item?id=46341767
+66	100	2026-08-03	https://news.ycombinator.com/item?id=46471524
+67	101	2026-08-03	https://news.ycombinator.com/item?id=47155908
+68	102	2026-08-03	https://news.ycombinator.com/item?id=47226958
+69	103	2026-08-03	https://qiita.com/KaaaaaPeeeee/items/829de3bfbf3c895ed50d
+70	104	2026-08-03	https://qiita.com/emi_ndk/items/4f70389a0fac717df6a9
+71	105	2026-08-03	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+72	106	2026-08-03	https://qiita.com/mori790/items/8f3b9dcefdd62a014fe3
+73	107	2026-08-03	https://qiita.com/syun88/items/0276992c290dc70cd679
+74	108	2026-08-03	https://zenn.dev/finatext/articles/e0b9def55e7318
+75	109	2026-08-03	https://zenn.dev/moxak/articles/2adec7901551bd
+76	110	2026-08-03	https://zenn.dev/otty0507/articles/8c1904d236eb2b
+77	111	2026-08-03	https://zenn.dev/tcool/articles/4eaf9529aca917
+78	112	2026-08-03	https://zenn.dev/terass_dev/articles/3f8e87399ddb12
+79	113	2026-08-04	https://dev.to/alexmercedcoder/apple-goes-agentic-ai-week-of-june-4-11-2026-13mm
+80	114	2026-08-04	https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51
+81	115	2026-08-04	https://dev.to/endoflifeai/the-complete-eol-calendar-for-2026-every-major-software-end-of-life-date-2pp0
+82	116	2026-08-04	https://news.ycombinator.com/item?id=49146696
+83	117	2026-08-04	https://news.ycombinator.com/item?id=49148884
+84	118	2026-08-04	https://news.ycombinator.com/item?id=49166491
+85	119	2026-08-04	https://qiita.com/RamTuckey/items/c06523693c6e8eb8d747
+86	120	2026-08-04	https://qiita.com/picnic/items/e37a269d3a232ea0c0a3
+87	121	2026-08-04	https://qiita.com/tomoyasasaki1204/items/4927ecf84e2d0ecfb034
+88	122	2026-08-04	https://zenn.dev/headwaters/articles/7ece3ef002a900
+89	123	2026-08-04	https://zenn.dev/mixi/articles/fd62f8ddc178f6
+90	124	2026-08-04	https://zenn.dev/moxak/articles/2adec7901551bd
+91	125	2026-08-05	https://dev.to/ayyazzafar/claude-code-tutorial-for-beginners-2026-from-installation-to-building-your-first-project-1lma
+92	126	2026-08-05	https://dev.to/badass_tech-ae2025/best-programming-languages-for-2026-5c5f
+93	127	2026-08-05	https://dev.to/faisal_zamir/python-for-beginners-2026-a-structured-learning-path-by-faisal-zamir-4p99
+94	128	2026-08-05	https://dev.to/kent-tokyo/rust-in-2025-2026-from-most-loved-language-to-core-infrastructure-4l5k
+95	129	2026-08-05	https://dev.to/md8_habibullah/top-5-programming-languages-dominating-2026-1e6f
+96	130	2026-08-05	https://dev.to/the_mj_super/how-im-learning-to-code-in-the-ai-age-2025-2026-edition-3b8l
+97	131	2026-08-05	https://news.ycombinator.com/item?id=49109616
+98	132	2026-08-05	https://news.ycombinator.com/item?id=49148884
+99	133	2026-08-05	https://news.ycombinator.com/item?id=49156682
+100	134	2026-08-05	https://news.ycombinator.com/item?id=49156683
+101	135	2026-08-05	https://news.ycombinator.com/item?id=49161893
+102	136	2026-08-05	https://qiita.com/TommyYorke52/items/2b56cdc2baf812530ce0
+103	137	2026-08-05	https://qiita.com/debiru/items/710ebc7e3fe17ef08927
+104	138	2026-08-05	https://qiita.com/rana_kualu/items/7c5305349815f5142d7d
+105	139	2026-08-05	https://qiita.com/tamakiiii/items/2dfef0628ae23a04b277
+106	140	2026-08-05	https://qiita.com/tofu_frontend/items/c010c0ddd5643db4a067
+107	141	2026-08-05	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
+108	142	2026-08-05	https://zenn.dev/akari1106/articles/7655beb9e13090
+109	143	2026-08-05	https://zenn.dev/mnonamer/articles/react-yada-2026
+110	144	2026-08-05	https://zenn.dev/otty0507/articles/8c1904d236eb2b
+111	145	2026-08-05	https://zenn.dev/yasse/articles/a7240304af804c
+112	146	2026-08-09	https://dev.to/a3e_ecosystem/ai-coding-agents-in-2026-from-pair-programming-to-autonomous-teams-4f7o
+113	147	2026-08-09	https://dev.to/bhavnish_e35294bf0fd0b2df/hot-tea-crispy-samosa-interactive-comfort-food-experience-1ccp
+114	148	2026-08-09	https://dev.to/farhadrahimiklie/web-development-roadmap-for-2026-skills-that-boost-your-career-salary-2lfj
+115	149	2026-08-09	https://dev.to/md_mehadihasan_/the-state-of-web-development-in-2026-what-developers-need-to-know-3fef
+116	150	2026-08-09	https://dev.to/panchalmukundak/getting-started-with-modern-web-development-in-2026-a-practical-guide-for-beginners-58c9
+117	151	2026-08-09	https://news.ycombinator.com/item?id=49233423
+118	152	2026-08-09	https://osintteam.blog/ai-security-trends-every-developer-should-know-in-2026-656b89982bf8
+119	153	2026-08-09	https://qiita.com/akihidem/items/018dd0dab57b876a5acc
+120	154	2026-08-09	https://qiita.com/ennagara128/items/53a19c12308fadb8bb36
+121	155	2026-08-09	https://qiita.com/enomoso_pm/items/525d697d394ab3d488e2
+122	156	2026-08-09	https://qiita.com/homhom44/items/1bfd20376294fb6f3ba5
+123	157	2026-08-09	https://qiita.com/tsrs0211/items/b2bd03aa69daca3459fe
+124	158	2026-08-09	https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/
+125	159	2026-08-09	https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html
+126	160	2026-08-09	https://www.developersdigest.tech/blog/what-hacker-news-gets-right-about-ai-coding-agents-2026
+127	161	2026-08-09	https://zenn.dev/aiwatch_jp/articles/agent-harness-oss-2026-maintained
+128	162	2026-08-09	https://zenn.dev/linuxmaster/articles/dirty-frag-cve-2026-43284-43500
+129	163	2026-08-09	https://zenn.dev/rasshii/books/learning-react-2026
+130	164	2026-08-09	https://zenn.dev/ryuhat/books/claude-code-practical-2026
+131	165	2026-08-09	https://zenn.dev/tetsu_don/articles/e40b95dfc726ac
+132	166	2026-08-10	https://dev.to/devengers/dev-opportunity-radar-11-claude-community-ambassadors-yc-startup-internship-expo-z-fellows-and-25aa
+133	167	2026-08-10	https://dev.to/endoflifeai/nodejs-22-lts-eol-date-support-timeline-and-what-comes-next-30dm
+134	168	2026-08-10	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
+135	169	2026-08-10	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
+136	170	2026-08-10	https://dev.to/yakhilesh/20-open-source-internship-programs-updated-for-2026-5h32
+137	171	2026-08-10	https://news.ycombinator.com/item?id=49015639
+138	172	2026-08-10	https://news.ycombinator.com/item?id=49198069
+139	173	2026-08-10	https://qiita.com/superdora-cloud/items/979295520a85f28e0cab
+140	174	2026-08-10	https://qiita.com/tatsuya582/items/a800739c02eadff68c70
+141	175	2026-08-10	https://zenn.dev/finatext/articles/e0b9def55e7318
+142	176	2026-08-10	https://zenn.dev/yasse/articles/a7240304af804c
+143	177	2026-08-11	https://adversa.ai/blog/top-agentic-ai-security-resources-august-2026/
+144	178	2026-08-11	https://blog.mean.ceo/claude-code-news-august-2026/
+145	179	2026-08-11	https://blog.stackademic.com/development-trends-2026-whats-actually-changing-and-why-it-matters-ed30dc6732bd
+146	180	2026-08-11	https://code.visualstudio.com/blogs/2026/06/26/iterating-faster-with-ts-7
+147	181	2026-08-11	https://dev.to/shehzan/mastering-python-async-patterns-a-complete-guide-to-asyncio-in-2026-10o6
+148	182	2026-08-11	https://fireworks.ai/blog/best-open-source-llms
+149	183	2026-08-11	https://infoworld.com/article/4194567/revving-up-microsofts-10x-faster-typescript-7.html
+150	184	2026-08-11	https://medium.com/@artur.friedrich/react-vs-vue-vs-svelte-in-2026-a-practical-comparison-for-your-next-side-hustle-e57b7f5f37eb
+151	185	2026-08-11	https://medium.com/@priya.raimagiya/typescript-7-cad399470848
+152	186	2026-08-11	https://medium.com/@yogeshkrishnanseeniraj/high-performance-python-asyncio-vs-multiprocessing-vs-threadpools-2026-guide-ad49d40452fc
+153	187	2026-08-11	https://news.ycombinator.com/item?id=46341767
+154	188	2026-08-11	https://news.ycombinator.com/item?id=46471524
+155	189	2026-08-11	https://news.ycombinator.com/item?id=47155908
+156	190	2026-08-11	https://news.ycombinator.com/item?id=47226958
+157	191	2026-08-11	https://qiita.com/ennagara128/items/1a6fb490a876804f8825
+158	192	2026-08-11	https://visualstudiomagazine.com/articles/2026/07/08/typescript-7-arrives-to-rock-vs-code-with-go-powered-speed.aspx
+159	193	2026-08-11	https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models
+160	194	2026-08-11	https://www.infoq.com/news/2026/08/typescript-7-released/
+161	195	2026-08-11	https://www.nxcode.io/resources/news/friendly-fire-rogue-agent-ai-coding-security-2026
+162	196	2026-08-11	https://www.thundercompute.com/blog/best-open-source-llms
+163	197	2026-08-12	https://techcrunch.com/2026/08/12/ai-security-threats/
+164	198	2026-08-12	https://techcrunch.com/2026/08/12/ai-wearable-notetaking-hardware/
+165	199	2026-08-12	https://techcrunch.com/2026/08/12/gartner-ai-agents-enterprise/
+166	200	2026-08-12	https://techcrunch.com/2026/08/12/google-amie-medical-ai-system/
+167	201	2026-08-12	https://techcrunch.com/2026/08/12/openai-astra-solves-mathematics-problems/
+168	202	2026-08-12	https://techcrunch.com/2026/08/12/strgy-ai-raises-funding-strategyos/
+169	203	2026-08-13	https://news.ycombinator.com/item?id=49233423
+170	204	2026-08-13	https://news.ycombinator.com/item?id=46858437
+171	205	2026-08-13	https://news.ycombinator.com/item?id=46563625
+172	206	2026-08-13	https://news.ycombinator.com/item?id=47571746
+173	207	2026-08-13	https://news.ycombinator.com/item?id=47817581
+174	208	2026-08-13	https://zenn.dev/tkou15/articles/cloudflare-wallets
+175	209	2026-08-13	https://zenn.dev/ai_nexus/articles/edge-ai-2026-guide
+176	210	2026-08-13	https://zenn.dev/kai_kou/articles/248-cloudflare-agents-week-2026-infra-guide
+177	211	2026-08-13	https://zenn.dev/satoshi_tech/articles/20260811-zenn-article-cloud-agents
+178	212	2026-08-13	https://zenn.dev/nttdata_tech/articles/2d59683d40299c
+179	213	2026-08-13	https://qiita.com/ishisaka/items/42b381b9b239e6ef215d
+180	214	2026-08-13	https://qiita.com/YushiYamamoto/items/d8c771d6d7031a793bba
+181	215	2026-08-13	https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19
+182	216	2026-08-13	https://qiita.com/shinkai_/items/8f88307b7cb13b748e57
+183	217	2026-08-13	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+184	218	2026-08-13	https://dev.to/endoflifeai/debian-end-of-life-dates-debian-12-reaches-eol-june-10-2026-8bj
+185	219	2026-08-13	https://dev.to/raisa_kanagaraj/rails-and-ruby-support-ends-critical-deadlines-every-developer-must-know-2d9g
+186	220	2026-08-13	https://dev.to/jamilxt/metas-muse-glimmer-a-30b-open-weight-model-built-for-local-ai-agents-dkj
+187	221	2026-08-13	https://dev.to/endoflifeai/python-end-of-life-dates-official-eol-schedule-for-every-version-dfd
+188	222	2026-08-13	https://dev.to/ericpham03/we-already-have-kiro-ide-kiro-cli-kiro-web-what-exactly-kiro-crew-is-5hca
+189	223	2026-08-14	https://news.ycombinator.com/item?id=49289844
+190	224	2026-08-14	https://news.ycombinator.com/item?id=49272832
+191	225	2026-08-14	https://zenn.dev/nwsejp/articles/unifi-japan-ipoe-support
+192	226	2026-08-14	https://zenn.dev/ai_ryokin_lab/articles/8be5886ffac67f
+193	227	2026-08-14	https://qiita.com/yminabe/items/b8330209ba90dd148cdc
+194	228	2026-08-14	https://qiita.com/yama3133/items/8de742618331006e8fb0
+195	229	2026-08-14	https://dev.to/udaninn/workday-job-boards-have-a-json-api-too-its-just-better-hidden-23fl
+196	230	2026-08-14	https://dev.to/flarecanary/the-google-merchant-api-migration-has-a-silent-mispricing-trap-content-api-shuts-down-aug-18-2026-2gkn
+197	231	2026-08-14	https://dev.to/rulestack/auto-mode-is-now-claude-codes-default-what-the-classifier-approves-and-how-to-switch-back-4j2j
+198	232	2026-08-14	https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2
+199	233	2026-08-15	https://news.ycombinator.com/item?id=49303540
+200	234	2026-08-15	https://zenn.dev/agenticai_flow/articles/ai-era-software-engineer-survival-guide
+201	235	2026-08-15	https://zenn.dev/shintaroamaike/articles/58036e930bb7f3
+202	236	2026-08-15	https://zenn.dev/chiku_dev/articles/7602829910d94f
+203	237	2026-08-15	https://qiita.com/yminabe/items/b8330209ba90dd148cdc
+204	238	2026-08-15	https://qiita.com/comty/items/3ea0e8a4cd761574d0aa
+205	239	2026-08-15	https://code.aetheria.jp/2188/
+206	240	2026-08-15	https://dev.to/shehzan/mastering-python-async-patterns-a-complete-guide-to-asyncio-in-2026-10o6
+207	241	2026-08-16	https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html
+208	242	2026-08-16	https://news.ycombinator.com/item?id=49271126
+209	243	2026-08-16	https://www.morphllm.com/best-ai-coding-agents-2026
+210	244	2026-08-16	https://www.superblocks.com/blog/cursor-vs-claude-code
+211	245	2026-08-16	https://www.infoworld.com/article/4194567/revving-up-microsofts-10x-faster-typescript-7.html
+212	246	2026-08-16	https://zenn.dev/tkou15/articles/cloudflare-wallets
+213	247	2026-08-16	https://zenn.dev/ai_nexus/articles/edge-ai-2026-guide
+214	248	2026-08-16	https://zenn.dev/kai_kou/articles/248-cloudflare-agents-week-2026-infra-guide
+215	249	2026-08-16	https://zenn.dev/satoshi_tech/articles/20260811-zenn-article-cloud-agents
+216	250	2026-08-16	https://zenn.dev/nttdata_tech/articles/2d59683d40299c
+217	251	2026-08-16	https://qiita.com/ishisaka/items/42b381b9b239e6ef215d
+218	252	2026-08-16	https://qiita.com/YushiYamamoto/items/d8c771d6d7031a793bba
+219	253	2026-08-16	https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19
+220	254	2026-08-16	https://qiita.com/shinkai_/items/8f88307b7cb13b748e57
+221	255	2026-08-16	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+222	256	2026-08-16	https://www.superblocks.com/blog/cursor-vs-claude-code
+223	257	2026-08-16	https://medium.com/@emmaschmidt304/react-19-in-2026-the-hottest-trends-every-developer-must-know-bc73ae38f05a
+224	258	2026-08-16	https://www.bentoml.com/blog/navigating-the-world-of-open-source-large-language-models
+225	259	2026-08-16	https://dev.to/shehzan/mastering-python-async-patterns-a-complete-guide-to-asyncio-in-2026-10o6
+226	260	2026-08-16	https://derekmolloy.ie/the-state-of-rust-for-embedded-development-in-mid-2026/
+227	261	2026-08-17	https://news.ycombinator.com/item?id=47801221
+228	262	2026-08-17	https://zenn.dev/akari1106/articles/9d2abbc63a4abb
+229	263	2026-08-17	https://zenn.dev/nttdata_tech/articles/3ef3ad51c8164c
+230	264	2026-08-17	https://qiita.com/HackathonPortal/items/2ee630c53242819b462a
+231	265	2026-08-17	https://qiita.com/niimim/items/d556cf35c18395972f85
+232	266	2026-08-17	https://dev.to/akashdas/are-passkeys-still-safe-after-pass-ta-key-ij1
+233	267	2026-08-17	https://dev.to/jamilxt/grok-46-released-benchmarks-pricing-and-what-it-means-for-agent-builders-28ob
+234	268	2026-08-17	https://dev.to/jamilxt/metas-muse-glimmer-a-30b-open-weight-model-built-for-local-ai-agents-dkj
+235	269	2026-08-17	https://dev.to/jamilxt/glm-53-zhipus-open-weight-model-excels-at-coding-and-cyber-1m86
+236	270	2026-08-18	https://techstartups.com/2026/08/18/top-tech-news-today-august-18-2026-apple-baidu-bytedance-google-meta-openai-xiaomi-more/
+237	271	2026-08-18	https://zenn.dev/7788/articles/af11fbce6c3379
+238	272	2026-08-18	https://zenn.dev/donai/articles/f10af54cf46cfa
+239	273	2026-08-18	https://qiita.com/keitah/items/654fdf219391e19f2df2
+240	274	2026-08-18	https://qiita.com/YushiYamamoto/items/2787b34f3b5d940b4f9b
+241	275	2026-08-18	https://dev.to/del_rosario/top-10-ai-coding-tools-for-2026-the-new-development-standard-e5p
+242	276	2026-08-19	https://news.ycombinator.com/item?id=49335271
+243	277	2026-08-19	https://zenn.dev/komlock_lab/articles/cloudflare-wallets-agent-payments
+244	278	2026-08-19	https://zenn.dev/ryok/articles/cursor-cloud-agent-lessons
+245	279	2026-08-19	https://qiita.com/picnic/items/e8df41afa2d1115982c7
+246	280	2026-08-19	https://qiita.com/quotidia/items/d874de6093e9b6fc2bba
+247	281	2026-08-19	https://qiita.com/goetaro/items/acb248f043876055ca8f
+248	282	2026-08-19	https://qiita.com/suupaagorira/items/e2e14f3a70c9e1aa6d9b
+249	283	2026-08-19	https://qiita.com/rex0220/items/fbed33b11251cdf7e31e
+250	284	2026-08-19	https://dev.to/arshtechpro/stop-making-your-ai-coding-agent-grep-your-whole-repo-try-codebase-memory-mcp-4g8l
+251	285	2026-08-19	https://dev.to/jamilxt/superpowers-vs-agent-skills-vs-pocock-three-philosophies-of-ai-coding-workflows-e6n
+252	286	2026-08-19	https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec
