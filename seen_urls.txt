@@ -250,3 +250,7 @@
 250	284	2026-08-19	https://dev.to/arshtechpro/stop-making-your-ai-coding-agent-grep-your-whole-repo-try-codebase-memory-mcp-4g8l
 251	285	2026-08-19	https://dev.to/jamilxt/superpowers-vs-agent-skills-vs-pocock-three-philosophies-of-ai-coding-workflows-e6n
 252	286	2026-08-19	https://dev.to/erikch/tanstack-start-is-kind-of-a-big-deal-4nec
+253	287	2026-08-20	https://news.ycombinator.com/item?id=49376696
+254	288	2026-08-20	https://zenn.dev/team_zenn/articles/ai-agent-security
+255	289	2026-08-20	https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+256	290	2026-08-20	https://dev.to/aws-builders/dynamodb-now-does-vector-search-4hld
