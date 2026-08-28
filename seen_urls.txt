@@ -106,3 +106,19 @@
 2026-08-27	https://dev.to/gridport/claude-codes-eli5-skill-explained-how-it-works-setup-and-when-to-use-it-c6
 2026-08-27	https://dev.to/endoflifeai/python-end-of-life-dates-official-eol-schedule-for-every-version-dfd
 2026-08-27	https://dev.to/aws-builders/how-to-make-a-repository-ai-ready-3j62
+109	2026-08-28	https://news.ycombinator.com/item?id=49433759
+110	2026-08-28	https://news.ycombinator.com/item?id=47330295
+111	2026-08-28	https://news.ycombinator.com/item?id=47173281
+112	2026-08-28	https://news.ycombinator.com/item?id=46471524
+113	2026-08-28	https://news.ycombinator.com/item?id=46570115
+114	2026-08-28	https://zenn.dev/nkysk/articles/c4bdf73e50d8ec
+115	2026-08-28	https://zenn.dev/ai_nexus/articles/ai-agents-design-patterns
+116	2026-08-28	https://zenn.dev/acompany/articles/4c033bfee45984
+117	2026-08-28	https://zenn.dev/taku_sid/articles/20250402_industry_ai_agents
+118	2026-08-28	https://qiita.com/ishisaka/items/42b381b9b239e6ef215d
+119	2026-08-28	https://qiita.com/ishisaka/items/c73a5163658b0de24bff
+120	2026-08-28	https://qiita.com/ishisaka/items/a9ba255051776eb713e1
+121	2026-08-28	https://qiita.com/ishisaka/items/8e6b38d031167ff21d05
+122	2026-08-28	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
+123	2026-08-28	https://dev.to/mashrulhaque/2026-developer-predictions-why-coding-gets-better-4hpl
+124	2026-08-28	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
