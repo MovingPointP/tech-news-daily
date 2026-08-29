@@ -106,19 +106,23 @@
 2026-08-27	https://dev.to/gridport/claude-codes-eli5-skill-explained-how-it-works-setup-and-when-to-use-it-c6
 2026-08-27	https://dev.to/endoflifeai/python-end-of-life-dates-official-eol-schedule-for-every-version-dfd
 2026-08-27	https://dev.to/aws-builders/how-to-make-a-repository-ai-ready-3j62
-109	2026-08-28	https://news.ycombinator.com/item?id=49433759
-110	2026-08-28	https://news.ycombinator.com/item?id=47330295
-111	2026-08-28	https://news.ycombinator.com/item?id=47173281
-112	2026-08-28	https://news.ycombinator.com/item?id=46471524
-113	2026-08-28	https://news.ycombinator.com/item?id=46570115
-114	2026-08-28	https://zenn.dev/nkysk/articles/c4bdf73e50d8ec
-115	2026-08-28	https://zenn.dev/ai_nexus/articles/ai-agents-design-patterns
-116	2026-08-28	https://zenn.dev/acompany/articles/4c033bfee45984
-117	2026-08-28	https://zenn.dev/taku_sid/articles/20250402_industry_ai_agents
-118	2026-08-28	https://qiita.com/ishisaka/items/42b381b9b239e6ef215d
-119	2026-08-28	https://qiita.com/ishisaka/items/c73a5163658b0de24bff
-120	2026-08-28	https://qiita.com/ishisaka/items/a9ba255051776eb713e1
-121	2026-08-28	https://qiita.com/ishisaka/items/8e6b38d031167ff21d05
-122	2026-08-28	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
-123	2026-08-28	https://dev.to/mashrulhaque/2026-developer-predictions-why-coding-gets-better-4hpl
-124	2026-08-28	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+126	2026-08-29	https://news.ycombinator.com/item?id=49057241
+127	2026-08-29	https://news.ycombinator.com/item?id=49479837
+128	2026-08-29	https://news.ycombinator.com/item?id=49483182
+129	2026-08-29	https://news.ycombinator.com/item?id=49479878
+130	2026-08-29	https://news.ycombinator.com/item?id=49450353
+131	2026-08-29	https://zenn.dev/nyanko_super/articles/c97008fb2b09ab
+132	2026-08-29	https://zenn.dev/tesla/articles/545165ed6334c7
+133	2026-08-29	https://zenn.dev/manimoto/articles/1c3b1379cc5ef0
+134	2026-08-29	https://zenn.dev/satoshissss/articles/5be253a330896c
+135	2026-08-29	https://zenn.dev/agenticai_flow/articles/ai-era-software-engineer-survival-guide
+136	2026-08-29	https://qiita.com/syun88/items/0276992c290dc70cd679
+137	2026-08-29	https://qiita.com/nogataka/items/c394ba63863cb2799d19
+138	2026-08-29	https://qiita.com/emi_ndk/items/4f70389a0fac717df6a9
+139	2026-08-29	https://qiita.com/dera_news_/items/18167956a80c84692d76
+140	2026-08-29	https://qiita.com/kai_kou/items/20deef9f7691c5af668b
+141	2026-08-29	https://dev.to/code_with_kyryl/http-got-a-new-verb-and-your-post-search-was-always-a-lie-1ba5
+142	2026-08-29	https://dev.to/arvavit/http-finally-shipped-query-i-fired-it-at-production-and-the-edge-called-it-a-bot-7cj
+143	2026-08-29	https://dev.to/bst53/http-finally-has-a-dedicated-query-method-get-vs-post-vs-query-mk7
+144	2026-08-29	https://dev.to/yashddesai/ponytail-the-ai-coding-skill-taking-github-by-storm-and-the-one-question-nobodys-answered-yet-46mc
+145	2026-08-29	https://dev.to/arshtechpro/ponytail-the-ai-coding-skill-that-makes-your-agent-write-less-code-29l3
