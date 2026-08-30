@@ -1,128 +1,142 @@
-2026-08-24	https://zenn.dev/lef237/articles/4c34790d3126f4
-2026-08-24	https://zenn.dev/koukyo/articles/20260721_ai_engineering_western_books_5
-2026-08-24	https://zenn.dev/knowledge_graph/articles/ai-poc-success-failure-criteria-2026
-2026-08-24	https://zenn.dev/h_yoshikawa0724/articles/2026-02-22-developers-summit-2026
-2026-08-24	https://qiita.com/sasgawy/items/6f657e19f1a8e55b187f
-2026-08-24	https://qiita.com/inoyu-qiita/items/1cf056e4c4210f0643fd
-2026-08-24	https://qiita.com/akira_papa_AI/items/2859ba0dfa19cc955e99
-2026-08-24	https://qiita.com/aakan/items/9b9a20f511625aa76044
-2026-08-24	https://news.ycombinator.com/item?id=49452015
-2026-08-24	https://news.ycombinator.com/item?id=49451203
-2026-08-24	https://news.ycombinator.com/item?id=49450441
-2026-08-24	https://news.ycombinator.com/item?id=49449932
-2026-08-24	https://news.ycombinator.com/item?id=49448876
-2026-08-24	https://dev.to/soulentheo/every-ai-coding-cli-in-2026-the-complete-map-30-tools-compared-4gob
-2026-08-24	https://dev.to/sonotommy/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch
-2026-08-24	https://dev.to/sonotommy/10-best-open-source-ai-agents-for-2026-2l6p
-2026-08-24	https://dev.to/moksh/top-cli-ai-coding-agents-to-use-in-2026-11nn
-2026-08-24	https://dev.to/dhruvjoshi9/how-ai-coding-agents-work-in-2026-from-autocomplete-to-autonomous-pull-requests-i3c
-2026-08-23	https://zenn.dev/yuuto127/articles/ai-agent-oss-tools-2026
-2026-08-23	https://zenn.dev/totsu_ai_lab/articles/codex-subagent-guide
-2026-08-23	https://zenn.dev/mkj/articles/782275ebd8fc5c
-2026-08-23	https://zenn.dev/miyan/articles/ai-code-agent-governance-design-2026
-2026-08-23	https://zenn.dev/aircloset/articles/72c3f985fae9b4
-2026-08-23	https://qiita.com/y0us91/items/2feffd2cc6c672717973
-2026-08-23	https://qiita.com/superdora-cloud/items/979295520a85f28e0cab
-2026-08-23	https://qiita.com/keishin_nishiura/items/3f1f9ac6dc3af28ebf3a
-2026-08-23	https://qiita.com/GS-AI/items/36fcfa975b5942244090
-2026-08-23	https://news.ycombinator.com/item?id=49402741
-2026-08-23	https://dev.to/sonotommy/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch
-2026-08-22	https://zenn.dev/team_zenn/articles/devin-joined-to-zenn-team?locale=en
-2026-08-22	https://zenn.dev/some_author/articles/ai-trends-2026
-2026-08-22	https://zenn.dev/nijima/articles/651ed3c1f2ded5
-2026-08-22	https://zenn.dev/koukyo/articles/20260721_ai_engineering_western_books_5
-2026-08-22	https://zenn.dev/ai_dev_guide/articles/loops-implementation-2026
-2026-08-22	https://www.red-gate.com/simple-talk/ai/the-best-ai-developer-tools-in-2026-from-coding-agents-to-code-review/
-2026-08-22	https://www.morphllm.com/best-ai-coding-agents-2026
-2026-08-22	https://qiita.com/softbase/items/c879d72f41cbae4375c5
-2026-08-22	https://qiita.com/security_watch/items/cve-2026-august-summary
-2026-08-22	https://qiita.com/badorisu0555/items/8dc883df26da3c03f9e2
-2026-08-22	https://qiita.com/ai_tools_review/items/claude-code-vs-cursor-2026
-2026-08-22	https://qiita.com/aakan/items/9b9a20f511625aa76044
-2026-08-22	https://news.ycombinator.com/item?id=49392015
-2026-08-22	https://news.ycombinator.com/item?id=49390234
-2026-08-22	https://news.ycombinator.com/item?id=49388567
-2026-08-22	https://news.ycombinator.com/item?id=49387543
-2026-08-22	https://news.ycombinator.com/item?id=49386892
-2026-08-22	https://dev.to/endoflifeai/nodejs-22-lts-eol-date-support-timeline-and-what-comes-next-30dm
-2026-08-22	https://checkmarx.com/learn/ai-security/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality/
-2026-08-22	https://blog.logrocket.com/ai-dev-tool-power-rankings/
-2026-08-25	https://news.ycombinator.com/item?id=49383353
-2026-08-25	https://news.ycombinator.com/item?id=49396937
-2026-08-25	https://news.ycombinator.com/item?id=49383441
-2026-08-25	https://news.ycombinator.com/item?id=49390329
-2026-08-25	https://news.ycombinator.com/item?id=49401487
-2026-08-25	https://zenn.dev/kida_takuma/articles/claude-code-ai-agent-team
-2026-08-25	https://zenn.dev/solvio/articles/7f8d2008526234
-2026-08-25	https://zenn.dev/katsuhisa_/articles/claude-agent-sdk-overview
-2026-08-25	https://zenn.dev/neotechpark/articles/3f87eacadce833
-2026-08-25	https://zenn.dev/galirage/articles/claude-managed-agents-quickstart
-2026-08-25	https://qiita.com/NKKTechGlobal/items/306f4af743f39f34c615
-2026-08-25	https://qiita.com/agdexai/items/0e57ce1dc515d7041dc9
-2026-08-25	https://qiita.com/emi_ndk/items/4f70389a0fac717df6a9
-2026-08-25	https://qiita.com/Sakaaaaai/items/a0b356cb413822ea7ee9
-2026-08-25	https://qiita.com/kei-concierge/items/14e1688fa5f8bcd0d3da
-2026-08-25	https://dev.to/moksh/top-cli-ai-coding-agents-to-use-in-2026-11nn
-2026-08-25	https://dev.to/thedailyagent/top-5-terminal-ai-coding-agents-in-2026-272
-2026-08-25	https://dev.to/soulentheo/coding-clis-in-mid-2026-the-engineers-map-and-what-changed-in-30-days-23p4
-2026-08-25	https://dev.to/lightningdev123/best-open-source-cli-coding-agents-to-explore-in-2026-5bn7
-2026-08-25	https://dev.to/moksh/top-open-source-coding-agents-to-replace-claude-code-in-2026-10f7
-2026-08-26	https://news.ycombinator.com/item?id=49439017
-2026-08-26	https://news.ycombinator.com/item?id=49434378
-2026-08-26	https://news.ycombinator.com/item?id=48663324
-2026-08-26	https://news.ycombinator.com/item?id=49148884
-2026-08-26	https://zenn.dev/secure_auto_lab/articles/local-llm-5model-benchmark-2026
-2026-08-26	https://zenn.dev/ai_nexus/articles/edge-ai-2026-guide
-2026-08-26	https://zenn.dev/hellorusk/articles/3328866ca9e922
-2026-08-26	https://zenn.dev/canly/articles/1d25d234a8fa21
-2026-08-26	https://zenn.dev/cahal_inc/articles/21211c78841847
-2026-08-26	https://qiita.com/h-nabata/items/b80484406e839ee6507b
-2026-08-26	https://qiita.com/YushiYamamoto/items/d8c771d6d7031a793bba
-2026-08-26	https://qiita.com/syun88/items/0276992c290dc70cd679
-2026-08-26	https://qiita.com/mhamadajp/items/3d06e264068841f8fb4f
-2026-08-26	https://qiita.com/okokok/items/3c431af63cc3476d79b9
-2026-08-26	https://dev.to/iryna_k_d5aabe217736fefe7/meet-http-query-the-new-http-method-youve-probably-been-waiting-for-4l36
-2026-08-26	https://dev.to/rishi_gaurav/testing-the-new-http-query-method-what-changes-for-api-automation-3ban
-2026-08-26	https://dev.to/hamidrazadev/the-new-http-query-method-why-get-and-post-werent-enough-1lc5
-2026-08-26	https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51
-2026-08-26	https://dev.to/a3e_ecosystem/ai-coding-agents-in-2026-from-pair-programming-to-autonomous-teams-4f7o
-2026-08-27	https://news.ycombinator.com/item?id=49383353
-2026-08-27	https://news.ycombinator.com/item?id=49396937
-2026-08-27	https://news.ycombinator.com/item?id=49383441
-2026-08-27	https://news.ycombinator.com/item?id=49390329
-2026-08-27	https://news.ycombinator.com/item?id=49401487
-2026-08-27	https://zenn.dev/knowledgework/articles/9c1379a60e57c9
-2026-08-27	https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_0816-0822
-2026-08-27	https://zenn.dev/upgradetech/articles/c129ae0ecd3cd7
-2026-08-27	https://zenn.dev/rescuenow/articles/7242d49a513a1b
-2026-08-27	https://zenn.dev/atsushifx/articles/dev-devenv-2026
-2026-08-27	https://qiita.com/yushibats/items/5976a0ac8db82bd1c2bf
-2026-08-27	https://qiita.com/etale_cohomology/items/4af4df8d002b5c68b5a7
-2026-08-27	https://qiita.com/kotaro_ai_lab/items/ab7638c6cc5c3540755a
-2026-08-27	https://qiita.com/furuse-kazufumi/items/57e2f1e5a09165e58b65
-2026-08-27	https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00
-2026-08-27	https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622
-2026-08-27	https://dev.to/aniruddhaadak/i-ran-a-week-of-real-open-source-work-on-ox-alpha-the-internets-mystery-free-coding-model-1lbo
-2026-08-27	https://dev.to/gridport/claude-codes-eli5-skill-explained-how-it-works-setup-and-when-to-use-it-c6
-2026-08-27	https://dev.to/endoflifeai/python-end-of-life-dates-official-eol-schedule-for-every-version-dfd
-2026-08-27	https://dev.to/aws-builders/how-to-make-a-repository-ai-ready-3j62
-126	2026-08-29	https://news.ycombinator.com/item?id=49057241
-127	2026-08-29	https://news.ycombinator.com/item?id=49479837
-128	2026-08-29	https://news.ycombinator.com/item?id=49483182
-129	2026-08-29	https://news.ycombinator.com/item?id=49479878
-130	2026-08-29	https://news.ycombinator.com/item?id=49450353
-131	2026-08-29	https://zenn.dev/nyanko_super/articles/c97008fb2b09ab
-132	2026-08-29	https://zenn.dev/tesla/articles/545165ed6334c7
-133	2026-08-29	https://zenn.dev/manimoto/articles/1c3b1379cc5ef0
-134	2026-08-29	https://zenn.dev/satoshissss/articles/5be253a330896c
-135	2026-08-29	https://zenn.dev/agenticai_flow/articles/ai-era-software-engineer-survival-guide
-136	2026-08-29	https://qiita.com/syun88/items/0276992c290dc70cd679
-137	2026-08-29	https://qiita.com/nogataka/items/c394ba63863cb2799d19
-138	2026-08-29	https://qiita.com/emi_ndk/items/4f70389a0fac717df6a9
-139	2026-08-29	https://qiita.com/dera_news_/items/18167956a80c84692d76
-140	2026-08-29	https://qiita.com/kai_kou/items/20deef9f7691c5af668b
-141	2026-08-29	https://dev.to/code_with_kyryl/http-got-a-new-verb-and-your-post-search-was-always-a-lie-1ba5
-142	2026-08-29	https://dev.to/arvavit/http-finally-shipped-query-i-fired-it-at-production-and-the-edge-called-it-a-bot-7cj
-143	2026-08-29	https://dev.to/bst53/http-finally-has-a-dedicated-query-method-get-vs-post-vs-query-mk7
-144	2026-08-29	https://dev.to/yashddesai/ponytail-the-ai-coding-skill-taking-github-by-storm-and-the-one-question-nobodys-answered-yet-46mc
-145	2026-08-29	https://dev.to/arshtechpro/ponytail-the-ai-coding-skill-that-makes-your-agent-write-less-code-29l3
+https://zenn.dev/lef237/articles/4c34790d3126f4
+https://zenn.dev/koukyo/articles/20260721_ai_engineering_western_books_5
+https://zenn.dev/knowledge_graph/articles/ai-poc-success-failure-criteria-2026
+https://zenn.dev/h_yoshikawa0724/articles/2026-02-22-developers-summit-2026
+https://qiita.com/sasgawy/items/6f657e19f1a8e55b187f
+https://qiita.com/inoyu-qiita/items/1cf056e4c4210f0643fd
+https://qiita.com/akira_papa_AI/items/2859ba0dfa19cc955e99
+https://qiita.com/aakan/items/9b9a20f511625aa76044
+https://news.ycombinator.com/item?id=49452015
+https://news.ycombinator.com/item?id=49451203
+https://news.ycombinator.com/item?id=49450441
+https://news.ycombinator.com/item?id=49449932
+https://news.ycombinator.com/item?id=49448876
+https://dev.to/soulentheo/every-ai-coding-cli-in-2026-the-complete-map-30-tools-compared-4gob
+https://dev.to/sonotommy/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch
+https://dev.to/sonotommy/10-best-open-source-ai-agents-for-2026-2l6p
+https://dev.to/moksh/top-cli-ai-coding-agents-to-use-in-2026-11nn
+https://dev.to/dhruvjoshi9/how-ai-coding-agents-work-in-2026-from-autocomplete-to-autonomous-pull-requests-i3c
+https://zenn.dev/yuuto127/articles/ai-agent-oss-tools-2026
+https://zenn.dev/totsu_ai_lab/articles/codex-subagent-guide
+https://zenn.dev/mkj/articles/782275ebd8fc5c
+https://zenn.dev/miyan/articles/ai-code-agent-governance-design-2026
+https://zenn.dev/aircloset/articles/72c3f985fae9b4
+https://qiita.com/y0us91/items/2feffd2cc6c672717973
+https://qiita.com/superdora-cloud/items/979295520a85f28e0cab
+https://qiita.com/keishin_nishiura/items/3f1f9ac6dc3af28ebf3a
+https://qiita.com/GS-AI/items/36fcfa975b5942244090
+https://news.ycombinator.com/item?id=49402741
+https://dev.to/sonotommy/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch
+https://zenn.dev/team_zenn/articles/devin-joined-to-zenn-team?locale=en
+https://zenn.dev/some_author/articles/ai-trends-2026
+https://zenn.dev/nijima/articles/651ed3c1f2ded5
+https://zenn.dev/koukyo/articles/20260721_ai_engineering_western_books_5
+https://zenn.dev/ai_dev_guide/articles/loops-implementation-2026
+https://www.red-gate.com/simple-talk/ai/the-best-ai-developer-tools-in-2026-from-coding-agents-to-code-review/
+https://www.morphllm.com/best-ai-coding-agents-2026
+https://qiita.com/softbase/items/c879d72f41cbae4375c5
+https://qiita.com/security_watch/items/cve-2026-august-summary
+https://qiita.com/badorisu0555/items/8dc883df26da3c03f9e2
+https://qiita.com/ai_tools_review/items/claude-code-vs-cursor-2026
+https://qiita.com/aakan/items/9b9a20f511625aa76044
+https://news.ycombinator.com/item?id=49392015
+https://news.ycombinator.com/item?id=49390234
+https://news.ycombinator.com/item?id=49388567
+https://news.ycombinator.com/item?id=49387543
+https://news.ycombinator.com/item?id=49386892
+https://dev.to/endoflifeai/nodejs-22-lts-eol-date-support-timeline-and-what-comes-next-30dm
+https://checkmarx.com/learn/ai-security/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality/
+https://blog.logrocket.com/ai-dev-tool-power-rankings/
+https://news.ycombinator.com/item?id=49383353
+https://news.ycombinator.com/item?id=49396937
+https://news.ycombinator.com/item?id=49383441
+https://news.ycombinator.com/item?id=49390329
+https://news.ycombinator.com/item?id=49401487
+https://zenn.dev/kida_takuma/articles/claude-code-ai-agent-team
+https://zenn.dev/solvio/articles/7f8d2008526234
+https://zenn.dev/katsuhisa_/articles/claude-agent-sdk-overview
+https://zenn.dev/neotechpark/articles/3f87eacadce833
+https://zenn.dev/galirage/articles/claude-managed-agents-quickstart
+https://qiita.com/NKKTechGlobal/items/306f4af743f39f34c615
+https://qiita.com/agdexai/items/0e57ce1dc515d7041dc9
+https://qiita.com/emi_ndk/items/4f70389a0fac717df6a9
+https://qiita.com/Sakaaaaai/items/a0b356cb413822ea7ee9
+https://qiita.com/kei-concierge/items/14e1688fa5f8bcd0d3da
+https://dev.to/moksh/top-cli-ai-coding-agents-to-use-in-2026-11nn
+https://dev.to/thedailyagent/top-5-terminal-ai-coding-agents-in-2026-272
+https://dev.to/soulentheo/coding-clis-in-mid-2026-the-engineers-map-and-what-changed-in-30-days-23p4
+https://dev.to/lightningdev123/best-open-source-cli-coding-agents-to-explore-in-2026-5bn7
+https://dev.to/moksh/top-open-source-coding-agents-to-replace-claude-code-in-2026-10f7
+https://news.ycombinator.com/item?id=49439017
+https://news.ycombinator.com/item?id=49434378
+https://news.ycombinator.com/item?id=48663324
+https://news.ycombinator.com/item?id=49148884
+https://zenn.dev/secure_auto_lab/articles/local-llm-5model-benchmark-2026
+https://zenn.dev/ai_nexus/articles/edge-ai-2026-guide
+https://zenn.dev/hellorusk/articles/3328866ca9e922
+https://zenn.dev/canly/articles/1d25d234a8fa21
+https://zenn.dev/cahal_inc/articles/21211c78841847
+https://qiita.com/h-nabata/items/b80484406e839ee6507b
+https://qiita.com/YushiYamamoto/items/d8c771d6d7031a793bba
+https://qiita.com/syun88/items/0276992c290dc70cd679
+https://qiita.com/mhamadajp/items/3d06e264068841f8fb4f
+https://qiita.com/okokok/items/3c431af63cc3476d79b9
+https://dev.to/iryna_k_d5aabe217736fefe7/meet-http-query-the-new-http-method-youve-probably-been-waiting-for-4l36
+https://dev.to/rishi_gaurav/testing-the-new-http-query-method-what-changes-for-api-automation-3ban
+https://dev.to/hamidrazadev/the-new-http-query-method-why-get-and-post-werent-enough-1lc5
+https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51
+https://dev.to/a3e_ecosystem/ai-coding-agents-in-2026-from-pair-programming-to-autonomous-teams-4f7o
+https://news.ycombinator.com/item?id=49383353
+https://news.ycombinator.com/item?id=49396937
+https://news.ycombinator.com/item?id=49383441
+https://news.ycombinator.com/item?id=49390329
+https://news.ycombinator.com/item?id=49401487
+https://zenn.dev/knowledgework/articles/9c1379a60e57c9
+https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_0816-0822
+https://zenn.dev/upgradetech/articles/c129ae0ecd3cd7
+https://zenn.dev/rescuenow/articles/7242d49a513a1b
+https://zenn.dev/atsushifx/articles/dev-devenv-2026
+https://qiita.com/yushibats/items/5976a0ac8db82bd1c2bf
+https://qiita.com/etale_cohomology/items/4af4df8d002b5c68b5a7
+https://qiita.com/kotaro_ai_lab/items/ab7638c6cc5c3540755a
+https://qiita.com/furuse-kazufumi/items/57e2f1e5a09165e58b65
+https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00
+https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622
+https://dev.to/aniruddhaadak/i-ran-a-week-of-real-open-source-work-on-ox-alpha-the-internets-mystery-free-coding-model-1lbo
+https://dev.to/gridport/claude-codes-eli5-skill-explained-how-it-works-setup-and-when-to-use-it-c6
+https://dev.to/endoflifeai/python-end-of-life-dates-official-eol-schedule-for-every-version-dfd
+https://dev.to/aws-builders/how-to-make-a-repository-ai-ready-3j62
+2026-08-29 https://news.ycombinator.com/item?id=49057241
+2026-08-29 https://news.ycombinator.com/item?id=49479837
+2026-08-29 https://news.ycombinator.com/item?id=49483182
+2026-08-29 https://news.ycombinator.com/item?id=49479878
+2026-08-29 https://news.ycombinator.com/item?id=49450353
+2026-08-29 https://zenn.dev/nyanko_super/articles/c97008fb2b09ab
+2026-08-29 https://zenn.dev/tesla/articles/545165ed6334c7
+2026-08-29 https://zenn.dev/manimoto/articles/1c3b1379cc5ef0
+2026-08-29 https://zenn.dev/satoshissss/articles/5be253a330896c
+2026-08-29 https://zenn.dev/agenticai_flow/articles/ai-era-software-engineer-survival-guide
+2026-08-29 https://qiita.com/syun88/items/0276992c290dc70cd679
+2026-08-29 https://qiita.com/nogataka/items/c394ba63863cb2799d19
+2026-08-29 https://qiita.com/emi_ndk/items/4f70389a0fac717df6a9
+2026-08-29 https://qiita.com/dera_news_/items/18167956a80c84692d76
+2026-08-29 https://qiita.com/kai_kou/items/20deef9f7691c5af668b
+2026-08-29 https://dev.to/code_with_kyryl/http-got-a-new-verb-and-your-post-search-was-always-a-lie-1ba5
+2026-08-29 https://dev.to/arvavit/http-finally-shipped-query-i-fired-it-at-production-and-the-edge-called-it-a-bot-7cj
+2026-08-29 https://dev.to/bst53/http-finally-has-a-dedicated-query-method-get-vs-post-vs-query-mk7
+2026-08-29 https://dev.to/yashddesai/ponytail-the-ai-coding-skill-taking-github-by-storm-and-the-one-question-nobodys-answered-yet-46mc
+2026-08-29 https://dev.to/arshtechpro/ponytail-the-ai-coding-skill-that-makes-your-agent-write-less-code-29l3
+2026-08-30	https://news.ycombinator.com/item?id=49148884
+2026-08-30	https://news.ycombinator.com/item?id=49156683
+2026-08-30	https://news.ycombinator.com/item?id=49161893
+2026-08-30	https://zenn.dev/neotechpark/articles/40546e4a398d29
+2026-08-30	https://zenn.dev/takupeso/articles/subetha-agent-payment-privacy
+2026-08-30	https://zenn.dev/komlock_lab/articles/claude-code-vs-codex-cli-2026
+2026-08-30	https://zenn.dev/riche/articles/claude-code-dev-guide-2026
+2026-08-30	https://qiita.com/lhjjjk4/items/7d5f005ccabca9960cf2
+2026-08-30	https://qiita.com/Takashi_Masumori/items/e6f1678b41483943fc04
+2026-08-30	https://qiita.com/ishisaka/items/42b381b9b239e6ef215d
+2026-08-30	https://qiita.com/nogataka/items/46fb464d05e2eb53d09c
+2026-08-30	https://dev.to/ko-hi/i-fixed-the-catalog-sync-bug-i-said-i-d-fix-5300
+2026-08-30	https://dev.to/elenarevicheva/175-items-marked-done-zero-delivered-an-ai-agent-queue-incident-1ghc
+2026-08-30	https://dev.to/tykok/the-new-http-method-query-2bec
