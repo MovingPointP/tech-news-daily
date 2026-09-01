@@ -24,3 +24,12 @@
 2026-08-31	https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51
 2026-08-31	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
 2026-08-31	https://dev.to/devactivity/the-rise-of-ai-powered-development-integrations-a-2026-outlook-5603
+27	2026-09-01	https://news.ycombinator.com/item?id=49514878
+28	2026-09-01	https://news.ycombinator.com/item?id=49512975
+29	2026-09-01	https://news.ycombinator.com/item?id=49467636
+30	2026-09-01	https://qiita.com/ishisaka/items/d2a70e614b97695aea12
+31	2026-09-01	https://qiita.com/mt_caddi/items/2726f3e8a47fcb7602ce
+32	2026-09-01	https://qiita.com/rino_yume/items/9cbf9497295fa3eb8690
+33	2026-09-01	https://dev.to/akn_ylmaz_9818427316197/claude-ai-features-capabilities-why-it-stands-out-in-2026-a51
+34	2026-09-01	https://dev.to/oikon/reflections-of-claude-code-from-changelog-833
+35	2026-09-01	https://dev.to/robertadam987_/how-to-use-claude-code-for-free-in-2026-openrouter-free-models-ollama-free-gpu-credits-39m3
