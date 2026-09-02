@@ -33,3 +33,11 @@
 33	2026-09-01	https://dev.to/akn_ylmaz_9818427316197/claude-ai-features-capabilities-why-it-stands-out-in-2026-a51
 34	2026-09-01	https://dev.to/oikon/reflections-of-claude-code-from-changelog-833
 35	2026-09-01	https://dev.to/robertadam987_/how-to-use-claude-code-for-free-in-2026-openrouter-free-models-ollama-free-gpu-credits-39m3
+36	2026-09-02	https://news.ycombinator.com/item?id=48976781
+37	2026-09-02	https://zenn.dev/lv/books/f611cdfe8a6e1a
+38	2026-09-02	https://qiita.com/ishisaka/items/b7db8cc8484302299a5e
+39	2026-09-02	https://qiita.com/ennagara128/items/c8bc1cdecb6f98ebd285
+40	2026-09-02	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+41	2026-09-02	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
+42	2026-09-02	https://dev.to/meena_nukala/the-new-frontier-2026-devops-trends-you-cant-ignore-5g8f
+43	2026-09-02	https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
