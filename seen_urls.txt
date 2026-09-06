@@ -1,4 +1,12 @@
-2026-08-30	https://news.ycombinator.com/item?id=49148884
+2026-09-06	https://news.ycombinator.com/item?id=49551096
+2026-09-06	https://zenn.dev/7788/articles/af11fbce6c3379
+2026-09-06	https://zenn.dev/webix/articles/9b3c4e10c65611
+2026-09-06	https://zenn.dev/revvi/articles/0f65953b2f6533
+2026-09-06	https://qiita.com/kawabe0201/items/2bc126be3502138698fb
+2026-09-06	https://qiita.com/dreamiyokoo/items/aa5131e6df9c0fb457b9
+2026-09-06	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
+2026-09-06	https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
+2026-08-07	https://news.ycombinator.com/item?id=49148884
 2026-08-30	https://news.ycombinator.com/item?id=49156683
 2026-08-30	https://news.ycombinator.com/item?id=49161893
 2026-08-30	https://zenn.dev/neotechpark/articles/40546e4a398d29
@@ -14,7 +22,6 @@
 2026-08-30	https://dev.to/tykok/the-new-http-method-query-2bec
 2026-08-31	https://news.ycombinator.com/item?id=49303540
 2026-08-31	https://news.ycombinator.com/item?id=49348751
-2026-08-31	https://news.ycombinator.com/item?id=49148884
 2026-08-31	https://zenn.dev/ruralwritter/articles/6da70647bb70c8
 2026-08-31	https://zenn.dev/noah33/articles/code-with-claude-2026-sf-keynote
 2026-08-31	https://zenn.dev/joinclass/articles/claude-code-remote-dispatch-guide
@@ -24,40 +31,36 @@
 2026-08-31	https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51
 2026-08-31	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
 2026-08-31	https://dev.to/devactivity/the-rise-of-ai-powered-development-integrations-a-2026-outlook-5603
-27	2026-09-01	https://news.ycombinator.com/item?id=49514878
-28	2026-09-01	https://news.ycombinator.com/item?id=49512975
-29	2026-09-01	https://news.ycombinator.com/item?id=49467636
-30	2026-09-01	https://qiita.com/ishisaka/items/d2a70e614b97695aea12
-31	2026-09-01	https://qiita.com/mt_caddi/items/2726f3e8a47fcb7602ce
-32	2026-09-01	https://qiita.com/rino_yume/items/9cbf9497295fa3eb8690
-33	2026-09-01	https://dev.to/akn_ylmaz_9818427316197/claude-ai-features-capabilities-why-it-stands-out-in-2026-a51
-34	2026-09-01	https://dev.to/oikon/reflections-of-claude-code-from-changelog-833
-35	2026-09-01	https://dev.to/robertadam987_/how-to-use-claude-code-for-free-in-2026-openrouter-free-models-ollama-free-gpu-credits-39m3
-36	2026-09-02	https://news.ycombinator.com/item?id=48976781
-37	2026-09-02	https://zenn.dev/lv/books/f611cdfe8a6e1a
-38	2026-09-02	https://qiita.com/ishisaka/items/b7db8cc8484302299a5e
-39	2026-09-02	https://qiita.com/ennagara128/items/c8bc1cdecb6f98ebd285
-40	2026-09-02	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
-41	2026-09-02	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
-42	2026-09-02	https://dev.to/meena_nukala/the-new-frontier-2026-devops-trends-you-cant-ignore-5g8f
-43	2026-09-02	https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
-45	2026-09-05	https://news.ycombinator.com/item?id=49522897
-46	2026-09-05	https://news.ycombinator.com/item?id=49522896
-47	2026-09-05	https://news.ycombinator.com/item?id=49148884
-48	2026-09-05	https://news.ycombinator.com/item?id=49156683
-49	2026-09-05	https://news.ycombinator.com/item?id=49161893
-50	2026-09-05	https://zenn.dev/satoshissss/articles/5be253a330896c
-51	2026-09-05	https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a
-52	2026-09-05	https://zenn.dev/oikon/articles/claude-code-2025
-53	2026-09-05	https://zenn.dev/takna/articles/claude-code-added-features-jul2025-mar2026
-54	2026-09-05	https://zenn.dev/sanpi34/articles/claude-code-pricing-shift-2026
-55	2026-09-05	https://qiita.com/ennagara128/items/873e105fe3f8e24fcc5b
-56	2026-09-05	https://qiita.com/ennagara128/items/822afb1704e37b9a1e65
-57	2026-09-05	https://qiita.com/ishisaka/items/a90767b269f6d6b692b9
-58	2026-09-05	https://qiita.com/mt_caddi/items/e129fdd6cc490544fd8f
-59	2026-09-05	https://qiita.com/mt_caddi/items/0aa540a9016e8d686fc6
-60	2026-09-05	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
-61	2026-09-05	https://dev.to/sanyaduan/the-ai-industry-stack-a-first-principles-map-from-foundation-to-frontier-2026-deep-dive-3i84
-62	2026-09-05	https://dev.to/gabrielanhaia/gpt-6-astra-vs-fable-51-vs-gemini-38-flash-the-ultimate-comparison-24g0
-63	2026-09-05	https://dev.to/muildev/github-trending-digest-2026-09-03-46c7
-64	2026-09-05	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+2026-09-01	https://news.ycombinator.com/item?id=49514878
+2026-09-01	https://news.ycombinator.com/item?id=49512975
+2026-09-01	https://news.ycombinator.com/item?id=49467636
+2026-09-01	https://qiita.com/ishisaka/items/d2a70e614b97695aea12
+2026-09-01	https://qiita.com/mt_caddi/items/2726f3e8a47fcb7602ce
+2026-09-01	https://qiita.com/rino_yume/items/9cbf9497295fa3eb8690
+2026-09-01	https://dev.to/akn_ylmaz_9818427316197/claude-ai-features-capabilities-why-it-stands-out-in-2026-a51
+2026-09-01	https://dev.to/oikon/reflections-of-claude-code-from-changelog-833
+2026-09-01	https://dev.to/robertadam987_/how-to-use-claude-code-for-free-in-2026-openrouter-free-models-ollama-free-gpu-credits-39m3
+2026-09-02	https://news.ycombinator.com/item?id=48976781
+2026-09-02	https://zenn.dev/lv/books/f611cdfe8a6e1a
+2026-09-02	https://qiita.com/ishisaka/items/b7db8cc8484302299a5e
+2026-09-02	https://qiita.com/ennagara128/items/c8bc1cdecb6f98ebd285
+2026-09-02	https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
+2026-09-02	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
+2026-09-02	https://dev.to/meena_nukala/the-new-frontier-2026-devops-trends-you-cant-ignore-5g8f
+2026-09-02	https://dev.to/aymen-hammami/8-software-trends-every-senior-developer-should-watch-in-2026-1bk8
+2026-09-05	https://news.ycombinator.com/item?id=49522897
+2026-09-05	https://news.ycombinator.com/item?id=49522896
+2026-09-05	https://zenn.dev/satoshissss/articles/5be253a330896c
+2026-09-05	https://zenn.dev/kawarimidoll/articles/d3f1a7542de71a
+2026-09-05	https://zenn.dev/oikon/articles/claude-code-2025
+2026-09-05	https://zenn.dev/takna/articles/claude-code-added-features-jul2025-mar2026
+2026-09-05	https://zenn.dev/sanpi34/articles/claude-code-pricing-shift-2026
+2026-09-05	https://qiita.com/ennagara128/items/873e105fe3f8e24fcc5b
+2026-09-05	https://qiita.com/ennagara128/items/822afb1704e37b9a1e65
+2026-09-05	https://qiita.com/ishisaka/items/a90767b269f6d6b692b9
+2026-09-05	https://qiita.com/mt_caddi/items/e129fdd6cc490544fd8f
+2026-09-05	https://qiita.com/mt_caddi/items/0aa540a9016e8d686fc6
+2026-09-05	https://dev.to/sanyaduan/the-ai-industry-stack-a-first-principles-map-from-foundation-to-frontier-2026-deep-dive-3i84
+2026-09-05	https://dev.to/gabrielanhaia/gpt-6-astra-vs-fable-51-vs-gemini-38-flash-the-ultimate-comparison-24g0
+2026-09-05	https://dev.to/muildev/github-trending-digest-2026-09-03-46c7
+2026-09-05	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
