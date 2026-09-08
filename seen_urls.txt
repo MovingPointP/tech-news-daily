@@ -79,3 +79,13 @@
 2026-09-07	https://dev.to/etairos/stylesmuggler-unpatched-magento-zero-day-is-backdooring-stores-right-now-59gh
 2026-09-07	https://dev.to/julesrobineau/cyber-resilience-act-the-reporting-clock-starts-on-september-11-208o
 2026-09-07	https://dev.to/iar01/building-the-real-jarvis-did-openai-just-create-iron-mans-ai-3k6m
+2026-09-08	https://news.ycombinator.com/item?id=46849965
+2026-09-08	https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
+2026-09-08	https://zenn.dev/ino_h/articles/agentic-ai-trends-2025-09
+2026-09-08	https://zenn.dev/knowledge_graph/articles/crn-ai-startups-to-watch-2026
+2026-09-08	https://zenn.dev/canly/articles/1d25d234a8fa21
+2026-09-08	https://qiita.com/ennagara128/items/d3172d51ba30bedd20b0
+2026-09-08	https://qiita.com/ishisaka/items/9c78a8830f06cd9ffefe
+2026-09-08	https://qiita.com/lhjjjk4/items/be44daadede8ba5f9373
+2026-09-08	https://dev.to/sumit_sharma31/html-latest-updates-in-2026-new-features-every-web-developer-should-know-jk6
+2026-09-08	https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel
