@@ -89,3 +89,11 @@
 2026-09-08	https://qiita.com/lhjjjk4/items/be44daadede8ba5f9373
 2026-09-08	https://dev.to/sumit_sharma31/html-latest-updates-in-2026-new-features-every-web-developer-should-know-jk6
 2026-09-08	https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel
+2026-09-09	https://news.ycombinator.com/item?id=47938068
+2026-09-09	https://news.ycombinator.com/item?id=49624603
+2026-09-09	https://github.com/topics/trending-repositories?o=desc&s=updated
+2026-09-09	https://zenn.dev
+2026-09-09	https://qiita.com/keishin_nishiura/items/7e83d3e973084255fe42
+2026-09-09	https://qiita.com/Qiita/items/b5c1550c969776b65b9b
+2026-09-09	https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/
+2026-09-09	https://www.trigyn.com/insights/ai-trends-2026-new-era-ai-advancements-and-breakthroughs
