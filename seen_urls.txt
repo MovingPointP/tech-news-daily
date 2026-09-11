@@ -1,8 +1,28 @@
-2026-09-10	https://news.ycombinator.com/item?id=42650681
-2026-09-10	https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202608
-2026-09-10	https://qiita.com/ishisaka/items/7cb2763b15ecd73cf363
-2026-09-10	https://qiita.com/ennagara128/items/1386d130150096dcbd1f
-2026-09-10	https://dev.to/javaskr/what-apples-september-2026-event-means-for-developers-3pnk
-2026-09-10	https://dev.to/matthewhsu/deepseek-v41-flash-deep-dive-architecture-modelflare-pricing-and-rivals-5fk3
-2026-09-10	https://dev.to/jamilxt/shopify-is-moving-its-mobile-apps-back-to-native-coding-agents-made-it-cheaper-to-build-twice-than-4bf9
-2026-09-10	https://dev.to/danilo_bossanova/http-query-has-arrived-the-method-that-fills-the-gap-between-get-and-post-5cnp
+1	2026-09-10	https://news.ycombinator.com/item?id=42650681
+2	2026-09-10	https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202608
+3	2026-09-10	https://qiita.com/ishisaka/items/7cb2763b15ecd73cf363
+4	2026-09-10	https://qiita.com/ennagara128/items/1386d130150096dcbd1f
+5	2026-09-10	https://dev.to/javaskr/what-apples-september-2026-event-means-for-developers-3pnk
+6	2026-09-10	https://dev.to/matthewhsu/deepseek-v41-flash-deep-dive-architecture-modelflare-pricing-and-rivals-5fk3
+7	2026-09-10	https://dev.to/jamilxt/shopify-is-moving-its-mobile-apps-back-to-native-coding-agents-made-it-cheaper-to-build-twice-than-4bf9
+8	2026-09-10	https://dev.to/danilo_bossanova/http-query-has-arrived-the-method-that-fills-the-gap-between-get-and-post-5cnp
+9	2026-09-11	https://news.ycombinator.com/item?id=49614280
+10	2026-09-11	https://news.ycombinator.com/item?id=49624823
+11	2026-09-11	https://news.ycombinator.com/item?id=49628493
+12	2026-09-11	https://news.ycombinator.com/item?id=49554643
+13	2026-09-11	https://news.ycombinator.com/item?id=49486967
+14	2026-09-11	https://qiita.com/ennagara128/items/552b61295bfa9bc2c20a
+15	2026-09-11	https://qiita.com/ishisaka/items/66570f5c81861fdbbdb2
+16	2026-09-11	https://qiita.com/mt_caddi/items/0aa540a9016e8d686fc6
+17	2026-09-11	https://qiita.com/mt_caddi/items/2726f3e8a47fcb7602ce
+18	2026-09-11	https://qiita.com/pitopito/items/de4673b30742742f54a0
+19	2026-09-11	https://zenn.dev/ino_h/articles/agentic-ai-trends-2025-09
+20	2026-09-11	https://zenn.dev/knowledge_graph/articles/crn-ai-startups-to-watch-2026
+21	2026-09-11	https://zenn.dev/yeahkitory/articles/8b6d7c493dbda0
+22	2026-09-11	https://zenn.dev/hiromiishino/articles/3c1abc41eff634
+23	2026-09-11	https://zenn.dev/satoshissss/articles/5be253a330896c
+24	2026-09-11	https://dev.to/parsajiravand/typescript-won-heres-what-that-actually-bought-us-53lo
+25	2026-09-11	https://dev.to/johnnylemonny/5-developer-trends-that-actually-matter-in-2026-not-just-the-hype-4g86
+26	2026-09-11	https://dev.to/raju_dandigam/stop-messy-ai-projects-a-clean-folder-structure-for-real-agent-systems-502f
+27	2026-09-11	https://dev.to/neurolink/building-ai-agents-with-mcp-and-typescript-in-2026-2n89
+28	2026-09-11	https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
