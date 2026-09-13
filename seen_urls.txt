@@ -17,3 +17,13 @@
 2026-09-12 https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
 2026-09-12 https://www.msn.com/en-us/news/other/copilot-goes-agentic-how-microsofts-2026-ai-overhaul-rewires-azure-devops-workflows/gm-GM845353E9
 2026-09-12 https://rocketdevs.com/blog/From-Copilots-to-Coworkers
+2026-09-13 https://news.ycombinator.com/item?id=49624823
+2026-09-13 https://zenn.dev/7788/articles/af11fbce6c3379
+2026-09-13 https://zenn.dev/loglass/articles/177f5135cd9d37
+2026-09-13 https://zenn.dev/yutaka8484/articles/kobayashi-20260722-ai-agent-system
+2026-09-13 https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+2026-09-13 https://zenn.dev/assign/articles/ab66b2843d9380
+2026-09-13 https://qiita.com/syun88/items/0276992c290dc70cd679
+2026-09-13 https://dev.to/atomlit/the-2026-token-collapse-architecting-for-ai-as-a-commodity-3gep
+2026-09-13 https://dev.to/saaro_net/supply-chain-security-2026-sbom-sigstoreslsa-and-admission-control-as-devops-standard-3lbl
+2026-09-13 https://dev.to/hadil/top-5-enterprise-ai-gateways-in-2026-ranked-for-scale-governance-production-readiness-4iod
