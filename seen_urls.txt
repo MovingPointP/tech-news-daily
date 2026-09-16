@@ -33,3 +33,17 @@
 2026-09-15 https://dev.to/sonotommy/10-best-open-source-ai-agents-for-2026-2l6p
 2026-09-15 https://dev.to/iraycd/the-claude-code-leak-just-gave-every-developer-a-masterclass-in-ai-agent-orchestration-1km6
 2026-09-15 https://dev.to/sonotommy/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch
+2026-09-16 https://news.ycombinator.com/item?id=49700477
+2026-09-16 https://zenn.dev/acntechjp/articles/a6363f852179d1
+2026-09-16 https://zenn.dev/gaku1234/articles/script-development-complete-guide-2026-intro
+2026-09-16 https://zenn.dev/t3tra/articles/96019c46972bda
+2026-09-16 https://zenn.dev/motowo/articles/chrome-python-web-automation-1
+2026-09-16 https://zenn.dev/seekseep/articles/js-new-features-catch-up-2026
+2026-09-16 https://qiita.com/ishisaka/items/7cb2763b15ecd73cf363
+2026-09-16 https://qiita.com/homhom44/items/7df3bfdf181df6174bd2
+2026-09-16 https://qiita.com/pitopito/items/950c9b16b1668c1c58c5
+2026-09-16 https://dev.to/cyberrscourse/httphttps-malleable-c2-the-chameleon-of-network-communications-56ol
+2026-09-16 https://dev.to/jamilxt/the-first-malware-that-writes-itself-what-openai-and-anthropic-agent-breakouts-mean-for-your-3n80
+2026-09-16 https://dev.to/ronec/the-latest-in-ai-whats-new-in-2026-5fie
+2026-09-16 https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
+2026-09-16 https://dev.to/bartczernicki/forecasting-the-nfl-goat-qb-with-artificial-intelligence-the-2026-update-38e0
