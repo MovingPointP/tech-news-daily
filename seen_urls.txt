@@ -1,64 +1,20 @@
-1	2026-09-14 https://news.ycombinator.com/item?id=49688695
-2	2026-09-14 https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads
-3	2026-09-14 https://dreamstation.systems/personal/tesla.html
-4	2026-09-14 https://news.ycombinator.com/item?id=49689048
-5	2026-09-14 https://twitter.com
-6	2026-09-14 https://zenn.dev/aoyamadev/articles/d3b18d64b3bd60
-7	2026-09-14 https://zenn.dev/shineos/articles/ai-agent-llm-types-guide
-8	2026-09-14 https://zenn.dev/lingmu/articles/2026-05-13-llm-ai
-9	2026-09-14 https://zenn.dev/rasshii/books/learning-react-2026
-10	2026-09-14 https://zenn.dev/shineos/articles/local-ai-model-deployment-guide-2026
-11	2026-09-14 https://qiita.com/mt_caddi/items/0aa540a9016e8d686fc6
-12	2026-09-14 https://qiita.com/mt_caddi/items/2726f3e8a47fcb7602ce
-13	2026-09-14 https://qiita.com/YushiYamamoto/items/9845784d14428db90fce
-14	2026-09-14 https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
-15	2026-09-14 https://dev.to/akaranjkar08/claude-code-multi-agent-coordination-build-ai-teams-that-ship-2026-16b9
-16	2026-09-14 https://dev.to/elvissautet/react-192-just-dropped-what-actually-matters-my-3-week-production-test-5387
-17	2026-09-14 https://dev.to/gde/building-ai-agents-with-the-python-agent-development-kit-adk-2026-edition-v2-32hf
-18	2026-09-14 https://dev.to/tech_croc_f32fbb6ea8ed4/opencode-vs-claude-code-which-ai-cli-coding-agent-wins-in-2026-45md
-19	2026-09-14 https://dev.to/agdex_ai/370-ai-agent-tools-in-one-place-a-curated-directory-for-builders-in-2026-4479
-20	2026-09-15 https://news.ycombinator.com/item?id=49697893
-21	2026-09-15 https://news.ycombinator.com/item?id=49699297
-22	2026-09-15 https://zenn.dev/team_zenn/articles/ai-agent-security
-23	2026-09-15 https://zenn.dev/lixian/articles/llm-agent-survey
-24	2026-09-15 https://zenn.dev/satoshissss/articles/5be253a330896c
-25	2026-09-15 https://zenn.dev/ukiajp/articles/ai-agent-governance-pillars-2026
-26	2026-09-15 https://zenn.dev/anomura/articles/4983d622b91b7b
-27	2026-09-15 https://qiita.com/ennagara128/items/4ea9af05e177e9e7bf4d
-28	2026-09-15 https://qiita.com/ishisaka/items/f26dc2f1d018e9f3109a
-29	2026-09-15 https://qiita.com/aakan/items/72c27ca5e016f3d38e09
-30	2026-09-15 https://qiita.com/kai_kou/items/62ed8786ef26557c5c58
-31	2026-09-15 https://dev.to/bean_bean/claude-managed-agents-deep-dive-anthropics-new-ai-agent-infrastructure-2026-3286
-32	2026-09-15 https://dev.to/nova_gg/i-built-5-ai-agents-with-claudes-new-builder-tool-heres-what-actually-works-in-2026-63d
-33	2026-09-15 https://dev.to/sonotommy/10-best-open-source-ai-agents-for-2026-2l6p
-34	2026-09-15 https://dev.to/iraycd/the-claude-code-leak-just-gave-every-developer-a-masterclass-in-ai-agent-orchestration-1km6
-35	2026-09-15 https://dev.to/sonotommy/8-ai-coding-agents-that-actually-ship-production-code-in-2026-18ch
-36	2026-09-16 https://news.ycombinator.com/item?id=49700477
-37	2026-09-16 https://zenn.dev/acntechjp/articles/a6363f852179d1
-38	2026-09-16 https://zenn.dev/gaku1234/articles/script-development-complete-guide-2026-intro
-39	2026-09-16 https://zenn.dev/t3tra/articles/96019c46972bda
-40	2026-09-16 https://zenn.dev/motowo/articles/chrome-python-web-automation-1
-41	2026-09-16 https://zenn.dev/seekseep/articles/js-new-features-catch-up-2026
-42	2026-09-16 https://qiita.com/ishisaka/items/7cb2763b15ecd73cf363
-43	2026-09-16 https://qiita.com/homhom44/items/7df3bfdf181df6174bd2
-44	2026-09-16 https://qiita.com/pitopito/items/950c9b16b1668c1c58c5
-45	2026-09-16 https://dev.to/cyberrscourse/httphttps-malleable-c2-the-chameleon-of-network-communications-56ol
-46	2026-09-16 https://dev.to/jamilxt/the-first-malware-that-writes-itself-what-openai-and-anthropic-agent-breakouts-mean-for-your-3n80
-47	2026-09-16 https://dev.to/ronec/the-latest-in-ai-whats-new-in-2026-5fie
-48	2026-09-16 https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
-49	2026-09-16 https://dev.to/bartczernicki/forecasting-the-nfl-goat-qb-with-artificial-intelligence-the-2026-update-38e0
-50	2026-09-19 https://news.ycombinator.com/item?id=49758736
-51	2026-09-19 https://news.ycombinator.com/item?id=49754785
-52	2026-09-19 https://news.ycombinator.com/item?id=49747070
-53	2026-09-19 https://news.ycombinator.com/item?id=49752041
-54	2026-09-19 https://zenn.dev/meijin/articles/jev-impressions
-55	2026-09-19 https://zenn.dev/canly/articles/7ac8cea14c20e8
-56	2026-09-19 https://zenn.dev/jboydev/articles/0ca89385867c11
-57	2026-09-19 https://zenn.dev/caen/articles/a629b80e76e193
-58	2026-09-19 https://zenn.dev/watany/articles/36e11a20ce3743
-59	2026-09-19 https://qiita.com/ennagara128/items/17859bf1e9b72ef4daa0
-60	2026-09-19 https://qiita.com/ishisaka/items/d3cd234a5af5c65baa6a
-61	2026-09-19 https://dev.to/jsmanifest/claude-code-session-compaction-in-2026-how-context-summarization-works-and-what-your-agent-forgets-am0
-62	2026-09-19 https://dev.to/tylerjrbuell/stop-trusting-your-agent-framework-start-controlling-it-1mia
-63	2026-09-19 https://dev.to/raju_ahmed_8f727906cfab92/cutting-a-threejs-product-configurator-from-167-mb-to-24-mb-2bka
-64	2026-09-19 https://dev.to/remuslazar/two-agents-not-five-3pnc
+2026-09-20 https://www.anthropic.com/threat-intelligence-report-september-2026
+2026-09-20 https://spectrum.ieee.org/state-of-ai-index-2026
+2026-09-20 https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+2026-09-20 https://news.ycombinator.com/item?id=46502023
+2026-09-20 https://news.ycombinator.com/item?id=49522897
+2026-09-20 https://zenn.dev/knowledge_graph/articles/crn-ai-startups-to-watch-2026
+2026-09-20 https://zenn.dev/caen/articles/a629b80e76e193
+2026-09-20 https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations
+2026-09-20 https://zenn.dev/koukyo/articles/20260721_ai_engineering_western_books_5
+2026-09-20 https://zenn.dev/tesla/articles/545165ed6334c7
+2026-09-20 https://qiita.com/mt_caddi/items/0aa540a9016e8d686fc6
+2026-09-20 https://qiita.com/aakan/items/adeb1a7d2adf75aa52f4
+2026-09-20 https://qiita.com/aakan/items/4d0154017b7644c0ba5d
+2026-09-20 https://qiita.com/Qiita/items/b5c1550c969776b65b9b
+2026-09-20 https://qiita.com/pitopito/items/e850bd00a5d1d42272df
+2026-09-20 https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+2026-09-20 https://dev.to/saikrishna_gopannagari_f9/the-new-developer-stack-in-2026-less-coding-more-context-9j3
+2026-09-20 https://dev.to/badass_tech-ae2025/best-programming-languages-for-2026-5c5f
+2026-09-20 https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
+2026-09-20 https://dev.to/akamaanullah/the-2026-ai-developer-toolkit-agentic-ai-future-trends-1d9p
