@@ -18,3 +18,15 @@
 2026-09-20 https://dev.to/badass_tech-ae2025/best-programming-languages-for-2026-5c5f
 2026-09-20 https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
 2026-09-20 https://dev.to/akamaanullah/the-2026-ai-developer-toolkit-agentic-ai-future-trends-1d9p
+2026-09-21 https://news.ycombinator.com/item?id=49776729
+2026-09-21 https://news.ycombinator.com/item?id=46661231
+2026-09-21 https://news.ycombinator.com/item?id=49727041
+2026-09-21 https://zenn.dev/aircloset/articles/72c3f985fae9b4
+2026-09-21 https://zenn.dev/knowledgework/articles/9c1379a60e57c9
+2026-09-21 https://zenn.dev/mkj/articles/10ee4ced3d7aaf
+2026-09-21 https://zenn.dev/yokoi_ai/articles/ai-general-weekly-2026-w13
+2026-09-21 https://qiita.com/aokikenichi/items/35c8ad26fb7c18135242
+2026-09-21 https://qiita.com/mt_caddi/items/2726f3e8a47fcb7602ce
+2026-09-21 https://dev.to/theautonomousedge/the-autonomous-edge-issue-5-ai-agent-security-matures-into-a-category-week-of-september-7-5cdp
+2026-09-21 https://dev.to/thefluxread/openai-just-opened-its-agents-api-to-everyone-what-it-actually-changes-for-developers-3j1j
+2026-09-21 https://dev.to/vpodk/openai-agents-api-simplifies-enterprise-agent-development-3h6d
