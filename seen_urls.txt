@@ -102,3 +102,18 @@
 2026-09-25 https://dev.to/princeofv/react-19-new-hooks-complete-tutorial-2026-guide-119p
 2026-09-25 https://dev.to/rahulxsingh/react-19-use-hook-guide-to-promises-and-context-395h
 2026-09-25 https://dev.to/nainikmehta/why-react-19s-use-api-can-break-the-rules-of-hooks-4e8d
+106	2026-09-26 https://news.ycombinator.com/item?id=49841563
+107	2026-09-26 https://news.ycombinator.com/item?id=49848269
+108	2026-09-26 https://news.ycombinator.com/item?id=49843269
+109	2026-09-26 https://news.ycombinator.com/item?id=33730417
+110	2026-09-26 https://news.ycombinator.com/item?id=49845133
+111	2026-09-26 https://zenn.dev/atsushifx/articles/dev-devenv-2026
+112	2026-09-26 https://zenn.dev/komatsuh/articles/komatsuh_ime_news_2026_02
+113	2026-09-26 https://zenn.dev/0st_ts/articles/ed818d52fddcca
+114	2026-09-26 https://qiita.com/pitopito/items/3626e9849a7e12dd6e6f
+115	2026-09-26 https://qiita.com/katoriko/items/c8ed058644beb0023b8a
+116	2026-09-26 https://qiita.com/jiahuih561/items/4ec8c557a4a7d0d28051
+117	2026-09-26 https://dev.to/kozhevniko/what-the-september-2026-ibm-advisory-means-for-teams-running-langflow-oss-in-production-1l7b
+118	2026-09-26 https://dev.to/alifar/google-search-console-adds-multimodal-reporting-for-image-led-search-3ija
+119	2026-09-26 https://dev.to/shirmali/weekly-cybersecurity-roundup-week-of-september-21-2026-4a65
+120	2026-09-26 https://dev.to/bianliang/73105-airflow-instances-11673-sonarqube-and-33837-nexus-fingerprinting-the-build-and-quality-28p4
