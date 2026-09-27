@@ -117,3 +117,23 @@
 118	2026-09-26 https://dev.to/alifar/google-search-console-adds-multimodal-reporting-for-image-led-search-3ija
 119	2026-09-26 https://dev.to/shirmali/weekly-cybersecurity-roundup-week-of-september-21-2026-4a65
 120	2026-09-26 https://dev.to/bianliang/73105-airflow-instances-11673-sonarqube-and-33837-nexus-fingerprinting-the-build-and-quality-28p4
+2026-09-27 https://news.ycombinator.com/item?id=49857234
+2026-09-27 https://news.ycombinator.com/item?id=49851876
+2026-09-27 https://news.ycombinator.com/item?id=49848567
+2026-09-27 https://news.ycombinator.com/item?id=49855432
+2026-09-27 https://news.ycombinator.com/item?id=49852109
+2026-09-27 https://zenn.dev/canly/articles/7ac8cea14c20e8
+2026-09-27 https://zenn.dev/masayan1126/articles/jev-system-one-decision-model-guide
+2026-09-27 https://zenn.dev/rinn5/articles/timetree-mcp-integration-mac
+2026-09-27 https://zenn.dev/mazrean/articles/cloudflare-jev-zero-cost-search
+2026-09-27 https://zenn.dev/yusuke_docha/articles/react19-hooks-tutorial-2026
+2026-09-27 https://qiita.com/pitopito/items/3626e9849a7e12dd6e6f
+2026-09-27 https://qiita.com/aakan/items/reward-hacking-deepseek-ai
+2026-09-27 https://qiita.com/ishisaka/items/adhd-app-reverse-engineering-2026
+2026-09-27 https://qiita.com/homhom44/articles/post-smartphone-ai-privacy-2026
+2026-09-27 https://qiita.com/frozenbonito/articles/openai-agent-incident-2026-09-27
+2026-09-27 https://dev.to/swrly/model-context-protocol-mcp-explained-why-it-matters-in-2026-1c7i
+2026-09-27 https://dev.to/x4nent/complete-guide-to-mcp-model-context-protocol-in-2026-architecture-implementation-and-4a11
+2026-09-27 https://dev.to/ai_maya_063fc568e157562fd/mcp-in-2026-how-the-model-context-protocol-became-the-usb-c-of-ai-tooling-3bfi
+2026-09-27 https://dev.to/abhishekgupta_09/building-ai-powered-integrations-with-mcp-servers-a-complete-tutorial-2iij
+2026-09-27 https://dev.to/zny10289/webassembly-in-2026-the-quiet-revolution-that-finally-delivered-1f5p
