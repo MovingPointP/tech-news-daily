@@ -162,3 +162,21 @@
 162	162	2026-10-08 https://qiita.com/aakan/items/fb3833c1612bf5984817
 163	163	2026-10-08 https://qiita.com/yoshioterada/items/e796d7255e0a4efdb9f9
 164	164	2026-10-08 https://qiita.com/Ito_110/items/3a9814aa4fbd94b95e09
+165	165	165	2026-10-10 https://news.ycombinator.com/item?id=42901234
+166	166	166	2026-10-10 https://news.ycombinator.com/item?id=42901567
+167	167	167	2026-10-10 https://news.ycombinator.com/item?id=42901890
+168	168	168	2026-10-10 https://news.ycombinator.com/item?id=42902100
+169	169	169	2026-10-10 https://news.ycombinator.com/item?id=42902456
+170	170	170	2026-10-10 https://zenn.dev/yoshihiko555/articles/ea2db6070058b3
+171	171	171	2026-10-10 https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles
+172	172	172	2026-10-10 https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics
+173	173	173	2026-10-10 https://zenn.dev/revvi/articles/0f65953b2f6533
+174	174	174	2026-10-10 https://qiita.com/Git_Dayori/items/ff4cb0b6c0566972e30f
+175	175	175	2026-10-10 https://qiita.com/Git_Dayori/items/8dcb7b7e936b6715ffa3
+176	176	176	2026-10-10 https://qiita.com/Git_Dayori/items/00ad46e9d55399eb8cb9
+177	177	177	2026-10-10 https://qiita.com/Necoze/items/180b746b73651fd87769
+178	178	178	2026-10-10 https://qiita.com/ennagara128/items/7b9843ab2b927c736550
+179	179	179	2026-10-10 https://dev.to/max_quimby/claude-code-mods-just-turned-agents-into-a-platform-5gc0
+180	180	180	2026-10-10 https://dev.to/karleeov/top-5-dev-tools-tutorials-trending-this-week-october-2026-24oc
+181	181	181	2026-10-10 https://dev.to/uehara/i-connected-chatgpt-dots-to-gmail-calendar-slack-and-notion-to-see-what-it-can-cant-do-13md
+182	182	182	2026-10-10 https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
