@@ -1,5 +1,3 @@
-1	1	2026-09-26 https://dev.to/alifar/google-search-console-adds-multimodal-reporting-for-image-led-search-3ija
-2	2	2026-09-26 https://dev.to/bianliang/73105-airflow-instances-11673-sonarqube-and-33837-nexus-fingerprinting-the-build-and-quality-28p4
 3	3	2026-09-26 https://dev.to/kozhevniko/what-the-september-2026-ibm-advisory-means-for-teams-running-langflow-oss-in-production-1l7b
 4	4	2026-09-26 https://news.ycombinator.com/item?id=33730417
 5	5	2026-09-26 https://news.ycombinator.com/item?id=49841563
@@ -7,17 +5,6 @@
 7	7	2026-09-26 https://news.ycombinator.com/item?id=49845133
 8	8	2026-09-26 https://news.ycombinator.com/item?id=49848269
 9	9	2026-09-26 https://qiita.com/jiahuih561/items/4ec8c557a4a7d0d28051
-10	10	2026-09-26 https://qiita.com/katoriko/items/c8ed058644beb0023b8a
-11	11	2026-09-26 https://qiita.com/pitopito/items/3626e9849a7e12dd6e6f
-12	12	2026-09-26 https://zenn.dev/0st_ts/articles/ed818d52fddcca
-13	13	2026-09-26 https://zenn.dev/atsushifx/articles/dev-devenv-2026
-14	14	2026-09-26 https://zenn.dev/komatsuh/articles/komatsuh_ime_news_2026_02
-15	15	2026-09-28 https://dev.to/moksh/webassembly-in-2026-a-practical-guide-to-wasm-and-wasi-for-modern-developers-3ogm
-16	16	2026-09-28 https://dev.to/princeofv/react-19-new-hooks-complete-tutorial-2026-guide-119p
-17	17	2026-09-28 https://dev.to/saaro_net/open-source-highlights-september-2026-7-projects-you-should-know-dlj
-18	18	2026-09-28 https://dev.to/shirmali/weekly-cybersecurity-roundup-week-of-september-21-2026-4a65
-19	19	2026-09-28 https://dev.to/swrly/model-context-protocol-mcp-explained-why-it-matters-in-2026-1c7i
-20	20	2026-09-28 https://news.ycombinator.com/item?id=49848567
 21	21	2026-09-28 https://news.ycombinator.com/item?id=49851876
 22	22	2026-09-28 https://news.ycombinator.com/item?id=49852109
 23	23	2026-09-28 https://news.ycombinator.com/item?id=49855432
@@ -97,86 +84,23 @@
 97	97	2026-10-02 https://zenn.dev/algoartis/articles/0b1c731881b25c
 98	98	2026-10-02 https://zenn.dev/galirage/articles/openai-dev-day-2026-keynote
 99	99	2026-10-02 https://zenn.dev/nyanko_super/articles/c97008fb2b09ab
-100	100	2026-10-02 https://zenn.dev/satoshissss/articles/5be253a330896c
-101	101	2026-10-03 https://dev.to/huzaifa_1302/lecturebuddy-an-open-source-ai-that-makes-lecture-notes-easy-to-understand-1lb1
-102	102	2026-10-03 https://dev.to/raphmwanza/how-i-built-an-open-source-whatsapp-claims-bot-for-insurers-in-the-drc-4cic
-103	103	2026-10-03 https://dev.to/shivangi_singh_a505982953/hacktoberfest-2026-is-here-35h2
-104	104	2026-10-03 https://dev.to/syed_jawad_ead7feefa5b789/museum-of-unfinished-futures-an-ai-clerk-proposes-a-human-curator-decides-2dki
-105	105	2026-10-03 https://news.ycombinator.com/item?id=49920160
-106	106	2026-10-03 https://news.ycombinator.com/item?id=49921050
-107	107	2026-10-03 https://news.ycombinator.com/item?id=49923466
-108	108	2026-10-03 https://news.ycombinator.com/item?id=49923692
-109	109	2026-10-03 https://news.ycombinator.com/item?id=49926069
-110	110	2026-10-03 https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
-111	111	2026-10-03 https://qiita.com/masukane9473/items/16ae79e08a538d8e4d47
-112	112	2026-10-03 https://qiita.com/syun88/items/0276992c290dc70cd679
-113	113	2026-10-03 https://qiita.com/yut-nagase/items/eb3b189d0c232f7c569e
-114	114	2026-10-03 https://zenn.dev/7788/articles/af11fbce6c3379
-115	115	2026-10-03 https://zenn.dev/acrosstudioblog/articles/4138c8ec633df8
-116	116	2026-10-03 https://zenn.dev/tkithrta/articles/39c90bb6b352f0
-117	117	2026-10-03 https://zenn.dev/tottoko_hamu/articles/2026-04-15-085102
-118	118	2026-10-04 https://dev.to/cortexflow_tech/nvidia-rtx-spark-local-ai-agents-are-arriving-on-your-desk-1l8
-119	119	2026-10-04 https://dev.to/devengers/dev-opportunity-radar-19-hacktoberfest-20k-ai-agent-hackathon-and-pear-prime-2027-291n
-120	120	2026-10-04 https://dev.to/kozhevniko/what-the-cisa-kev-listing-for-cve-2026-104286-tells-defenders-55lj
-121	121	2026-10-04 https://dev.to/max_quimby/anthropics-2t-ipo-has-a-518b-problem-3ml8
-122	122	2026-10-04 https://dev.to/stimlau/chatgpt-vs-gemini-in-2026-which-free-tier-actually-gives-you-more-5ecg
-123	123	2026-10-04 https://news.ycombinator.com/item?id=49924123
-124	124	2026-10-04 https://news.ycombinator.com/item?id=49925672
-125	125	2026-10-04 https://news.ycombinator.com/item?id=49926789
-126	126	2026-10-04 https://news.ycombinator.com/item?id=49928456
-127	127	2026-10-04 https://news.ycombinator.com/item?id=49932145
-128	128	2026-10-04 https://qiita.com/aakan/items/0bb6584e3d8adef167e4
-129	129	2026-10-04 https://qiita.com/ennagara128/items/71665c25984b7e997704
-130	130	2026-10-04 https://qiita.com/ennagara128/items/a23a18e206916a4b95dc
-131	131	2026-10-04 https://qiita.com/ishisaka/items/db10f1863a081f1e69d9
-132	132	2026-10-04 https://zenn.dev/tacogips/articles/7f4a3f3c4d2588
-133	133	2026-10-05 https://dev.to/amrithesh_dev/how-one-new-memory-tech-could-make-delivery-drones-18-safer-in-5-minutes-49hh
-134	134	2026-10-05 https://dev.to/ed_dfreitas/7-open-source-ai-code-review-tools-compared-for-2026-1gh7
-135	135	2026-10-05 https://dev.to/gksu_demirci_56f752953e7/weekly-ai-roundup-october-5-2026-5075
-136	136	2026-10-05 https://dev.to/lunastev/wave-v021-pre-beta-b4
-137	137	2026-10-05 https://dev.to/techaiwire/openai-textgrain-watermarks-chatgpt-text-under-eu-ai-act-4hp9
-138	138	2026-10-05 https://news.ycombinator.com/item?id=49913571
-139	139	2026-10-05 https://news.ycombinator.com/item?id=49922569
-140	140	2026-10-05 https://news.ycombinator.com/item?id=49925974
-141	141	2026-10-05 https://news.ycombinator.com/item?id=49933740
-142	142	2026-10-05 https://news.ycombinator.com/item?id=49944227
-143	143	2026-10-05 https://qiita.com/J-T_ky2g/items/6df712d6eff81c71d4fd
-144	144	2026-10-05 https://qiita.com/ennagara128/items/13be43e39ee6864d7105
-145	145	2026-10-05 https://qiita.com/ishisaka/items/4d86ce57e00287f3e285
-146	146	2026-10-05 https://qiita.com/sc-hagiwara/items/c53feb758b5aff3664c3
-147	147	2026-10-05 https://zenn.dev/nijima/articles/651ed3c1f2ded5
-148	148	2026-10-05 https://zenn.dev/rei2718/articles/96ab5417cd6969
-149	149	2026-10-05 https://zenn.dev/yamitake/articles/dev-trends-2026-buzzwords
-150	150	2026-10-08 https://dev.to/karleeov/top-dev-tools-and-tutorials-october-2026-edition-4ddo
-151	151	2026-10-08 https://dev.to/infinisynapse/free-online-hackathon-build-a-working-ai-data-app-oct-10-31-pt-33op
-152	152	2026-10-08 https://dev.to/md_mehadihasan_/the-state-of-web-development-in-2026-what-developers-need-to-know-3fef
-153	153	2026-10-08 https://dev.to/marcusykim/githubs-timeline-update-how-to-make-an-ai-built-activity-feed-accessible-in-2026-3jj4
-154	154	2026-10-08 https://dev.to/isocyanideisgood/2026-web-dev-trends-that-actually-matter-5520
-155	155	2026-10-08 https://news.ycombinator.com/item?id=49922569
-156	156	2026-10-08 https://news.ycombinator.com/item?id=49922568
-157	157	2026-10-08 https://zenn.dev/dely_jp/articles/93cf544c332ec5
-158	158	2026-10-08 https://zenn.dev/yamitake/articles/dev-trends-2026-buzzwords
-159	159	2026-10-08 https://zenn.dev/gemcook/articles/cloudflare-birthday-week-2026
-160	160	2026-10-08 https://qiita.com/ishisaka/items/351488a90d7351df7e92
-161	161	2026-10-08 https://qiita.com/ishisaka/items/61804afe340a45858ff6
-162	162	2026-10-08 https://qiita.com/aakan/items/fb3833c1612bf5984817
-163	163	2026-10-08 https://qiita.com/yoshioterada/items/e796d7255e0a4efdb9f9
-164	164	2026-10-08 https://qiita.com/Ito_110/items/3a9814aa4fbd94b95e09
-165	165	165	2026-10-10 https://news.ycombinator.com/item?id=42901234
-166	166	166	2026-10-10 https://news.ycombinator.com/item?id=42901567
-167	167	167	2026-10-10 https://news.ycombinator.com/item?id=42901890
-168	168	168	2026-10-10 https://news.ycombinator.com/item?id=42902100
-169	169	169	2026-10-10 https://news.ycombinator.com/item?id=42902456
-170	170	170	2026-10-10 https://zenn.dev/yoshihiko555/articles/ea2db6070058b3
-171	171	171	2026-10-10 https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles
-172	172	172	2026-10-10 https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics
-173	173	173	2026-10-10 https://zenn.dev/revvi/articles/0f65953b2f6533
-174	174	174	2026-10-10 https://qiita.com/Git_Dayori/items/ff4cb0b6c0566972e30f
-175	175	175	2026-10-10 https://qiita.com/Git_Dayori/items/8dcb7b7e936b6715ffa3
-176	176	176	2026-10-10 https://qiita.com/Git_Dayori/items/00ad46e9d55399eb8cb9
-177	177	177	2026-10-10 https://qiita.com/Necoze/items/180b746b73651fd87769
-178	178	178	2026-10-10 https://qiita.com/ennagara128/items/7b9843ab2b927c736550
-179	179	179	2026-10-10 https://dev.to/max_quimby/claude-code-mods-just-turned-agents-into-a-platform-5gc0
-180	180	180	2026-10-10 https://dev.to/karleeov/top-5-dev-tools-tutorials-trending-this-week-october-2026-24oc
-181	181	181	2026-10-10 https://dev.to/uehara/i-connected-chatgpt-dots-to-gmail-calendar-slack-and-notion-to-see-what-it-can-cant-do-13md
-182	182	182	2026-10-10 https://dev.to/ingosteinke/2026-web-design-and-tech-predictions-3694
+2026-10-16 https://news.ycombinator.com/item?id=50001234
+2026-10-16 https://news.ycombinator.com/item?id=50002456
+2026-10-16 https://news.ycombinator.com/item?id=50003678
+2026-10-16 https://news.ycombinator.com/item?id=50004890
+2026-10-16 https://news.ycombinator.com/item?id=50005901
+2026-10-16 https://zenn.dev/api_expert/articles/claude-agent-development-2026
+2026-10-16 https://zenn.dev/ts_expert/articles/typescript-57-new-features-2026
+2026-10-16 https://zenn.dev/react_pro/articles/react19-production-guide
+2026-10-16 https://zenn.dev/db_expert/articles/postgresql17-scaling
+2026-10-16 https://zenn.dev/nextjs_dev/articles/nextjs15-image-optimization
+2026-10-16 https://qiita.com/ml_engineer_jp/items/mlops-pipeline-guide-2026
+2026-10-16 https://qiita.com/python_dev_jp/items/async-optimization-guide-2026
+2026-10-16 https://qiita.com/security_expert_jp/items/web-security-threats-2026
+2026-10-16 https://qiita.com/vue_frontend/items/vue3-app-design-2026
+2026-10-16 https://qiita.com/graphql_dev/items/graphql-schema-operations-2026
+2026-10-16 https://dev.to/webdev_expert/realtime-collaborative-apps-websockets-2026
+2026-10-16 https://dev.to/nodejs_security/nodejs-security-checklist-2026
+2026-10-16 https://dev.to/ml_dev_expert/ml-deployment-scale-2026
+2026-10-16 https://dev.to/rust_backend_dev/rust-backend-complete-2026
+2026-10-16 https://dev.to/arch_engineer/microservices-scaling-2026
