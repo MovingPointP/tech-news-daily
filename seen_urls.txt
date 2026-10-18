@@ -70,3 +70,7 @@
 2026-10-16 https://dev.to/ml_dev_expert/ml-deployment-scale-2026
 2026-10-16 https://dev.to/rust_backend_dev/rust-backend-complete-2026
 2026-10-16 https://dev.to/arch_engineer/microservices-scaling-2026
+2026-10-18 https://news.ycombinator.com/item?id=50084521
+2026-10-18 https://zenn.dev/react_pro/articles/react19-production-best-practices-2026
+2026-10-18 https://qiita.com/ts_expert/items/typescript-57-improvements-2026
+2026-10-18 https://dev.to/nodejs_security/nodejs-security-vulnerabilities-2026-october
