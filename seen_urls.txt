@@ -178,3 +178,9 @@
 2026-10-27 https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd
 2026-10-27 https://qiita.com/mkuwan/items/0d1eef280fdc1b61f2dd
 2026-10-27 https://qiita.com/kai_kou/items/debd8b05019aa41920f9
+2026-10-27 https://dev.to/praveensingh/on-device-ai-in-react-native-late-2026-one-ai-sdk-call-two-engines-measured-5455
+2026-10-27 https://dev.to/fabwaseem/nextjs-security-update-october-2026-patch-the-use-cache-rce-svg-sharp-rce-and-server-actions-dos-5777
+2026-10-27 https://news.ycombinator.com/item?id=50233779
+2026-10-27 https://news.ycombinator.com/item?id=50227356
+2026-10-27 https://news.ycombinator.com/item?id=50223647
+2026-10-27 https://news.ycombinator.com/item?id=49927188
