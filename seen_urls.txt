@@ -173,3 +173,8 @@
 2026-10-26 https://dev.to/devops_leader/terraform-state-management-2026-5h3j
 2026-10-26 https://dev.to/mobile_expert/flutter-performance-optimization-2026-6k8p
 2026-10-26 https://dev.to/cloud_architect/multi_cloud_strategy_2026_3j9k
+2026-10-27 https://qiita.com/ishisaka/items/d37feecea12afb959eaf
+2026-10-27 https://zenn.dev/stockrules_jp/articles/6901a969f8f086
+2026-10-27 https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd
+2026-10-27 https://qiita.com/mkuwan/items/0d1eef280fdc1b61f2dd
+2026-10-27 https://qiita.com/kai_kou/items/debd8b05019aa41920f9
