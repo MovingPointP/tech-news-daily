@@ -185,3 +185,4 @@
 2026-10-27 https://news.ycombinator.com/item?id=50223647
 2026-10-27 https://news.ycombinator.com/item?id=49927188
 2026-10-29 [FAILED] Network restrictions prevented article collection - APIs blocked
+2026-10-30 [FAILED] Network restrictions prevented article collection - APIs blocked
