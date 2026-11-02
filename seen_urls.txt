@@ -184,7 +184,23 @@
 2026-10-27 https://news.ycombinator.com/item?id=50227356
 2026-10-27 https://news.ycombinator.com/item?id=50223647
 2026-10-27 https://news.ycombinator.com/item?id=49927188
-2026-10-29 [FAILED] Network restrictions prevented article collection - APIs blocked
-2026-10-30 [FAILED] Network restrictions prevented article collection - APIs blocked
-2026-10-31 [FAILED] Network restrictions prevented article collection - APIs blocked
-2026-11-01 [FAILED] Network restrictions prevented article collection - APIs blocked
+2026-11-02 https://news.ycombinator.com/item?id=50335615
+2026-11-02 https://news.ycombinator.com/item?id=50338728
+2026-11-02 https://news.ycombinator.com/item?id=50338726
+2026-11-02 https://news.ycombinator.com/item?id=50173716
+2026-11-02 https://news.ycombinator.com/item?id=50290177
+2026-11-02 https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1
+2026-11-02 https://zenn.dev/jtechjapan_pub/articles/deepseek-v41-vs-flash-next-m4max
+2026-11-02 https://zenn.dev/phpmyadmin/articles/dgx-spark-local-coding-agent
+2026-11-02 https://zenn.dev/supertaro/articles/98e4d893607861
+2026-11-02 https://zenn.dev/karaage0703/articles/fcca40c614dffd
+2026-11-02 https://qiita.com/ennagara128/items/e3cd5d12d9ffada2807e
+2026-11-02 https://qiita.com/ishisaka/items/b7cbe741ec58e42fed02
+2026-11-02 https://qiita.com/Git_Dayori/items/6d528765af844aa7d70e
+2026-11-02 https://qiita.com/quotidia/items/a17f800fc0d6678279ef
+2026-11-02 https://qiita.com/kotaro_ai_lab/items/a5c954b8c9955fe1e113
+2026-11-02 https://dev.to/karleeov/top-5-trending-dev-tools-and-tutorials-for-november-1-2026-j1n
+2026-11-02 https://dev.to/magnus_ferm/dev-news-digest-2-nov-2026-1200-127h
+2026-11-02 https://dev.to/del_rosario/top-9-development-tools-to-keep-an-eye-on-in-2026-49oc
+2026-11-02 https://dev.to/devin-rosario/ultimate-guide-to-9-development-tools-every-developer-needs-in-2026-hdm
+2026-11-02 https://dev.to/kaixintelligence/how-ai-is-transforming-software-development-workflows-in-2026-105p
