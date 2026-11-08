@@ -1,20 +1,26 @@
-249	2026-11-06	https://news.ycombinator.com/item?id=50405001
-250	2026-11-06	https://news.ycombinator.com/item?id=50405002
-251	2026-11-06	https://news.ycombinator.com/item?id=50405003
-252	2026-11-06	https://news.ycombinator.com/item?id=50405004
-253	2026-11-06	https://news.ycombinator.com/item?id=50405005
-254	2026-11-06	https://qiita.com/ennagara128/items/f20ec4b1f63037568468
-255	2026-11-06	https://qiita.com/Ito_110/items/ff73b400baf30b73f35d
-256	2026-11-06	https://qiita.com/sharu389no/items/187c41b1b2e707ac442e
-257	2026-11-06	https://qiita.com/ishisaka/items/8b2a5246b9a8f3ba0826
-258	2026-11-06	https://qiita.com/pitopito/items/fe84c8869f47537d2ed2
-259	2026-11-06	https://zenn.dev/northward/articles/decline-of-tech-blogs
-260	2026-11-06	https://zenn.dev/northward/articles/zenn-data-analysis-2026
-261	2026-11-06	https://zenn.dev/7788/articles/af11fbce6c3379
-262	2026-11-06	https://zenn.dev/team_zenn/articles/production-ai-workload-cost-reduction
-263	2026-11-06	https://zenn.dev/claude_expert/articles/claude-api-updates-oct-2026
-264	2026-11-06	https://dev.to/mrsajib/claude-code-security-what-every-developer-gets-wrong-43ne
-265	2026-11-06	https://dev.to/thebrierfox/production-agent-security-hardening-9-controls-most-claude-code-setups-are-missing-4llh
-266	2026-11-06	https://dev.to/sahil_kat/hardening-claude-code-in-github-actions-after-the-cvss-94-cve-3id5
-267	2026-11-06	https://dev.to/karleeov/top-5-trending-dev-tools-and-tutorials-for-november-1-2026-j1n
-268	2026-11-06	https://dev.to/magnus_ferm/dev-news-digest-5-nov-2026-0600-11e5
+1	249	2026-11-06	https://news.ycombinator.com/item?id=50405001
+2	250	2026-11-06	https://news.ycombinator.com/item?id=50405002
+3	251	2026-11-06	https://news.ycombinator.com/item?id=50405003
+4	252	2026-11-06	https://news.ycombinator.com/item?id=50405004
+5	253	2026-11-06	https://news.ycombinator.com/item?id=50405005
+6	254	2026-11-06	https://qiita.com/ennagara128/items/f20ec4b1f63037568468
+7	255	2026-11-06	https://qiita.com/Ito_110/items/ff73b400baf30b73f35d
+8	256	2026-11-06	https://qiita.com/sharu389no/items/187c41b1b2e707ac442e
+9	257	2026-11-06	https://qiita.com/ishisaka/items/8b2a5246b9a8f3ba0826
+10	258	2026-11-06	https://qiita.com/pitopito/items/fe84c8869f47537d2ed2
+11	259	2026-11-06	https://zenn.dev/northward/articles/decline-of-tech-blogs
+12	260	2026-11-06	https://zenn.dev/northward/articles/zenn-data-analysis-2026
+13	261	2026-11-06	https://zenn.dev/7788/articles/af11fbce6c3379
+14	262	2026-11-06	https://zenn.dev/team_zenn/articles/production-ai-workload-cost-reduction
+15	263	2026-11-06	https://zenn.dev/claude_expert/articles/claude-api-updates-oct-2026
+16	264	2026-11-06	https://dev.to/mrsajib/claude-code-security-what-every-developer-gets-wrong-43ne
+17	265	2026-11-06	https://dev.to/thebrierfox/production-agent-security-hardening-9-controls-most-claude-code-setups-are-missing-4llh
+18	266	2026-11-06	https://dev.to/sahil_kat/hardening-claude-code-in-github-actions-after-the-cvss-94-cve-3id5
+19	267	2026-11-06	https://dev.to/karleeov/top-5-trending-dev-tools-and-tutorials-for-november-1-2026-j1n
+20	268	2026-11-06	https://dev.to/magnus_ferm/dev-news-digest-5-nov-2026-0600-11e5
+21	269	2026-11-08	https://dev.to/jpeggdev/the-ai-revolution-in-2026-top-trends-every-developer-should-know-18eb
+22	270	2026-11-08	https://dev.to/mysterious_xuanwu_5a00815/ai-coding-assistants-in-2026-from-hype-to-daily-reality-3327
+23	271	2026-11-08	https://dev.to/stack_overflowed/12-best-ai-tools-for-software-developers-in-2026-to-code-faster-and-learn-smarter-10hf
+24	272	2026-11-08	https://dev.to/davekurian/claude-codes-security-risks-involve-local-configs-mcp-and-repo-hooks-vulnerabilities-5075
+25	273	2026-11-08	https://www.softwareseni.com/understanding-ai-agent-sandboxing-why-production-deployment-remains-unsolved-in-2026/
+26	274	2026-11-08	https://blog.mean.ceo/latest-ai-developments-news-november-2026/
