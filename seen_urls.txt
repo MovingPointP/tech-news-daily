@@ -30,3 +30,23 @@
 30	278	2026-11-09	https://blog.premai.io/enterprise-ai-security-12-best-practices-for-deploying-llms-in-production/
 31	279	2026-11-09	https://www.inizioevoke.com/latest/article/from-prototype-to-production-key-takeaways-from-langchain-interrupt-2026
 32	280	2026-11-09	https://precisionaiacademy.pages.dev/blog/github-actions-cicd-guide-2026
+2026-11-11	https://news.ycombinator.com/item?id=46205632
+2026-11-11	https://news.ycombinator.com/item?id=50405004
+2026-11-11	https://news.ycombinator.com/item?id=50405005
+2026-11-11	https://news.ycombinator.com/item?id=50405001
+2026-11-11	https://news.ycombinator.com/item?id=50405002
+2026-11-11	https://zenn.dev/tetsurou/articles/cve-2026-123158-openssh-sshhole
+2026-11-11	https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection
+2026-11-11	https://zenn.dev/gemcook/articles/766bd2ce60975d
+2026-11-11	https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest
+2026-11-11	https://zenn.dev/collabostyle/articles/858875b235cdd6
+2026-11-11	https://qiita.com/ennagara128/items/16da3f3418ad1d1f3daa
+2026-11-11	https://qiita.com/ishisaka/items/3085ac10e9029595c843
+2026-11-11	https://qiita.com/Git_Dayori/items/8dab47988bf991a7554c
+2026-11-11	https://qiita.com/aakan/items/d5a9b06101b38ca3599f
+2026-11-11	https://qiita.com/infrastructure-team/items/claude-code-dev-env
+2026-11-11	https://dev.to/magnus_ferm/dev-news-digest-11-nov-2026-0600-2ag7
+2026-11-11	https://dev.to/aheadkit/55-articles-40-reactions-what-11-days-of-posting-on-devto-actually-taught-me-27gi
+2026-11-11	https://dev.to/hacktoberfest-community/hacktoberfest-2026-wrap-up
+2026-11-11	https://dev.to/javascript-daily/understanding-curly-braces-array-coercion
+2026-11-11	https://dev.to/visual-dev/fibonacci-spiral-interactive-visualization-art-code
