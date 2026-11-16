@@ -57,3 +57,7 @@
 2026-11-14	https://dev.to/alex_fullstack/graphql-vs-rest-2026-4kcl
 2026-11-14	https://dev.to/luna_frontend/svelte5-reactive-2026-3pms
 2026-11-14	https://dev.to/tom_backend/event-driven-architecture-6j9d
+2026-11-16	https://www.itpro.com/software/development/claude-code-flaws-left-ai-tool-wide-open-to-hackers-heres-what-developers-need-know
+2026-11-16	https://currentstack.pages.dev/ja/contributors/sarah-kim/
+2026-11-16	https://ainews.washinmura.jp/ainews/en/article/a-tm-co-jp/2026-04-23-qiita-announces-latest-tech-trend-analys
+2026-11-16	https://dev.to/hugo_o137/deploy-ai-agents-in-production-the-practical-2026-guide-2p7h
