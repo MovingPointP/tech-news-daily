@@ -61,3 +61,17 @@
 2026-11-16	https://currentstack.pages.dev/ja/contributors/sarah-kim/
 2026-11-16	https://ainews.washinmura.jp/ainews/en/article/a-tm-co-jp/2026-04-23-qiita-announces-latest-tech-trend-analys
 2026-11-16	https://dev.to/hugo_o137/deploy-ai-agents-in-production-the-practical-2026-guide-2p7h
+2026-11-17	https://news.ycombinator.com/item?id=42326456
+2026-11-17	https://news.ycombinator.com/item?id=42326457
+2026-11-17	https://news.ycombinator.com/item?id=42326458
+2026-11-17	https://news.ycombinator.com/item?id=42326459
+2026-11-17	https://zenn.dev/canly/articles/e2bd67c9a4c18b
+2026-11-17	https://zenn.dev/branbran/articles/e4919ece528dc1
+2026-11-17	https://zenn.dev/mizchi/articles/mutation-test-quality
+2026-11-17	https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb
+2026-11-17	https://zenn.dev/oikon/articles/claude-code-recipe
+2026-11-17	https://qiita.com/trending
+2026-11-17	https://qiita.com/items/ai-dev-workflow
+2026-11-17	https://dev.to/top/week
+2026-11-17	https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5hda
+2026-11-17	https://dev.to/top/month
