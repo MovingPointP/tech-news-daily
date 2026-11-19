@@ -75,3 +75,11 @@
 2026-11-17	https://dev.to/top/week
 2026-11-17	https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5hda
 2026-11-17	https://dev.to/top/month
+2026-11-19	https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/
+2026-11-19	https://cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html
+2026-11-19	https://claude-world.com/articles/claude-code-november-2026-whats-new/
+2026-11-19	https://mlflow.org/articles/building-production-ready-ai-agents-in-2026
+2026-11-19	https://medium.com/@contact.noukha/ai-agent-development-in-2026-use-cases-architecture-tools-and-deployment-guide-b7b45f23848d
+2026-11-19	https://dev.to/johalputt/how-to-write-2026-ready-code-with-typescript-56-and-react-19-best-practices-288m
+2026-11-19	https://www.telerik.com/blogs/react-design-patterns-best-practices
+2026-11-19	https://dev.to/elysiumquill/real-world-ai-agent-deployments-lessons-from-50-production-systems-in-2026-28hk
