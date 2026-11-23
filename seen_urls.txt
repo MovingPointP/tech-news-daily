@@ -123,3 +123,7 @@
 2026-11-22	https://dev.to/typescript/typesafe-rest-api-with-typescript
 2026-11-22	https://dev.to/mlops/ml-production-2026-trends
 2026-11-22	https://dev.to/performance/web-perf-optimization-2026
+2026-11-23	https://news.ycombinator.com/newest
+2026-11-23	https://dev.to/vikrant_bagal_afae3e25ca7/react-19-server-components-production-patterns-for-high-performance-apps-in-2026-3278
+2026-11-23	https://dev.to/solutelabs/how-to-deploy-ai-agents-in-production-architecture-failures-best-practices-4h22
+2026-11-23	https://dev.to/vikrant_bagal_afae3e25ca7/typescript-70-beta-the-10x-faster-revolution-built-on-go-370f
