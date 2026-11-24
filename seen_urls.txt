@@ -127,3 +127,15 @@
 2026-11-23	https://dev.to/vikrant_bagal_afae3e25ca7/react-19-server-components-production-patterns-for-high-performance-apps-in-2026-3278
 2026-11-23	https://dev.to/solutelabs/how-to-deploy-ai-agents-in-production-architecture-failures-best-practices-4h22
 2026-11-23	https://dev.to/vikrant_bagal_afae3e25ca7/typescript-70-beta-the-10x-faster-revolution-built-on-go-370f
+2026-11-24	https://news.ycombinator.com/item?id=50338728
+2026-11-24	https://news.ycombinator.com/item?id=50328340
+2026-11-24	https://news.ycombinator.com/item?id=50338726
+2026-11-24	https://infoq.com/news/2026/08/typescript-7-released/
+2026-11-24	https://dev.to/mathionix_technologies/top-10-web-development-trends-to-watch-in-2026-1a10
+2026-11-24	https://dev.to/vishal_porwal_e0389856c35/enterprise-application-development-in-2026-why-architecture-matters-more-than-ever-2m7f
+2026-11-24	https://www.syncfusion.com/blogs/post/typescript-7-upgrade-guide
+2026-11-24	https://zenml.io/blog/llmops-in-production-another-419-case-studies-of-what-actually-works
+2026-11-24	https://dev.to/akaranjkar08/react-19-server-components-7-data-fetching-patterns-that-replace-useeffect-44dc
+2026-11-24	https://thenewstack.io/enterprise-ai-agent-adoption/?p=22822669
+2026-11-24	https://dev.to/umesh_malik/react-server-components-in-2026-the-mental-model-the-use-client-boundary-when-not-to-use-them-1l8j
+2026-11-24	https://dev.to/agdex_ai/ai-agents-from-pilot-to-production-in-2026-3olb
