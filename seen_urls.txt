@@ -139,3 +139,6 @@
 2026-11-24	https://thenewstack.io/enterprise-ai-agent-adoption/?p=22822669
 2026-11-24	https://dev.to/umesh_malik/react-server-components-in-2026-the-mental-model-the-use-client-boundary-when-not-to-use-them-1l8j
 2026-11-24	https://dev.to/agdex_ai/ai-agents-from-pilot-to-production-in-2026-3olb
+2026-11-25	https://dev.to/akaranjkar08/i-built-9-production-ai-agents-with-claude-code-here-is-the-complete-workflow-2j3d
+2026-11-25	https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/
+2026-11-25	https://dev.to/vikrant_bagal_afae3e25ca7/webassembly-30-with-net-the-future-of-high-performance-web-apps-in-2026-3mg7
